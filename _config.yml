@@ -1,0 +1,17 @@
+# Site settings
+title: Matematichevole
+email: riccardo.giannitrapani@liceomarinelli.it
+description: > # this means to ignore newlines until "baseurl:"
+       "Su ciò di cui non si può parlare, si deve tacere."
+       
+       L.Wittgenstein
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://orporick.bitbucket.com" # the base hostname & protocol for your site
+twitter_username: orporick
+gplus_username: RiccardoGiannitrapani
+github_username:  orporick
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
