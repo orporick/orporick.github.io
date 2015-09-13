@@ -21,7 +21,7 @@ qui anche un piccolo blog di idee ed appunti sfusi sull'insegnamento,
 la matematica e la fisica.
 
 Ogni commento è gradito (potete usare i riferimenti a fondo pagina per
-contattarmi).
+contattarmi)
 
 $$ e^{i\pi} + 1 = 0 $$
 
