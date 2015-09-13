@@ -1,0 +1,12 @@
+---
+layout: post
+title: Integrale per la 5G
+date: '2015-04-11T13:27:00.001-07:00'
+author: Riccardo Giannitrapani
+tags: [matematica, imperfezioni]
+modified_time: '2015-04-11T13:29:03.524-07:00'
+blogger_id: tag:blogger.com,1999:blog-7996288086554215512.post-1446173947788333250
+blogger_orig_url: http://lafieradelleimperfezioni.blogspot.com/2015/04/integrale-per-la-5g.html
+---
+
+Rispondo solo ora ad una domanda di uno studente di quinta, in classe<br />ho tergiversato e quindi fornisco qui la soluzione. L'integrale è il seguente<br /><br />$$ \int \frac{1}{(x^2+1)^\frac{3}{2}} {\rm d} x$$<br /><br />L'idea giusta è quella proposta da Micossi in classe, ovvero<br />effettuare una sostituzione goniometrica<br /><br />$$ x = \tan(t) $$<br /><br />da cui, per le regole di differenziazione<br /><br />$$ {\rm d} x = \frac{1}{\cos^2(t)}{\rm d} t$$<br /><br />(ricordo che la derivata di $\tan(x)$ è $\frac{1}{\cos^2(x)}$).<br /><br />Ricordando che<br /><br />$$ \tan(t) = \frac{\sin(t)}{\cos(t)} $$<br /><br />e quindi<br /><br />$$ \tan^2(t) + 1 = \frac{\sin^2(t)}{\cos^2(t)} + 1 = \frac{\sin^2(t) +<br />\cos^2(t)}{\cos^2(t)} = \frac{1}{\cos^2(t)}$$<br /><br />(l'ultimo passaggio per la relazione fondamentale della goniometria)<br /><br />sostituendo nell'integrale si ottiene<br /><br />$$ \int \cos(t) {\rm d} t $$<br /><br />che è un'integrale immediato, ovvero<br /><br />$$ \sin(t) + c $$.<br /><br />Infine otteniamo<br /><br />$$ \sin(\tan^{-1}(x)) + c $$.<br /><br />A dire il vero questo risultato lo abbiamo ottenuto velocemente anche<br />in classe, ma poi non tornava con il risultato del libro ed abbiamo<br />lasciato perdere. In realtà è abbastanza semplice esprimere il<br />risultato in termini algebrici non goniometrici. Si prenda infatti un<br />triangolo rettangolo con cateti $1$, $x$ e, di conseguenza, con<br />ipotenusa $\sqrt{x^2 + 1}$, e sia $\theta$ l'angolo opposto al cateto<br />lungo $x$. Per noti teoremi di trigonometria, si ha che<br /><br />$$ x = \tan(\theta)$$<br /><br />ovvero<br /><br />$$ \theta = \tan^{-1}(x)$$.<br /><br />Inoltre, sempre per la trigonometria, si ha che<br /><br />$$ x = \sqrt{x^2 + 1} \sin(\theta)$$<br /><br />ovvero<br /><br />$$ \sin(\theta) = \sin(\tan^{-1}(x)) = \frac{x}{\sqrt{x^2 + 1}} $$<br /><br />Mettendo insieme questi risultati abbiamo il risultato finale<br /><br />$$ \int \frac{1}{(x^2+1)^\frac{3}{2}} {\rm d} x = \frac{x}{\sqrt{x^2 +<br />1}} $$<br /><br />Chiudo scusandomi per non averlo risolto in questo modo in classe, era<br />abbastanza semplice.<br /><br /><div><br /></div>
