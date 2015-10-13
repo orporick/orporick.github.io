@@ -20,19 +20,21 @@ ore di un orologio sono sovrapposte (eclisse); in quali altri momenti
 La maggior parte dei ragazzi e delle ragazze senza pensarci su
 risponde qualcosa del tipo "All'una e cinque", senza pensare che
 quando la lancetta dei minuti è sul cinque quella delle ore non puó
-essere sul cinque (ovvero l'una) in quanto sono passati cinque minuti
-dal momento in cui c'era.
+essere esattamente sul cinque (ovvero l'una), ma deve trovarsi un po'
+oltre in quanto sono passati cinque minuti dal momento in cui c'era.
 
 Esistono molti modi di rispondere, te ne propongo tre.
 
 # Per simmetria
 
-Per simmetria le eclissi sono distanziate dal medesimo intervallo di
-tempo. Si prenda per esempio la prima eclisse dopo mezzogiorno, si
-troverá poco dopo l'una e cinque. Se ora si ruota l'orologio in modo
-da portare le due lancette sovrapposte verticali, si torna alla
-situazione che si aveva a mezzogiorno. Dunque la seconda eclisse dopo
-mezzogiorno si trova dopo un'intervallo uguale dalla prima. Siccome la
+Dimostriamo per simmetria che le eclissi sono distanziate dal medesimo
+intervallo di tempo. Si prenda per esempio la prima eclisse dopo
+mezzogiorno, si troverá poco dopo l'una e cinque. Se ora si ruota
+l'intero orologio in modo da far sì che le due lancette sovrapposte
+risultino verticali, si torna ad una situazione equivalente a quella
+che si aveva a mezzogiorno. Dunque la successiva eclisse, la seconda
+eclisse dopo mezzogiorno, avverà dopo un'intervallo uguale a quello
+che separa la prima eclisse da mezzogiorno, e così via. Siccome la
 prima eclisse avviene dopo più di un'ora, e dopo meno di due, le
 eclissi devono essere 11 (non possono essere 12 perché se no se ne
 avrebbe una ogni ora, e abbiamo visto che questo non succede)
