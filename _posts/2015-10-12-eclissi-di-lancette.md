@@ -7,7 +7,7 @@ tags: [matematica, lettera]
 Cara Bianca
 
 l'ultima volta che ci siamo visti mi hai chiesto del problema
-dell'orologio, cerco di risponderti brevemente qui. È un problema
+dell'orologio, cerco di risponderti brevemente qui[^1]. È un problema
 classico che propongo da anni nelle classi dove faccio supplenza, con
 risultati abbastanza minimali (ovvero nessuno di solito mi sa dare la
 soluzione). Non è un problema difficile, anzi, ma richiede di pensare
@@ -108,3 +108,7 @@ posizionano come le radici undicesime di $i$ (unità immaginaria).
 
 
 Spero di sentire presto tue notizie. Saluti, prof.
+
+
+[^1]: Ringrazio il collega Sangoi per alcuni preziosi suggerimenti nel
+    ripensare al problema.
