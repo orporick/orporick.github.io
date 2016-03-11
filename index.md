@@ -20,7 +20,6 @@ generale tutto ciò che attiene al mio ruolo di insegnante. Raccolgo
 qui anche un piccolo blog di idee ed appunti sfusi sull'insegnamento,
 la matematica e la fisica, errori ed orrori.
 
-
 Ogni commento è gradito (potete usare i riferimenti a fondo pagina per
 contattarmi)
 
