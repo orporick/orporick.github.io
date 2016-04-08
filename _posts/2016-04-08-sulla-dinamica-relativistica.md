@@ -20,7 +20,7 @@ cinematica relativistica ed abbiamo trovato vari risultati, tra cui
 Stamattina abbiamo visto che discutendo un po' su questi due punti si
 arriva alla conclusione che anche la dinamica relativistica deve
 essere leggermente modificata. In particolare vi ho fatto vedere
-(senza dimostrazione peró, sto meditando di proporvene una se ci sarà
+(senza dimostrazione però, sto meditando di proporvene una se ci sarà
 tempo più avanti) che la definizione di quantità di moto va
 rivista. In relatività la definiamo come
 
@@ -40,7 +40,7 @@ La definizione data è quasi uguale a quella classica
 
 $$ p = m \frac{d x}{d t}$$
 
-solo che la derivata la si fa rispetto al tempo misurato dal corpo e
+solo che la derivata è rispetto al tempo misurato dal corpo e
 non dall'osservatore. Siccome abbiamo visto nelle lezioni precedenti
 che
 
