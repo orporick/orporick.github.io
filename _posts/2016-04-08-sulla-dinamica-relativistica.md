@@ -57,7 +57,7 @@ $$ p = \frac{mv}{\sqrt{1-v^2}} $$
 con $v$ la velocità del corpo misurata dall'osservatore.
 
 Dalla formula si vede che $p$ dipende dalla velocità in modo diverso
-dal caso classico $p = mv$. Dunque la quantità di moto è una grandezza
+dal caso classico $p = mv$. In ogni caso la quantità di moto è una grandezza
 che dipende dal sistema di riferimento inerziale. Per esempio in
 quello di quiete della particella, $v = 0$, la quantità di moto è
 nulla. Con questa definizione si può dimostrare che il principio di
@@ -71,7 +71,7 @@ ovvero, usando il risultato di prima sulla dilatazione temporale,
 
 $$ E = \frac{m}{\sqrt{1-v^2}} $$
 
-L'interessa per questa grandezza viene dal fatto che è semplice
+L'interesse per questa grandezza viene dal fatto che è semplice
 mostrare algebricamente che $E^2 - p^2$ non dipende dal riferimento
 inerziale scelto; infatti si vede subito che
 
