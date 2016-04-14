@@ -75,14 +75,14 @@ il campo è lo stesso come modulo, direzione e verso) e considerata una
 superficie piana di area $S$ perpendicolare alla direzione del campo,
 definiamo il flusso del campo attraverso la superficie come
 
-$$ \Phi_S({\bf V}) = S {\bf V} $$
+$$ \Phi_S({\bf V}) = S V $$
 
 Molto semplice. Se la superficie piana è parallela al campo il flusso
 invece viene definito come nullo. E nei casi intermedi? Sia $\theta$
 l'angolo che la normale alla superficie fa con la direzione positiva
 del campo, allora il flusso è dato da
 
-$$ \Phi_S({\bf V}) = S {\bf V} \cos(\theta) $$
+$$ \Phi_S({\bf V}) = S V \cos(\theta) $$
 
 Come vedi con $\theta = 0$ e $\theta = 90^\circ$ si riottengono i due
 casi particolari. C'è un piccolo dettaglio: devo decidere
