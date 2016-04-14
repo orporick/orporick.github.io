@@ -77,7 +77,8 @@ definiamo il flusso del campo attraverso la superficie come
 
 $$ \Phi_S({\bf V}) = S V $$
 
-Molto semplice. Se la superficie piana è parallela al campo il flusso
+(quando scrivo il vettore non in grassetto intendo indicare il suo
+modulo). Molto semplice. Se la superficie piana è parallela al campo il flusso
 invece viene definito come nullo. E nei casi intermedi? Sia $\theta$
 l'angolo che la normale alla superficie fa con la direzione positiva
 del campo, allora il flusso è dato da
