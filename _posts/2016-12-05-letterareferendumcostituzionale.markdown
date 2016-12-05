@@ -27,7 +27,7 @@ proporvi in classe. L'idea è grosso modo la seguente
    premessa che gli irrazionali siano numerabili è sbagliata.
 
 Ecco, questo volevo dirvi. Questo piccolo risultato l'ho sempre trovato poeticamente interessante,
-gli irrazionali che a prima vista sembrano dei casi eccezionali all'interno di $\mathbb{Q}$ sono in
+gli irrazionali che a prima vista sembrano dei casi eccezionali all'interno di $\mathbb{R}$ sono in
 realtà molti di più di quanto si immagini. Il discorso potrebbe ulteriormente articolarsi, ma
 porterebbe lontano ed ho già abusato abbastanza della vostra pazienza.
 
