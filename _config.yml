@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
        
        L.Wittgenstein
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://orporick.bitbucket.com" # the base hostname & protocol for your site
+url: "http://orporick.github.io" # the base hostname & protocol for your site
 twitter_username: orporick
 gplus_username: RiccardoGiannitrapani
 github_username:  orporick
