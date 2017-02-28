@@ -130,7 +130,7 @@ Trappist-1. Il discorso di massima è più o meno questo: durante le fasi inizia
 solare la nube in rotazione intorno alla stella da cui si formeranno i pianeti ha un profilo di
 temperatura (la dipendenza della temperatura dalla distanza dal centro) che caratterizza in modo
 fondamentale la formazione planetaria. In particolare per la formazione di pianeti rocciosi (come
-quelli di Trappist-1) la temperatura deve essere superriore ad una certa soglia, la cosiddetta
+quelli di Trappist-1) la temperatura deve essere superiore ad una certa soglia, la cosiddetta
 frost line (il perché è un argomento interessante, ma esula dallo scopo di questa lettera).
 
 La frost line (linea di congelamento) è relativa alla nube stellare da cui si
@@ -178,7 +178,7 @@ $$
 	 4 \pi r^2 \sigma T_c^4	
 $$
 
-Ugualgiando l'energia emessa e quella ricevuta si ottiene l'espressione per
+Uguagliando l'energia emessa e quella ricevuta si ottiene l'espressione per
 $T_c$, ovvero
 
 $$
@@ -194,7 +194,7 @@ $$
 	d = \frac{T^2 R}{2T_c^2} 	
 $$	
 
-La frost line si torva ad una temperatura $T_c$ ben determinata e dalla relazione ora trovata
+La frost line si trova ad una temperatura $T_c$ ben determinata e dalla relazione ora trovata
 possiamo determinare la distanza di tale linea dalla stella. Usando i dati del Sole si ottiene una
 frost line a circa $2 AU$, una distanza compresa tra l'orbita di Marte e quella di Giove. Il
 risultato è sensato, all'interno della frost line si trovano i quattro pianeti rocciosi del sistema
@@ -205,8 +205,10 @@ temperatura superficiale minore, la posizione della frost line è più interna r
 quanto? Il rapporto tra la frost line del sole e quella di Trappist-1 dipende dal rapporto del
 quadrato delle temperature e dal rapporto dei raggi. Inserendo i valori che si trovano disponibili
 in letteratura si trova che la frost line di Trappist-1 si trova ad una distanza di circa 40 volte
-più bassa rispetto al sole. Nonostante l'approssimazione del nostro ragionamento e le notevoli
-semplificazioni, l'ordine di grandezza è quello che ci si aspetta. 
+più bassa rispetto al sole secondo la semplice formula ricavata sopra. 
+Nonostante l'approssimazione del nostro ragionamento e le notevoli
+semplificazioni, prima tra tutte l'aver trascurato l'accrescimento di massa durante la formazione
+iniziale ed aver preso solo la temperatura per irraggiamento, l'ordine di grandezza è quello che ci si aspetta. 
 
 Provo a riassumere. Per spiegare le dimensioni ridotte del sistema di Trappist-1 ho analizzato due
 possibili strade; una minor intensità del campo gravitazionale (raggio di Hill) ed una frost line
