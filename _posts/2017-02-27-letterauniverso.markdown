@@ -214,7 +214,7 @@ Provo a riassumere. Per spiegare le dimensioni ridotte del sistema di Trappist-1
 possibili strade; una minor intensità del campo gravitazionale (raggio di Hill) ed una frost line
 più interna dovuta alla minor temperatura e dimensione della stella. Entrambi i fenomeni vanno nella
 stessa direzione, ma il secondo sembra giustificare meglio la ridotta dimensione del sistema
-Trappist-1. Il ragionamento seguito probabilmente non spiega del tutto le ridotte dimensioni del
+Trappist-1. Il ragionamento seguito probabilmente non spiega del tutto (o forse per nulla) le ridotte dimensioni del
 sistema, vi sono sicuramente molte altre questioni legate all'evoluzione del sistema ed alla sua
 nascita dalla nube protoplanetaria. Da quel che capisco oggi si considerano le dimensioni ridotte
 soprattutto a causa di dinamiche migratorie, ovvero lo spostamento dei pianeti dalla loro orbita
@@ -231,10 +231,12 @@ voluto. Mi fermo qui anche se ci sarebbero molte cose interessanti da dire su Tr
 seguito di pianeti. Magari in un'altra occasione vi parlerò ancora di questo piccolo pezzetto di
 universo pieno di opportunità di stupore e meraviglia; nulla in confronto a voi, cari figli miei.
 
+Un saluto, vostro padre.
+
 P.S.
 Mentre vi scrivevo questa lettera sono rientrato in contatto con il prof.Paolo Paolicchi
 dell'Università di Pisa. Molti anni fa è stato mio professore di Astrofisica e per le sue doti umane
 e le sue competenze scientifiche ha avuto un ruolo importante nella mia formazione. Mi ha fatto
 molto piacere ricevere un suo commento sulle idee espresse in questa lettera e grazie ai suoi
-suggerimenti ho potuto rendere questa lettera un po' meno inesatta di quanto fosse in partenza.
+suggerimenti ho potuto rendere queste righe un po' meno inesatte di quanto fossero in partenza.
 Chiaramente ogni errore o imprecisione rimane mia completa responsibilità.
