@@ -15,7 +15,7 @@ righe sia corretto, probabilmente un esperto troverà errori ed orrori (ho chies
 compagno di università di dare un'occhiata, spero mi faccia sapere presto). Ma il senso di questa
 mia lettera non è la ricerca del vero, ma la ricerca. Quando da grandi forse la leggerete io spero
 possiate cogliere il motivo del mio scrivere (e delle mie frequenti insonnie), la necessità di
-provare a capire il meraviglioso universo che ci contiene. Se poi i calcoli e le idee che qui vi
+provare a capire il meraviglioso universo che ci contiene. Se poi i calcoli e le idee che qui 
 accenno non saranno esatte poco importa, troverete magari nei miei errori lo stimolo a cercare
 meglio, a capire meglio, a trovare quel che io non sono riuscito. Nel tentativo di rispondere alle
 mie curiosità mi sono però divertito, ho rimosso (molto poco) quello strato di ruggine che gli anni
