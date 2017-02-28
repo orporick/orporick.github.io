@@ -33,7 +33,7 @@ a cercare, calcolare, provare a capire.
 
 Il sistema Trappist-1 è molto più piccolo, in termini di dimensioni, rispetto al nostro. Per
 intenderci i sette pianeti vanno da una distanza minima di $0.011$ AU ad una massima di $0.06$ AU,
-dove l'unità astronomica AU corrisponde al raggio (medio) dell'orbita terrestre, circa 157 milioni
+dove l'unità astronomica AU corrisponde al raggio (medio) dell'orbita terrestre, circa 150 milioni
 di km (approssimo le orbite a circonferenze, per il senso del ragionamento che voglio fare poco
 importa se in realtà non sono esattamente circolari). 
 Il nostro sistema solare è decisamente più grande; limitandoci ai soli pianeti rocciosi (come
@@ -131,12 +131,12 @@ solare la nube in rotazione intorno alla stella da cui si formeranno i pianeti h
 temperatura (la dipendenza della temperatura dalla distanza dal centro) che caratterizza in modo
 fondamentale la formazione planetaria. In particolare per la formazione di pianeti rocciosi (come
 quelli di Trappist-1) la temperatura deve essere superiore ad una certa soglia, la cosiddetta
-frost line (il perché è un argomento interessante, ma esula dallo scopo di questa lettera).
+snow line o frost line (il perché è un argomento interessante, ma esula dallo scopo di questa lettera).
 
-La frost line (linea di congelamento) è relativa alla nube stellare da cui si
+La snow line (linea di congelamento) è relativa alla nube stellare da cui si
 sviluppa un sistema stellare; oltre tale linea la temperatura è abbastanza bassa
 da consentire la formazione di ghiaccio. Si ritiene che i pianeti rocciosi si
-formino in una zona all'interno della frost line, mentre all'esterno si formano
+formino in una zona all'interno della snow line, mentre all'esterno si formano
 i giganti gassosi. Per il sistema solare si trova tra Marte e Giove. Per
 calcolarla bisogna tenere conto di due fenomeni distinti che causano la curva di
 temperature della nube: l'accrescimento di materia verso la stella (per il
@@ -170,7 +170,7 @@ $$
 $$
 
 Ipotizziamo che tutta l'energia ricevuta sia assorbita, cosa che non è del tutto
-vera (vi è un fattore di assorbimento, l'albedo, che dipende dal materiale; come sempre non ci interessano
+vera (vi è un fattore di assorbimento che dipende dal materiale; come sempre non ci interessano
 i dettagli, ma gli andamenti quantitativi). All'equilibrio termico il corpo raggiunge una temperatura stabile 
 $T_c$ e riemette l'energia pari a 
 
@@ -214,11 +214,27 @@ Provo a riassumere. Per spiegare le dimensioni ridotte del sistema di Trappist-1
 possibili strade; una minor intensità del campo gravitazionale (raggio di Hill) ed una frost line
 più interna dovuta alla minor temperatura e dimensione della stella. Entrambi i fenomeni vanno nella
 stessa direzione, ma il secondo sembra giustificare meglio la ridotta dimensione del sistema
-Trappist-1.
+Trappist-1. Il ragionamento seguito probabilmente non spiega del tutto le ridotte dimensioni del
+sistema, vi sono sicuramente molte altre questioni legate all'evoluzione del sistema ed alla sua
+nascita dalla nube protoplanetaria. Da quel che capisco oggi si considerano le dimensioni ridotte
+soprattutto a causa di dinamiche migratorie, ovvero lo spostamento dei pianeti dalla loro orbita
+iniziale ad un'orbita diversa (migrazioni importanti sono avvenute anche nel nostro sistema solare).
+Il tutto è chiaramente molto complesso ed è fuori dalla portata di questa mia lettera (e dalla mia
+portata probabilmente), magari ne riparleremo in futuro. Una cosa però è certa, dal calcolo sulla
+frost line si vede come sia plausibile avere pianeti con temperature "terrestri" su orbite molto
+ravvicinate alla stella centrale, argomento importante non tanto per la struttura del sistema
+stellare, ma per la possibile presenza di condizioni di abitabilità dei pianeti. Argomento
+vastissimo che in queste poche righe non ho affrontato.
 
 Cari Francesco ed Anna Wislawa, è ormai tardi e questa lettera è diventata molto più lunga di quello che avrei
 voluto. Mi fermo qui anche se ci sarebbero molte cose interessanti da dire su Trappist-1 ed il suo
 seguito di pianeti. Magari in un'altra occasione vi parlerò ancora di questo piccolo pezzetto di
 universo pieno di opportunità di stupore e meraviglia; nulla in confronto a voi, cari figli miei.
 
-
+P.S.
+Mentre vi scrivevo questa lettera sono rientrato in contatto con il prof.Paolo Paolicchi
+dell'Università di Pisa. Molti anni fa è stato mio professore di Astrofisica e per le sue doti umane
+e le sue competenze scientifiche ha avuto un ruolo importante nella mia formazione. Mi ha fatto
+molto piacere ricevere un suo commento sulle idee espresse in questa lettera e grazie ai suoi
+suggerimenti ho potuto rendere questa lettera un po' meno inesatta di quanto fosse in partenza.
+Chiaramente ogni errore o imprecisione rimane mia completa responsibilità.
