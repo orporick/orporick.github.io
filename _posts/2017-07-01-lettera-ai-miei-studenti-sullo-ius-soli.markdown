@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lettera ai miei studenti sullo ius soli"
+title: "Lettera ai miei studenti ed alle mie studentesse sullo ius soli"
 published: true
 tags: [fisica, lettera] 
 ---
