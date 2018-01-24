@@ -2,7 +2,7 @@
 layout: post
 title: "Lettera di riavvicinamento per la 2N"
 published: true
-tags: [matematica, lettera] 
+tags: [lettera] 
 ---
 
 Cari ragazzi e care ragazze
