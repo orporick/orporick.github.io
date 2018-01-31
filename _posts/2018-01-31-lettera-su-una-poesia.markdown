@@ -2,7 +2,7 @@
 layout: post
 title: "Lettera su una poesia"
 published: true
-tags = [lettera, matematica]
+tags: [lettera, matematica]
 ---
 
 
