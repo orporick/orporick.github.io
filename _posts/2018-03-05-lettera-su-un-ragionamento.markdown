@@ -128,7 +128,8 @@ sono decisioni campate in aria, ma tendono ad usare modelli razionali per massim
 di tutti. Il tutto è ovviamente migliorabile all'interno del dibattito scientifico, raramente,
 purtroppo, all'interno del dibattito pubblico che di razionale ha ormai poco.
 
-Ti lascio, se hai voglia di sporcarti un po' le mani, [un piccolo programma in Python](https://colab.research.google.com/drive/1aL9sYIFeFZfSJx--mT0Ue-_uNa8rKdMx)
+Ti lascio, se hai voglia di sporcarti un po' le mani, [un piccolo programma in
+Python](https://drive.google.com/file/d/1aL9sYIFeFZfSJx--mT0Ue-_uNa8rKdMx/view?usp=sharing)
 con cui puoi divertirti ad analizzare il modello SIR discreto.
 
 
