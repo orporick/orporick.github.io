@@ -152,7 +152,9 @@ prima di prendere posizione su un argomento. E come abbiamo capito non è necess
 vaccinata l'intera popolazione, basta che lo sia un numero di persone superiore ad una soglia
 critica.
 
-Immagino di non aver risposto a tutti i tuoi dubbi e sicuramente ho tralasciato molti aspetti
+L'intento di questa lettera rimane invariato rispetto alla conferenza di qualche settimana fa a cui
+tu gentilmente hai partecipato; non ho pretese di verità e non sono esperto di nulla, ma spero di
+averti mostrato che si può ragionare sulle cose. Immagino di non aver risposto a tutti i tuoi dubbi e sicuramente ho tralasciato molti aspetti
 interessanti, se vuoi sono disponibile ad ulteriori iterazioni. 
 
 Saluti, prof.
