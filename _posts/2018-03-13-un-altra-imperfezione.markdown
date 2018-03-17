@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un altra imperfezione"
+title: "Un'altra imperfezione"
 published: true
 tags: [imperfezioni, matematica]
 ---
