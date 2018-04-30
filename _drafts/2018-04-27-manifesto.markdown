@@ -11,6 +11,9 @@ Io ci suonavo sopra, erano muti.<br>
 I vicini venivano ad ascoltare.</i><br>
 <b>Tomas Tranströmer</b></div>
 
+<br>
+<br>
+<i>A Carla Quirina che mi aiuta ad ascoltare. </i>
 
 <br>
 <hr class="style-eight">
@@ -44,8 +47,9 @@ maggior parte dei futuri cittadini e delle future cittadine. Se la si insegna, c
 perché passi il semplice messaggio che nella vita si possono fare anche cose non utili. La bellezza,
 in fondo, è una forma di necessità
 
-Il manifesto si divide in otto punti espressi in modo incompleto e forzatamente sintetico da una
+Il manifesto si divide in sette punti espressi in modo incompleto e forzatamente sintetico da una
 parola. Ciascun punto viene poi specificato con alcuni dettagli nel testo.
+
 
 ## Complessità
 	
@@ -155,16 +159,18 @@ fine anno. Questo non significa non dare importanza ai voti, il contrario. Il mi
 far si che i miei studenti e le mie studentesse prendano dieci, il mio fine ultimo è trasmettere
 loro il gusto di fare matematica. Se riesco in questo i voti arriveranno da soli.
 
-## Condivisione
-
-Sviluppare meccanismi di solidarietà, di lavori di gruppo, di discussione tra pari. Il rispetto
-delle regole bisogna impararlo e lo si ottiene solo facendone capire la profonda  importanza, non
-con il terrore.
 
 ## Poesia
 
-La parte bella della matematica non è quella che serve per costruire ponti. Le applicazioni della
-matematica possono essere importanti, motivanti, a volte anche belle. Ma dobbiamo insegnare la
-matematica per la matematica. Altrimenti diventa uno strumento e non un paesaggio, verrà dimenticata
-non appena inutilizzata
-
+La matematica serve a costruire ponti e a molte altre cose, ma non è per questo che la insegnamo,
+non per questo ne proponiamo lo studio. Certo, le applicazioni della matematica possono essere importanti, motivanti, 
+a volte anche belle, ma il vero motivo che dovrebbe spingerci da educatori è un altro: la sua bellezza. Molti studenti e
+molte studentesse rimangono indifferenti, se non ostili, perché non mostriamo loro l'aspetto umano,
+poetico, estetico della matematica. Apro un libro a caso e trovo esercizi su esercizi di puro
+calcolo, adatti sicuramente a formare la tecnica (necessaria), ma avvilenti da un punto
+di vista umano quando costituiscono l'unico orizzonte mostrato. Dobbiamo portare quotidianamente lo stupore nell'insegnamento 
+della matematica, la meraviglia ed il senso di straordinaria prospettiva che l'edificio matematico offre. Vengono in mente le parole di
+Borges sulla musica, "misteriosa forma del tempo". In mezzo a tutti i calcoli, a tutte le "competenze"
+della scuola moderna, ai tecnicismi, alle abilità da cittadino modello, in mezzo a tutto l'arido
+deserto che spesso allontana le giovani menti nel momento in cui più sarebbero avvicinabili, in mezzo a
+tutto questo proviamo a far ascoltare la melodia muta, inutile e, per questo, meravigliosa della matematica.
