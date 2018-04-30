@@ -80,11 +80,11 @@ lavoro faticoso, necessario ancor di più di fronte a ragazzi e ragazze disinter
 L'allontanamento da una disciplina difficile dove spesso la misura delle proprie attitudini si
 limita ad un voto è quasi scontato in età adolescenziale; se l'insegnamento si limita alla tecnica,
 non mostra spiragli di fantasia e di bellezza, la partita è persa in partenza per molti e molte.
-Spesso si fa appello al senso del dovere, devi studiare anche se non ti piace; ma il senso del dovere 
+Spesso si fa appello al senso del dovere, "devi studiare anche se non ti piace"; ma il senso del dovere 
 è un concetto astratto in età adolescenziale, lo si deve costruire, ci vuole anche in questo caso
-tempo, fatica (da parte di tutti). Un compito anche della scuola, necessario sicuramente, ma che
-richiede una forte motivazione. Altrimenti diventa obbedienza (fai così se no vieni bocciato) che, a
-differenza del senso del dovere, non è mai un valore, anzi, spesso è un ostacolo alla libertà ed all'educazione. 
+tempo e fatica (da parte di tutti). Un compito anche della scuola, necessario sicuramente, ma che
+richiede una forte motivazione. Si corre altrimenti il rischio che diventi obbedienza ("fai così se no vieni bocciato") che, a
+differenza del senso del dovere, non è mai un valore, anzi, spesso è un ostacolo alla libertà e all'educazione. 
 La persona obbediente tenderà a smettere di fare qualsiasi cosa in assenza di
 conseguenze negative, la persona con senso del dovere farà le cose perché è giusto farle,
 indipendentemente dalle conseguenze. Per sviluppare tutto questo dobbiamo dare qualcosa, un
@@ -92,14 +92,14 @@ appiglio a cui aggrapparsi, non basta dire "studia questa cosa perché un domani
 L'orizzonte costituito da quel "un domani" è un orizzonte lontano anni luce nella mente di un
 adolescente. Bisogna continuamente, costantemente, faticosamente motivare. Non obbligare.
 
-
+	
 ## Pazienza
 
 Da parte dі chi insegna, da parte di chi apprende. I risultati non possono essere immediati, la
 comprensione richiede tempo, quello che a noi sembra immediato ad un ragazzo o ad una ragazza può
 sembrare privo di senso. La pazienza richiede tempi lunghi, difficilmente si sposa con programmi
 standardizzati, con scadenze uguali per tutti, con livelli che non tengano conto della storia
-personale di ognuno. Imputiamo spesso le difficoltà alla poca voglia od al poco impegno dimenticando
+personale di ognuno. Spesso imputiamo le difficoltà alla poca voglia od al poco impegno dimenticando
 che l'interesse si costruisce nel tempo, con pazienza. Se una spiegazione non viene compresa deve esserci una selva di mani alzate, deve esserci
 il sorriso dell'insegnante, la possibilità di rispiegare, cambiando punto di attacco se necessario,
 cercando altre strade. Se una verifica va male la si deve analizzare,
