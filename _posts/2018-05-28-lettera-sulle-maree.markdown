@@ -10,7 +10,7 @@ Carissimo E.
 ti scrivo per riassumere, con qualche dettaglio, il discorso iniziato qualche giorno fa sulle maree.
 Se ricordi il tutto era partito da una imprecisione comune nei libri di testo scolastici, ovvero che
 le maree siano dovute all'attrazione gravitazionale della Luna tout court. In realtà, come ti ho
-detto, l'effetto di marea è dovuto si ad un campo gravitazionale, ma al moto di caduta libera in tale campo.
+detto, l'effetto di marea è dovuto non tanto al campo gravitazionale, ma al moto di caduta libera in tale campo.
 
 Provo a spiegarmi in un contesto apparentemente diverso da quello terrestre. Immagina un ascensore
 in caduta libera in un campo gravitazionale ed al cui interno siano posizionate cinque palline, di
