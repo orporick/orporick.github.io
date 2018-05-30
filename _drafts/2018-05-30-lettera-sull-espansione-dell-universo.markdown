@@ -25,7 +25,7 @@ teoria più complessa (non è l'unico caso di queste strane coincidenze in fisic
 * vale la teoria classica della gravitazione universale di Newton che hai studiato sicuramente in
     terza.
 * Dai dati osservativi sappiamo che la velocità con cui varia la distanza $r$ tra due galassie è
-    direttamente proporzionale a $d$, ovvero la famosa legge di Hubble
+    direttamente proporzionale a $d$, ovvero la famosa [legge di Hubble](http://fermatslibrary.com/s/a-relation-between-distance-and-radial-velocity-among-extra-galactic-nebulae)
 
     $$ v = H r$$
 
