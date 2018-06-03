@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Lettera sul biliardo"
+published: true
+tags: [lettera, matematica]
+---
+
+Cara M.
+
+come promesso ti scrivo due righe sul problema del biliardo circolare che vi ho lasciato in classe
+qualche settimana fa. Provo a dimostrarti una affermazione (teorema) più forte di quello che vi
+avevo posto come esercizio per casa; se ricordi vi avevo chiesto di dimostrare che in un biliardo
+circolare classico un tiro che non è diretto lungo un diametro non può passare, per quante sponde
+faccia, dal centro della circonferenza. Ecco la dimostrazione di qualcosa di più forte, ovvero che
+per quante sponde si facciano la traiettoria non si avvicinerà mai al di sotto di una certa
+lunghezza fissa $d$ al centro, con $d$ che dipende solo dal tiro iniziale ed è zero solo se il tiro
+è lungo un diametro. Facendo riferimento alla figura
+
+<p align="center"> 
+<img src="{{ site.url }}/images/riflessione3.svg">
+</p>
+
+immagina di lanciare la palla da $A$ (senza perdere in generalità partiamo dal bordo, ma tutto
+quello che diremo vale anche partendo da un qualsiasi punto non coincidente con il centro) verso
+$B$. Per le leggi della riflessione la traiettoria seguirà, dopo la sponda in $B$, il segmento
+$BA'$ in modo tale che gli angoli $A\hat{B}D$ e $A'\hat{B}D'$ siano congruenti. Ma allora, essendo il raggio
+$BC$ perpendicolare alla tangente $DD'$, saranno congruenti anche gli angoli $A\hat{B}C$ e $A'\hat{B}C$. Si
+vede subito allora che i due triangoli $ABC$ e $A'BC$ sono congruenti e dunque lo sono le due corde
+$AB$ e $A'B$. Cosa abbiamo dimostrato? Che la traiettoria ad ogni sponda prosegue lungo una corda
+che è congruente alla corda precedente. Siccome la corda $AB$ ha una distanza $d$ dal centro $C$ che
+dipende solo dalla sua lunghezza $l$ e dal raggio $r$ del biliardo (dimostra per esercizio)
+
+$$ d = \sqrt{r^2 - \left(\frac{l}{2}\right)^2} $$
+
+tutte le corde di cui è composta la traiettoria, che sono tutte congruenti tra loro per quanto
+visto, avranno la stessa distanza $d$ dal centro. Abbiamo dunque appena dimostrato che la
+traiettoria è composta da punti la cui distanza dal centro è maggiore o uguale a $d$. Dunque la
+traiettoria nel biliardo circolare non entra mai all'interno di una circonferenza centrata in $C$ di
+raggio $d$, dove $d$ dipende dal colpo iniziale. L'unica possibilità per la traiettoria di passare
+dal centro $C$ è dunque che $d$ sia uguale a $0$, ovvero che il colpo iniziale (e tutte le
+successive sponde) sia lungo un diametro.
+
+A titolo semplificativo del tipo di traiettorie che si possono sviluppare ti allego alcune
+simulazioni. In questa prima la palla che parte dal punto a sinistra e forma un angolo di $30^\circ$
+rispetto al diametro orizzontale percorre una traiettoria periodica a forma di triangolo equilatero. 
+
+
+<p align="center"> 
+<img src="{{ site.url }}/images/billiard-1.svg">
+</p>
+
+In questa seconda l'angolo è di $45^\circ$ e di nuovo la traiettoria è periodica, ma con quattro
+lati (un quadrato). 
+
+<p align="center"> 
+<img src="{{ site.url }}/images/billiard-0.svg">
+</p>
+
+Ti lascio come esercizio trovare che condizione deve soddisfare l'angolo di partenza affinché la
+traiettoria sia periodica, ovvero sia un poligono regolare di $n$ lati.
+
+Se l'angolo non soddisfa la condizione che hai trovato, la traiettoria risulta non periodica; per
+esempio ecco un angolo di $31^\circ$ gradi con un colpo a $20$ sponde.
+<p align="center"> 
+<img src="{{ site.url }}/images/billiard-2.svg">
+</p>
+Lo stesso angolo con un colpo a $200$ sponde.
+<p align="center"> 
+<img src="{{ site.url }}/images/billiard-3.svg">
+</p>
+Infine lo stesso angolo con un colpo a $800$ sponde.
+<p align="center"> 
+<img src="{{ site.url }}/images/billiard-4.svg">
+</p>
+
+Si vede chiaramente il cerchio interno entro il quale la traiettoria non entra mai (tecnicamente è
+l'inviluppo delle corde che compongono la traiettoria e prende il nome di **caustica**). Si può
+dimostrare (ma non è semplice) che la traiettoria non periodica risulta densa all'interno della
+corona circolare delimitata dal bordo esterno e dalla caustica, ovvero per qualsiasi punto in questa
+corona circolare la traiettoria passa arbitrariamente vicino, pur di ammettere un numero illimitato
+di sponde. Magari ne parliamo un'altra volta.
+
+Un caro saluto, prof.
