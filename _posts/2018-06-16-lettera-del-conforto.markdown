@@ -91,4 +91,6 @@ sicuramente un valore più permanente.
 
 Un caro saluto, prof.
 
-
+P.S.
+Ho recuperato un vecchio video fatto due anni fa sul teorema di Torricelli-Barrow. Se ti può essere
+utile eccoti il [link](https://www.youtube.com/watch?v=6uR7oq5w_3o&lc=z233h5qqwy3jj3goa04t1aokghe1n1h2oh50qvmbafxubk0h00410)
