@@ -9,8 +9,7 @@ Carissima A.
 
 rispondo volentieri alla tua lettera prima dell'esame, avere dubbi in matematica non solo è normale, è salutare
 (secondo me). I due esercizi che mi chiedi sono applicazioni del teorema di Torricelli-Barrow (detto
-anche teorema fondamentale del calcolo integrale) che, grosso modo, dice che se ho una funzione
-definita in questo modo
+anche teorema fondamentale del calcolo integrale): data  una funzione definita in questo modo
 
 $$ F(x) = \int_a^x f(t){\rm d} t $$ 
 
@@ -20,7 +19,7 @@ indefinito. Il teorema ha un'estensione (che ci servirà) al caso
 
 $$ F(x) = \int_a^{g(x)} f(t){\rm d} t $$ 
 
-dove $g(x)$ è  una funzione derivabile. In tal caso, usando le proprietà delle funzioni
+dove $g(x)$ è  una funzione derivabile (detta funzione interna). In tal caso, usando le proprietà delle funzioni
 composte, si dimostra che 
 
 $$ F'(x)  = f(g(x))\cdot g'(x) $$
