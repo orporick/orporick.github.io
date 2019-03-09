@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera sull'espansione dell'universo"
 published: true
-tags: [fisica, lettera]
+tags: [fisica]
+categories: Lettere
 ---
 
-Carissimo L.
-
+Carissimo L,
 ti scrivo brevemente per rispondere alla tua lettera. Purtroppo mi sono accorto di aver perso gli
 appunti di cosmologia di cui ti ho parlato, durante il trasloco di un anno fa temo che siano finiti
 da qualche parte non prevista. Pazienza, non erano sicuramente speciali, mi dispiace perché avevo

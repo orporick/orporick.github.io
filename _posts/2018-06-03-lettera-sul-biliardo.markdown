@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera sul biliardo"
 published: true
-tags: [lettera, matematica]
+tags: [matematica]
+categories: Lettere
 ---
 
-Cara M.
-
+Cara M,
 come promesso ti scrivo due righe sul problema del biliardo circolare che vi ho lasciato in classe
 qualche settimana fa. Provo a dimostrarti una affermazione (teorema) più forte di quello che vi
 avevo posto come esercizio per casa; se ricordi vi avevo chiesto di dimostrare che in un biliardo

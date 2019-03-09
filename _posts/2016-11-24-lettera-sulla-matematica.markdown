@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera ad una studentessa sulla matematica"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
-Cara P
-
+Cara P,
 rispondo volentieri alla tua lettera immaginaria, ho fatto finta di riceverla proprio oggi. Mi
 chiedi della matematica, di quello che in classe stiamo facendo, mi parli di come vivi i voti, le
 difficoltà, le mie spiegazioni non sempre chiare. Non importa che tu questa lettera non me l'abbia

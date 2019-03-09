@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera su un'idea matematica"
 published: true
-tags: [lettera, matematica]
+tags: [matematica]
+categories: Lettere
 ---
 
-Caro F.
-
+Caro F,
 dopo la nostra ultima chiaccherata sull'infinito ho deciso di proporti un percorso che possa in
 qualche modo mostrarti la nascita di un'idea matematica, ovviamente tenendo la questione su un
 terreno estremamente semplificato. Avrei voluto dimostrarti che il numero di punti su una retta è

@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera dal bordo di un mare infinito"
 published: true
-tags: [lettera, bicromatico]
+tags: [matematica]
+categories: Lettere
 ---
 
-Caro P.
-
+Caro P,
 ho conservato per tutto il giorno l'immenso regalo che mi hai fatto stamattina, il tuo avermi
 chiesto di parlare. Al di fuori di tutta la matematica, della campanella, fuori dai voti, dal
 registro, dai gesti quotidiani fatti di gesso e lavagna, fuori dal contesto consueto di un dialogo

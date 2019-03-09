@@ -2,7 +2,7 @@
 layout: post
 title: "Per una diversa valutazione"
 description: ""
-category: Valutazione 
+category: Didattica 
 tags: [valutazione]
 ---
 

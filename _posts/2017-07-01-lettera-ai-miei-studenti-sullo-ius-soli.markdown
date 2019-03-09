@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera ai miei studenti ed alle mie studentesse sullo ius soli"
 published: true
-tags: [fisica, lettera] 
+tags: [fisica] 
+categories: Lettere
 ---
 
-Cari studenti e care studentesse
-
+Cari studenti e care studentesse,
 ora che avete aperto la lettera posso svelare il piccolo sotterfugio; avevo voglia di parlarvi di
 fisica, ma se avessi usato come titolo "Una proprietà interessante del moto di un corpo soggetto ad
 una forza radiale proporzionale all'inverso del quadrato della distanza" in

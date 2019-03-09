@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Alcune equazioni dell'elettromagnetismo"
-tags: [fisica, lettera]
+tags: [fisica]
+categories: Lettere
 ---
 
-Cara R.
-
+Cara R,
 nella tua ultima lettera mi chiedi se posso tornare brevemente su
 alcune questioni legate all'elettromagnetismo viste in classe, in
 particolare sulle prime due equazioni di Maxwell, quelle sui flussi

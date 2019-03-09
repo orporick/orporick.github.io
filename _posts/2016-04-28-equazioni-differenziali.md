@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Equazioni differenziali, la via corretta per la 5C"
-tags: [matematica, imperfezioni]
+tags: [matematica]
+categories: Imperfezioni
 ---
 
 Cari studenti e care studentesse di 5C, stamane ho fatto un errore

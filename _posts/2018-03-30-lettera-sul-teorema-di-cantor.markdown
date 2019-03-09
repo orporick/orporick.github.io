@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera sul teorema di Cantor"
 published: true
-tags: [lettera, matematica]
+tags: [matematica]
+categories: Lettere
 ---
 
-Cara A.
-
+Cara A,
 prima di tutto vorrei ringraziarti per le belle parole che hai avuto in classe pochi giorni fa dopo
 la consegna della verifica, mi rincuora sapere che non stai perdendo interesse per la matematica per
 causa mia. La fatica di questi mesi renderà più agile il percorso successivo, ne sono certo. In

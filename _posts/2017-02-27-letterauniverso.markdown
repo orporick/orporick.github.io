@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera ai miei figli su un piccolo pezzetto di universo"
 published: true
-tags: [fisica, lettera]
+tags: [fisica]
+categories: Lettere
 ---
 
 Miei cari Francesco ed Anna Wislawa,
-
 vi scrivo nell'ora più breve della notte, da un'esilio che rinnovo ogni giorno. Ora che dormite i
 vostri sogni di bambini ho deciso di scrivervi di un piccolo pezzetto di universo di cui si parla
 tanto in questi giorni. La mia non è una lettera di spiegazioni precise, una lezione formale ed

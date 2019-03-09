@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera ai miei studenti ed alle mie studentesse sul voto del 4 marzo"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
-Cari ragazzi e care ragazze
-
+Cari ragazzi e care ragazze,
 ora che avete aperto questa mia lettera ed ho ottenuto con un sotterfugio la vostra attenzione,
 vorrei parlarvi di matematica. Lo so, non è la prima volta che ricorro a questi piccoli inganni, 
 perdonate se potete la necessità che provo di parlarvi di panorami diversi dal consueto.

@@ -2,12 +2,12 @@
 layout: post
 title: "Lettera sulla probabilità"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
 
-Carissima Rebecca
-
+Carissima Rebecca,
 mi ha fatto piacere ricevere tue notizie da Vienna, la tua lettera, come sempre, mi ha ricordato con
 parole gentili il tempo passato in classe con tutti voi. Da tempo avrei voluto rispondere, se non
 l'ho fatto prima è per quel flusso costante che voi chiamate tempo e che per me è sempre più un caos

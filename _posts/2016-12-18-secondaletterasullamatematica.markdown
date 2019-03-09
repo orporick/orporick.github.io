@@ -2,11 +2,11 @@
 layout: post
 title: "Seconda lettera ad una studentessa sulla matematica"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
-Cara P
-
+Cara P,
 mi scuso prima di tutto per il lungo silenzio dovuto non a volontà o dimenticanza, ma alla vita che
 a volte ha modi strani (ma sempre delicati) per imporci un po' di silenzio. Vorrei riprendere il
 discorso [della nostra ultima lettera](http://orporick.github.io/2016/11/24/lettera-sulla-matematica/), 

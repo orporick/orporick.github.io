@@ -2,12 +2,12 @@
 layout: post
 title: "Lettera su una poesia"
 published: true
-tags: [lettera, matematica]
+tags: [matematica]
+categories: Lettere
 ---
 
 
-Caro D
-
+Caro D,
 sono alcuni giorni che ho in mente di scriverti, stasera trovo il tempo in una rara pausa del
 giorno, sul bordo della sera. Non abbiamo più avuto modo di parlarci, non sono riuscito dall'ultima
 volta a chiederti come stai, a sapere di te. Provo a leggere ogni mattina qualche segnale, ma il

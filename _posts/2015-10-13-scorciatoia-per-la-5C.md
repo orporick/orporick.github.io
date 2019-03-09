@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Scorciatoia per la 5C"
-tags: [matematica, imperfezioni]
+tags: [matematica]
+categories: Imperfezioni
 ---
 
 Ci siamo, la prima imperfezione del nuovo anno scolastico. Carissimi

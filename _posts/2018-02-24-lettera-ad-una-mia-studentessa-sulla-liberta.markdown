@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera ad una mia studentessa sulla libertà"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
-Cara L.
-
+Cara L,
 perdona se rispondo solo ora, ma la tua domanda non era semplice. Mi chiedi della libertà che hai
 intravisto nella matematica, ne intuisco il timore e forse un pregiudizio: come può la materia delle
 regole essere libera? Un malinteso, io credo, tende ad associare la matematica al preciso,

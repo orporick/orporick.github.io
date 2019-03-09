@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Eclissi di lancette"
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
 Cara Bianca

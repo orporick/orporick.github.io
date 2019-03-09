@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera sulle maree"
 published: true
-tags: [fisica, lettera]
+tags: [fisica]
+categories: Lettere
 ---
 
-Carissimo E.
-
+Carissimo E,
 ti scrivo per riassumere, con qualche dettaglio, il discorso iniziato qualche giorno fa sulle maree.
 Se ricordi il tutto era partito da una imprecisione comune nei libri di testo scolastici, ovvero che
 le maree siano dovute all'attrazione gravitazionale della Luna tout court. In realtà, come ti ho

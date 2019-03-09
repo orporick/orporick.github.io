@@ -19,13 +19,14 @@ I vicini venivano ad ascoltare.</i><br>
 <hr class="style-eight">
 <br>
 
+<p>
 Da quando insegno matematica a ragazzi e ragazze in età adolescenziale ho imparato a convivere con
 il dubbio. I versi di Tranströmer qui citati rappresentano in modo preciso
 il mio sentimento di insegnante; quando penso alla matematica posso distintamente udire una musica, a volte
 strutturata, a volte spontanea, ma è una musica silenziosa, bisogna imparare prima di tutto a
 sentirla, poi ad ascoltarla, infine a riprodurla. Ritengo che questa sia la sostanza del mio
 mestiere, separare le note dal rumore.
-
+</p>
 Ho deciso di mettere in forma scritta gli assunti, espliciti ed impliciti, della mia didattica; per i
 miei studenti e le mie studentesse, per le loro famiglie, per me. Questo manifesto, raccolta di intenti più che
 di pratiche, mi aiuta a fissare alcuni punti per me importanti, frutto di molte ore passate tra dubbi,

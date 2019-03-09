@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Questione di tempo"
-tags: [fisica, imperfezioni]
+tags: [fisica]
+categories: Imperfezioni
 ---
 
 Carissimi ragazzi e ragazze di 5A, stamane credo di aver fatto un

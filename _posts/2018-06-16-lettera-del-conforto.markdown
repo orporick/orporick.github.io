@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera del conforto"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
-Carissima A.
-
+Carissima A,
 rispondo volentieri alla tua lettera prima dell'esame, avere dubbi in matematica non solo è normale, è salutare
 (secondo me). I due esercizi che mi chiedi sono applicazioni del teorema di Torricelli-Barrow (detto
 anche teorema fondamentale del calcolo integrale): data  una funzione definita in questo modo

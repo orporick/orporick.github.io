@@ -2,7 +2,8 @@
 layout: post
 title: "Un'altra imperfezione"
 published: true
-tags: [imperfezioni, matematica]
+tags: [matematica]
+categories: Imperfezioni
 ---
 
 Di nuova una imperfezione, se non proprio un errore. Mi sono accorto di essere rimasto molto lontano da [questo posto](http://127.0.0.1:4000/imperfezioni/)

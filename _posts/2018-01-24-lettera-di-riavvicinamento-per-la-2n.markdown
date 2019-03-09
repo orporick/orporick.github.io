@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera di riavvicinamento per la 2N"
 published: true
-tags: [lettera] 
+tags: [] 
+categories: Lettere
 ---
 
-Cari ragazzi e care ragazze
-
+Cari ragazzi e care ragazze,
 stamane è successo di nuovo, mi ero ripromesso di non farlo più ed invece sono partito con una
 partenale alla fine della terza ora di cui mi sono subito pentito. Vi scrivo poche righe non per scusarmi
 (a che servirebbe?), ma per declinare meglio quello che stamattina mi è uscito fuori in modo

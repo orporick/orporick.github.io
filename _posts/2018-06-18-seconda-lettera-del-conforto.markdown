@@ -2,11 +2,11 @@
 layout: post
 title: "Seconda lettera del conforto"
 published: true
-tags: [lettera, matematica]
+tags: [matematica]
+categories: Lettere
 ---
 
-Carissima A.
-
+Carissima A,
 rispondo volentieri alla tua nuova lettera di aiuto; non ti devi preoccupare, 
 la matematica richiede pazienza e tempi lunghi.
 

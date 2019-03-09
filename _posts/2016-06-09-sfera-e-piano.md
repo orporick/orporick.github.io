@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Un esercizio di interesezione tra una sfera ed un piano"
-tags: [matematica, imperfezioni]
+tags: [matematica]
+categories: Imperfezioni
 ---
 
 Cari studenti e studentesse di 5C, stamane ho risolto parzialmente un

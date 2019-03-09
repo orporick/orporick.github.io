@@ -2,12 +2,11 @@
 layout: post
 title: "Lettera ad uno studente sul tempo ed il suo inizio"
 published: true
-tags: [matematica, fisica, lettera]
+tags: [matematica, fisica]
+categories: Lettere
 ---
 
-Caro D.
-
-ti scrivo poche righe per sapere come stai. Quando ci siamo visti l'ultima volta mi sei sembrato
+Caro D,ti scrivo poche righe per sapere come stai. Quando ci siamo visti l'ultima volta mi sei sembrato
 assente, triste forse. Magari pensi ancora all'incontro con i tuoi genitori, alla pagella di inizio
 anno, ai voti che inciampano ogni tanto. Ne abbiamo parlato altre volte, conosci la stima che ho per
 te, sai che sono felice di averti in classe, sai che sono sicuro del tuo stare in piedi; 

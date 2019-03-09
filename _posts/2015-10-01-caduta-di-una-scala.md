@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Caduta di una scala"
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
 Caro Davide

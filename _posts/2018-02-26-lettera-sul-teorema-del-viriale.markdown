@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera sul teorema del viriale"
 published: true
-tags: [fisica, lettera]
+tags: [fisica]
+categories: Lettere
 ---
 
-Caro F.
-
+Caro F,
 stamane, durante il compito in classe, ho visto alcune perplessità sugli esercizi che vi ho proposto.
 Fermo restando che se non saremo soddisfatti (io e voi) degli esiti della verifica la possiamo
 sempre rifare, ci tenevo ad analizzare un punto importante toccato da uno dei quesiti in termini un

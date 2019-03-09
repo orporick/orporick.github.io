@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Contaminazioni culturali ed imperfezioni"
-tags: [fisica, imperfezioni]
+tags: [fisica]
+categories: Imperfezioni
 ---
 
 Per una volta tanto non parlo di imperfezioni mie. Stamane ho

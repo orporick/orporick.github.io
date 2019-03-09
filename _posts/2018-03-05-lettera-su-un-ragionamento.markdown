@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera su un ragionamento"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
-Caro M.
-
+Caro M,
 scusami per il ritardo con cui rispondo alla tua gentile lettera, sono stati giorni un po' in
 salita. Ti ringrazio per l'interesse per quanto abbiamo detto alla mia conferenza di qualche
 settimana fa, esperienza che mi ha permesso di parlarvi di molte cose, probabilmente senza la dovuta

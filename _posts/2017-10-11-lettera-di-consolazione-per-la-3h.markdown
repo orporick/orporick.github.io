@@ -2,11 +2,11 @@
 layout: post
 title: "Lettera di consolazione per la 3H"
 published: true
-tags: [matematica, lettera] 
+tags: [matematica] 
+categories: Lettere
 ---
 
-Cari studenti e care studentesse
-
+Cari studenti e care studentesse,
 ieri, finito il nostro primo compito in classe, vi ho visto piuttosto sconfortati e sconfortate,
 avete lasciato l'aula con l'aria di chi ha appena perso un'occasione. Vorrei trovare le parole per
 riportare un po' di serenità, dovrebbe esservi ormai chiaro, anche se ci conosciamo da poco, che le

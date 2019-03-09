@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sulla dinamica relativistica"
-tags: [fisica, imperfezioni]
+tags: [fisica]
+categories: Imperfezioni
 ---
 
 Carissimi ragazzi e ragazze di 5A. Di nuovo qui a scrivere perché non

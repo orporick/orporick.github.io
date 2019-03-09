@@ -2,7 +2,8 @@
 layout: post
 title: "Lettera ai miei studenti ed alle mie studentesse sul Referendum Costituzionale"
 published: true
-tags: [matematica, lettera]
+tags: [matematica]
+categories: Lettere
 ---
 
 Cari ragazzi e care ragazze di quinta, scusate se ho usato un piccolo sotterfugio, ma se avessi

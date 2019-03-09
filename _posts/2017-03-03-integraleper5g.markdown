@@ -2,7 +2,8 @@
 layout: post
 title: "Un integrale per la 5G"
 published: true
-tags: [imperfezioni, matematica]
+tags: [matematica]
+categories: Imperfezioni
 ---
 
 Doveva succedere anche con voi, era inevitabile. Credo di aver fatto un errore giovedi nell'ultimo
