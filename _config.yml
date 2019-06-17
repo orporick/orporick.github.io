@@ -13,5 +13,6 @@ github_username:  orporick
 
 # Build settings
 markdown: kramdown
-
+kramdown:
+        extensions: ["footnotes"]
 permalink: pretty
