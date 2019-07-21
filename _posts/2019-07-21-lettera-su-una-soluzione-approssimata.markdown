@@ -2,7 +2,7 @@
 layout: post
 title: "Lettera su una soluzione approssimata"
 published: true
-tags: [matematica]
+tags: [fisica]
 categories: Lettere
 ---
 
