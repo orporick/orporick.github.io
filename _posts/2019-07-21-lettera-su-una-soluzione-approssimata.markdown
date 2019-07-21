@@ -2,6 +2,8 @@
 layout: post
 title: "Lettera su una soluzione approssimata"
 published: true
+tags: [matematica]
+categories: Lettere
 ---
 
 Carissimo P,
