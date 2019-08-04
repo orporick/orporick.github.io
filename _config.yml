@@ -16,3 +16,10 @@ markdown: kramdown
 kramdown:
         extensions: ["footnotes"]
 permalink: pretty
+
+collections:
+        problemi:
+                output: true
+        soluzioni:
+                output: true
+

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="problemi">
+
+	<h1>Problema {{page.number}}: {{ page.title }}</h1>
+
+  <div>
+    {{ content }}
+  </div>
+ 
+
+  {%assign idx = page.number |minus: 1 %}
+  <a href={{site.soluzioni[idx].url}}>Soluzione</a>
+  <p>
+
+  (Fonte: {{page.source}})
