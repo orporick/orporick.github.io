@@ -2,7 +2,7 @@
 layout: page
 title: Tracce
 permalink: /tracce/
-redirect_from: "/problemi"
+redirect_from: "/problemi/"
 ---
 
 In questa pagina raccolgo e colleziono problemi di matematica e fisica che periodicamente (con
