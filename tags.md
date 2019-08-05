@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tags
+exclude: true
 ---
 <h1>{{ page.title }}</h1>
 <p>&nbsp;</p>
