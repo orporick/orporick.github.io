@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="problemi">
+<article class="aperitivi">
 
 	<h1>Problema {{page.number}}: {{ page.title }}</h1>
 
@@ -11,7 +11,13 @@ layout: default
  
 
   {%assign idx = page.number |minus: 1 %}
-  <a href={{site.soluzioni[idx].url}}>Soluzione</a>
+  {% if site.soluzioni[idx] != null %}
+  	<a href={{site.soluzioni[idx].url}}>Soluzione</a>
+  {% endif %}
   <p>
 
   (Fonte: {{page.source}})
+
+  <p>
+  <a href="{{site.url}}/{% link problemi.md %}">Torna all'elenco di
+	  problemi</a>

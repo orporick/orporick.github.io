@@ -6,7 +6,12 @@ layout: default
 {::options parse_block_html="true" /}
 <div class="home_image_container">
 <div class="home_image">
+
 ![Photo of Me](https://lh3.googleusercontent.com/-K_82y82RWYE/VAWRNJhpKLI/AAAAAAAAOaw/HLGCEYWn9dM/s288/P_20140820_123932.jpg)
+<!--
+![Photo of Me](images/profilo.png)
+-->
+
 </div>
 </div>
 
