@@ -14,8 +14,9 @@
 <script type="text/javascript"
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"></script>
 
-
-  <body>
+<body>
+<div id="particles-js">
+</div>
 
     {% include header.html %}
 
@@ -27,6 +28,8 @@
 
     {% include footer.html %}
 
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script src="{{'/app.js' | prepend: site.baseurl}}"></script>    
   </body>
 
 </html>

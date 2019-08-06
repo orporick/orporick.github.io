@@ -9,7 +9,6 @@ dl, dd, ol, ul, figure {
 }
 
 
-
 /**
  * Basic styling
  */
@@ -22,6 +21,17 @@ body {
     background-color: $background-color;
 }
 
+
+#particles-js{ 
+  background-color: #000;
+  display: flex;
+  vertical-align: bottom;
+  width: 100%;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
 
 /**
  * Set `margin-bottom` to maintain vertycal rhythm

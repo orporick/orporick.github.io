@@ -1,9 +1,11 @@
 .home_image_container {
+    z-index: 1;
     display: block;
     width: 100%
 }
 
 .home_image {
+    z-index:1;
     display: block; 
     margin-left: auto; 
     margin-right: auto; 
