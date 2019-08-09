@@ -2,6 +2,8 @@
 layout: post
 title: "Lettera su un infinito limitato"
 published: true
+tags: [matematica]
+categories: Lettere
 ---
 
 Carissimo F,
