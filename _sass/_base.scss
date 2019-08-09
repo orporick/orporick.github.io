@@ -22,7 +22,8 @@ body {
 }
 
 
-#particles-js{ 
+#particles-js{
+  z-index: -1;	
   background-color: #000;
   display: flex;
   vertical-align: bottom;
@@ -185,6 +186,8 @@ pre {
  * Wrapper
  */
 .wrapper {
+    background: #fff;
+    width: 50%;
     max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
