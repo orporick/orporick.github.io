@@ -6,7 +6,7 @@ tags: [matematica]
 categories: Imperfezioni
 ---
 
-Di nuova una imperfezione, se non proprio un errore. Mi sono accorto di essere rimasto molto lontano da [questo posto](http://127.0.0.1:4000/imperfezioni/)
+Di nuovo una imperfezione, se non proprio un errore. Mi sono accorto di essere rimasto lontano da [questo posto](http://orporick.github.io/imperfezioni/)
 per molto tempo, non per improvvisa precisione (che non mi appartiene), ma per mancanza di tempo. Qualche
 tempo fa però, durante una conferenza sui paradossi in matematica, ho presentato un argomento a me
 caro in modo così superficiale ed approssimativo che me ne sono vergognato per giorni. A parziale
