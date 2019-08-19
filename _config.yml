@@ -23,5 +23,5 @@ collections:
         soluzioni:
                 output: true
 
-plugins:
-        - jekyll-redirect-from
+#plugins:
+#        - jekyll-redirect-from
