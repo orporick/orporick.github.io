@@ -77,6 +77,12 @@ fisica della fine '800, veniva chiamato il "terrorista   algebrico" no? Non
 sarebbe perfetto? Come dici? Impiccato alla   finestra mentre la moglie e le
 figlie erano al marre. A Duino, qui   vicino. Si. Morte adiabatica, si. 
 
+Marie Curie? In questa ingiusta sfilza di nomi maschili mi sembra il minimo
+parlare di lei, premio Nobel due volte, una delle maggiori figure scientifiche
+nella nascita dell'era atomica, unica donna al primo congresso Solvay, quello
+storico con la foto taroccata di Solvay, grande scienziata, grande persona. 
+Eh, che dici? Morta per le radiazioni. Si. 
+
 Va bene, senti, che ne dici se andiamo sui classici, eh? Torniamo   indietro,
 ok? La base classica della matematica, d'accordo? Che ne so,   Archimede, eh?
 Che ne dici? Un grande, Archimede, ricordato nei   secoli, giusto? Morto ucciso
@@ -86,7 +92,7 @@ Pitagora? Dai, Pitagora è importante no? Cioè, chi non   conosce il teorema di
 Pitagora? Come dici? Ah, pare che non sia   esistito veramente, non ci sono
 prove. Cioè, neanche il suicidio per   questo, proprio non è esistito. 
  
-Senti, la prolusione di lunedi la faccio sul prof. Mangher. Come chi,   Paolo
+Senti, la prolusione di lunedì la faccio sul prof. Mangher. Come chi,   Paolo
 Mangher. Ah, non lo conosci? Me lo sono inventato. Si però   questo ha fatto una
 vita serena sai? Non ha scoperto niente di   importante, solo il teorema di
 Mangher, che come lui non esiste; è un   teorema dell'analisi fantariale che
