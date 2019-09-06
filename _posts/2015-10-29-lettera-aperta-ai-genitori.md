@@ -99,8 +99,7 @@ suoi tagli, le sue frastagliature, i suoi conflitti. Bisogna guardare negli
 occhi. Accedere al registro elettronico per vedere i voti dei vostri figli e
 delle vostre figlie vi priverà di qualcosa di importante. Anche se poi comunque
 ne parlerete di persona con i vostri ragazzi, non sarà più la stessa cosa. Vi
-chiedo di non lasciare che sia la schermata di un monitor a raccontarvi cose
-importante.
+chiedo di non lasciare che sia la schermata di un monitor a raccontarvi di loro.
 
 Secondo. Non togliamo ai vostri ragazzi ed alle vostre ragazze la responsabilità
 delle loro azioni. Se prendo un brutto voto a scuola,
