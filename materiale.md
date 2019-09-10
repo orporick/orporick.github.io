@@ -2,6 +2,7 @@
 layout: page
 title: Materiale
 permalink: /materiale/
+exclude: true
 ---
 # Esercizi svolti
 <iframe
