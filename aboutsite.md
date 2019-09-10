@@ -9,5 +9,3 @@ Questo sito è costruito tramite [Jekyll](https://jekyllrb.com/). Il tema è in 
 partire dal tema base ed utilizza i font opensource
 [et-book](https://github.com/edwardtufte/tufte-css).
 
-{% include image-gallery.html folder="/gallery" %}
-
