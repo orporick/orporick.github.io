@@ -46,7 +46,7 @@ trasformazione
 
 $$ x' = p-q $$
 
-$$ y' = p+1 $$
+$$ y' = p+q $$
 
 che in pratica ruota indietro il piano ruotato con il passaggio alle coordinate $(u,v)$. In definitiva
 abbiamo una trasformazione biunivoca che prende i punti del piano reale $(x,y)$ e li manda nei punti
