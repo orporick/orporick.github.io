@@ -78,7 +78,7 @@ $$ 2 + \dfrac{3}{4+\dfrac{3}{4+\dfrac{3}{4}}} = \frac{233}{88} \simeq 2,6477$$
 
 $$ 2 + \dfrac{3}{4+\dfrac{3}{4+\dfrac{3}{4+\dfrac{3}{4}}}} = \frac{1082}{409} \simeq 2,6455$$
 
-e l'ultimo valore è "corretto" fino alla terza cifra decimale. Ovviamente
+L'ultimo valore è "corretto" fino alla terza cifra decimale. Ovviamente
 andando avanti si può aumentare la precisione del risultato, anche se, come
 ricordato più volte, il risultato esatto rimane inconoscibile. 
 
@@ -88,5 +88,5 @@ infinito che ci è concesso.
 
 Un caro saluto, prof.
 
-[^1]: Questo esempio mi permette un piccolo inciso su un errore che trovo molto comune (e tutto sommato alle volte comprensibile): spesso pensate, sulla falsa riga della somma e del prodotto, che qualsiasi operazione sia distribuibile su qualsiasi altra operazione; per esempio è vero che $a(b+c)$ è $ab + bc$, si può distribuire appunto il prodotto sulla somma. Ma nel caso della radice non si può distribuire sulla somma, dunque $\sqrt{a+b} \neq \sqrt{a}+\sqrt{b}$.Ripeto, è un errore che capita per similitudine con operazioni più semplici, basta stare attenti.
+[^1]: Questo esempio mi permette un piccolo inciso su un errore che trovo molto comune (e tutto sommato alle volte comprensibile): spesso pensate, sulla falsa riga della somma e del prodotto, che qualsiasi operazione sia distribuibile su qualsiasi altra operazione; per esempio è vero che $a(b+c)$ è $ab + bc$, si può distribuire appunto il prodotto sulla somma. Ma nel caso della radice non si può distribuire sulla somma, dunque $\sqrt{a+b} \neq \sqrt{a}+\sqrt{b}$. Ripeto, è un errore che capita per similitudine con operazioni più semplici, basta stare attenti.
 
