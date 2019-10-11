@@ -79,7 +79,7 @@ $$ 2 + \dfrac{3}{4+\dfrac{3}{4+\dfrac{3}{4}}} = \frac{233}{88} \simeq 2,6477$$
 $$ 2 + \dfrac{3}{4+\dfrac{3}{4+\dfrac{3}{4+\dfrac{3}{4}}}} = \frac{1082}{409} \simeq 2,6455$$
 
 e l'ultimo valore è "corretto" fino alla terza cifra decimale. Ovviamente
-andando avanti si può aumentare la precisione del risultato, anche, come
+andando avanti si può aumentare la precisione del risultato, anche se, come
 ricordato più volte, il risultato esatto rimane inconoscibile. 
 
 Spero che questa spiegazione meno frettolosa di quella svolta in classe ti sia
