@@ -14,6 +14,8 @@ github_username:  orporick
 # Build settings
 markdown: kramdown
 kramdown:
+        syntax_highlighter_opts:
+                disable : true
         extensions: ["footnotes"]
 permalink: pretty
 
@@ -23,5 +25,6 @@ collections:
         soluzioni:
                 output: true
 
+highlighter: none
 #plugins:
 #        - jekyll-redirect-from

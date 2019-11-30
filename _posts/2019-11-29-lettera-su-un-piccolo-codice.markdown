@@ -2,16 +2,18 @@
 layout: post
 title: "Lettera su un piccolo codice"
 published: true
-tags: [matematicai, code, J]
+tags: [matematica, code, J]
 categories: Lettere
 ---
 
 Caro L., rispondo solo ora alla tua gentile richiesta, sono giorni un po'
 impegnativi. Nella tua lettera hai detto di aver visto il mio [tweet](https://twitter.com/orporick/status/1199829863093407746)
 іn cui proponevo uno strano codice in [linguaggio J](https://www.jsoftware.com/#/)
-```
+
+```j
 ((] , +/&(_2&{.))^:10) 1 1
 ```
+
 
 Provo a spiegarti in queste poche righe, prendila come una piccola introduzione
 ad un sistema per fare matematica sperimentale. 
