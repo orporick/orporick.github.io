@@ -36,26 +36,26 @@ solo argomento (a destra) o diadici, ovvero applicati a due argomenti (uno a
 destra ed uno a sinistra). Per esempio il verbo % se usato in modo monadico
 restituisce il reciproco in un numero
 
-```
+```j
 %n --> 1/n
 ```
 
 se usato in modo diadico restituisce la frazione
 
-```
+```j
 n%m --> n/m
 ```
 
 Tre verbi racchiusi da parentesi fanno un "fork": dunque
 
-```
+```j
 (a b c)
 ```
 
 è un fork. Se applicato ad un nome (che può essere un numero, ma anche un array
 come vedremo), si ottiene il seguente effetto
 
-```
+```j
 (a b c) n --> an b cn 
 ```
 
@@ -68,37 +68,37 @@ un fork di tre verbi (che ora discuteremo) ad un array di numeri, ovvero 1 1
 
 I tre verbi che costituiscono il fork sono
 
-```
+```j
 ]
 ```
 che non fa altro che duplicare il nome a cui è applicato
 
-```
+```j
 ] 11 -> 11
 ```
 
 Abbiamo a destra qualcosa di più elaborato:
 
-```
+```j
 +/&(_2&{.)
 ```
 
 Il termine a destra (in J si parte da destra) è specifico del linguaggio ed
 estrae gli ultimi due elementi di un array, ad esempio
 
-```
+```j
 _2&{. 1 2 3 4 5 --> 4 5
 ```
 
 A questo si aggancia (con l'&) un secondo verbo
 
-```
+```j
 +/
 ```
 
 che applica la somma + tra ogni elemento dell'array, nell'esempio tra 4 e 5
 
-```
+```j
 +/&(_2&{.) 1 2 3 4 5 --> 9
 ```
 
@@ -107,21 +107,21 @@ ovvero costruisce un nuovo array mettendo insieme il risultato a sinistra ed il
 risultato a destra. A questo punto dovrebbe esserti chiaro cosa faccia il nostro
 fork all'array 1 1
 
-```
+```j
 (] , +/&(_2&{.)) 1 1
 ```
 
 A sinistra replica l'array di ingresso 1 1, a destra calcola la somma degli
 ultimi due elementi (quindi 1+1=2) ed infine crea un nuovo array concatenandoli
 
-```
+```j
 (] , +/&(_2&{.)) 1 1 --> 1 1 2
 ```
 
 Ti sarà a questo punto evidente che stiamo costruendo la successione di
 Fibonacci. Se applichiamo di nuovo il nostro fork al risultato otteniamo
 
-```
+```j
 (] , +/&(_2&{.)) 1 1 2 --> 1 1 2 3
 ```
 
@@ -129,7 +129,7 @@ e così via. Ecco l'ultimo mistero, l'operazione ^:10 non fa altro che applicare
 10 volte il fork, ottenendo la sequenza con i primi 12 (10 + i due iniziali)
 elementi della successione di Fibonacci
 
-```
+```j
 1 1 2 3 5 8 13 21 34 55 89 144
 ```
 
@@ -140,7 +140,7 @@ indietro.
 
 Ti lascio come esercizio capire (ed eventualmente sperimentare) cosa significa
 
-```
+```j
  % %/ _2&{. ((] , +/&(_2&{.))^:10) 1 1
 ```
 
