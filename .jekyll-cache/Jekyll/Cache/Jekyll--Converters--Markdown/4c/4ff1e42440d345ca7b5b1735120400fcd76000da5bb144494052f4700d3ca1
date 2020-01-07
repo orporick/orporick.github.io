@@ -1,0 +1,8 @@
+I"�<p>Esistono varie strade, la più semplice mi sembra la seguente. Ipotizziamo per assurdo che non esista
+la retta dell’enunciato. Allora ogni retta orizzontale interseca $A$. Siccome le rette orizzontali
+sono in corrispondenza biunivoca con i numeri reali, questo significa che abbiamo una corrispondenza
+suriettiva tra A e $\mathbb{R}$. Selezioniamo, per ogni retta, un solo elemento (a scelta)
+nell’intersezione con $A$, definendo quindi un sottoinsieme di $A’$ in corrispondenza biunivoca con
+$\mathbb{R}$. Dunque $A’$ non è numerabile, ma questo è un assurdo in quanto se $A$ è numerabile
+lo è sicuramente qualsiasi suo  sottoinsieme infinito.</p>
+:ET

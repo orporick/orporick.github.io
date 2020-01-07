@@ -1,0 +1,135 @@
+I"%<p>Carissimo L,
+ti scrivo brevemente per rispondere alla tua lettera. Purtroppo mi sono accorto di aver perso gli
+appunti di cosmologia di cui ti ho parlato, durante il trasloco di un anno fa temo che siano finiti
+da qualche parte non prevista. Pazienza, non erano sicuramente speciali, mi dispiace perché avevo
+dedicato un po’ di tempo a scriverli. Magari è l’occasione per ripensarli ex novo. Nel frattempo
+cerco di rispondere alla tua domanda in questa lettera, ti propongo un calcolo molto semplice
+sull’argomento che hai deciso di approfondire.</p>
+
+<p>Partiamo dal contesto: ci sono evidenze osservative piuttosto solide che ci dicono che l’universo si
+sta espandendo, ovvero la distanza tra le galassie aumenta nel tempo. La questione non è semplice,
+la teoria che prevede e descrive in modo molto preciso questa espansione è la Relatività Generale di
+Einstein, teoria di cui facciamo qualche accenno in quinta, ma che non intendo approfondire qui.
+Quello che voglio proporti in queste poche righe è un semplice calcolo classico nell’ambito della
+meccanica newtoniana che, incredibilmente, fornisce un risultato uguale a quello ottenibile con la
+teoria più complessa (non è l’unico caso di queste strane coincidenze in fisica). Prima di partire
+ci tengo a sottolineare che questo modello non è realistico da molti punti di vista, ma permette con
+pochi calcoli di avere un’idea generale di alcuni aspetti del fenomeno. I fisici chiamano questi
+modelli <em>toy models</em> per sottolineare che non possono essere usati per studiare una rappresentazione
+fedele della realtà (qualsiasi cosa si intenda con realtà), ma possono essere usati per averne
+un’idea. Insomma, una via di mezzo tra una teoria matematica corretta, ma difficile da riportare in
+ambito liceale, e la storiella divulgativa che purtroppo troppo spesso viene scambiata per
+didattica.</p>
+
+<p>Le ipotesi del modello sono:</p>
+
+<ul>
+  <li>vale la teoria classica della gravitazione universale di Newton che hai studiato sicuramente in
+  terza;</li>
+  <li>
+    <p>dai dati osservativi sappiamo che la velocità con cui varia la distanza $r$ tra due galassie è
+  direttamente proporzionale a $r$, ovvero la famosa <a href="http://fermatslibrary.com/s/a-relation-between-distance-and-radial-velocity-among-extra-galactic-nebulae">legge di Hubble</a></p>
+
+    <script type="math/tex; mode=display">v = H r</script>
+
+    <p>dove $H$ è una costante (costante di Hubble, appunto);</p>
+  </li>
+  <li>l’universo è descrivibile da una distribuzione omogenea di materia con densità $\rho$ a simmetria
+  sferica. Sappiamo
+  che questo non è vero su piccola scala, la materia si trova concentrata in stelle, pianeti,
+  ammassi, galassie etc con grandi spazi “vuoti”. Però su scala cosmologica si è osservata una
+  notevole corrispondenza dei dati osservativi con questa ipotesi di omogeneità. La simmetria
+  sferica seve per un dettaglio tecnico, puoi immaginare che il raggio sia talmente grande da
+  essere praticamente un universo infinito.</li>
+</ul>
+
+<p>Immaginiamo di posizionarci nel centro $O$ e di osservare una galassia di massa $m$ ad una distanza
+$r$ da noi. Per il teorema di Gauss (si, quello che hai studiato per il campo elettrico in quarta) e
+per la simmetria sferica (ecco a cosa serve) il campo gravitazionale che agisce sulla galassia è
+generato solo dalla materia all’interno della sfera di raggio $r$, non da quella esterna. Chiamiamo
+la massa contenuta in questa ѕfera $M(r)$ che è legata alla densità $\rho$ dell’universo</p>
+
+<script type="math/tex; mode=display">M(r) = \rho \frac{4}{3} \pi r ^3</script>
+
+<p>La galassia è dunque soggetta ad una
+forza radiale verso $O$ e non può stare ferma. Questo punto è fondamentale, in un universo
+newtoniano finito non può esserci, in presenza della sola gravità, equilibrio, l’universo deve o
+espandersi o contrarsi; immaginiamo che si stia allontanando da $O$ seguento
+la legge di Hubble, quindi descriviamo un’universo in espansione. Scriviamo quindi l’energia meccanica totale della galassia</p>
+
+<script type="math/tex; mode=display">E = \frac{1}{2} m v^2 - G\frac{M(r)m}{r}</script>
+
+<p>(il primo termine è l’energia cinetica, il secondo è l’energia potenziale gravitazionale che conosci
+dalla terza). Usando la legge di Hubble e l’espressione per $M(r)$ si ottiene</p>
+
+<script type="math/tex; mode=display">E = \frac{1}{2} m H^2 r^2 - G \frac{\rho m \frac{4}{3}\pi r^3}{r}</script>
+
+<p>da cui, semplificando</p>
+
+<script type="math/tex; mode=display">E = \frac{1}{2} m H^2 r^2 - G \frac{4\pi \rho m r^2}{3}</script>
+
+<p>Raccogliendo il termine $\frac{1}{2}mr^2$ si ottiene</p>
+
+<script type="math/tex; mode=display">E = \frac{1}{2}mr^2 \left(  H^2 - \frac{8}{3}\pi G\rho \right)</script>
+
+<p>Come ricorderai dalla meccanica classia, se $E$ è positiva la galassia si allontanerà all’infinito
+(sistema aperto) senza mai fermarsi, ovvero l’energia cinetica è maggiore di quella potenziale di
+legame. Se $E$ è minore di zero invece la galassia si fermerà e tornerà indietro (sistema chiuso). 
+Il caso $E=0$ è  quello che discrimina tra i due, la galassia si fermerà all’infinito. Si vede
+dall’espressione di $E$ che abbiamo ottenuto che il segno non dipende da $m$ o da $r$, ma solo da
+fattori numerici e da $\rho$. Dunque esisterà un valore critico della densità, chiamiamolo $\rho_c$
+per cui $E=0$; si vede facilmente che</p>
+
+<script type="math/tex; mode=display">\rho_c = \frac{3H^2}{8\pi G}</script>
+
+<p>Riassumendo, in questo modello classico abbiamo un universo in espansione con la legge di Hubble e
+l’espansione procederà per sempre se la densità è inferiore ad un certo valore critico $\rho_c$,
+altrimenti si fermerà e tornerà indietro se la densità è superiore a $\rho_c$. Incredibilmente il
+modello di universo in espansione nell’ambito della Relatività Generale fornisce un risultato
+analogo e con una densità critica che è esattamente uguale a quella trovata qui. Al di là di questa
+coincidenza sono però necessari alcuni commenti.</p>
+
+<ol>
+  <li>Il modello classico è basato su una distribuzione di materia in movimento che immaginiamo
+contenuta in uno spazio vuoto; in Relatività Generale la materia è ferma ed è lo spazio che
+dinamicamente si espande. L’immagine di un’universo che si espande in uno spazio contenitore
+vuoto è quindi <strong>sbagliata</strong> secondo la visione moderna della cosmologia, qui la usiamo solo per
+semplificarci la vita nei calcoli.</li>
+  <li>In questo modello il punto $O$ ha un ruolo particolare, è il centro dell’universo. Come detto
+precedentemente questo universo a simmetria sferica è finito per poter fare il calcolo che
+abbiamo fatto, se proviamo a far tendere la sua dimensione all’infinito viene fuori un problema
+tecnico (che ti risparmio). Dunque è un modello in cui c’è un centro fisso ed un universo in
+espansione rispetto a questo centro. Nel modello relativistico tutto questo non c’è, l’universo è
+infinito e non vi è alcun centro, tutti i punti sono equivalenti e da ciascun punto si vede
+l’espansione con la medesima legge di Hubble.</li>
+  <li>Sottolineate queste due forzature, il modello permette però di vedere in modo chiaro, in un
+ambito newtoniano, la natura attrattiva della gravità; una densità troppo alta ($\rho &gt; \rho_c)$ 
+impedisce
+all’universo di espanѕersi per sempre. Oggi, per motivi teorici piuttosto complessi, si è portati
+a credere che la densità dell’universo sia proprio coincidente con il valore critico $\rho_c$. Se
+però si fanno osservazioni, la materia visibile ha una densità molto più bassa. Dunque sembra che
+ci sia una gran quantità di materia nell’universo che non si vede (sto semplificando moltissimo, mi perdonerai visto 
+il contesto); tale materia prende il nome di <strong>materia
+oscura</strong> e capirne la natura è uno dei problemi aperti della cosmologia.</li>
+  <li>C’è un’ulteriore complicazione rispetto a quanto detto fino ad ora; si è infatti scoperto
+recentemente (diciamo negli ultimi vent’anni) che non solo l’universo è in espansione, ma sta
+accelerando. Questo fatto è in contrasto con la natura attrattiva della gravità,
+anche nel nostro modello newtoniano semplificato ci si aspetta che l’espansione rallenti sia nel
+caso in cui prima o poi si fermerà sia nel caso che proceda per sempre. La presenza di una
+accelerazione pone dunque davanti al fatto che la gravità non è l’unica forza che agisce su scale
+cosmologiche, deve esserci un’ulteriore forza repulsiva che su lunghe distanze imprime
+un’accelerazione all’espansione dell’universo. La natura di questa forza, che i fisici chiamano
+con il termine <strong>energia oscura</strong>  è un altro mistero irrisolto della cosmologia (se vuoi te ne
+posso parlare in una lettera successiva).</li>
+</ol>
+
+<p>Bene, ci sarebbero molte altre cose da dire, ma credo di aver scritto quel che mi premeva, ovvero la
+possibilità di descrivere i punti fondamentali di un fenomeno complesso come l’espansione
+dell’universo con un modello semplificato che, per quanto grezzo e sicuramente non adeguato da molti
+punti di vista, è accessibile ad uno studente o ad una studentessa di liceo. La possibilità di
+sviluppare modelli semplificati (consapevoli delle approssimazioni e dei loro limiti) per capire alcuni 
+aspetti di fenomeni complessi credo sia un orizzonte culturale non da poco.</p>
+
+<p>Un caro saluto, prof.</p>
+
+:ET

@@ -1,0 +1,112 @@
+I"W<p>Cara Bianca</p>
+
+<p>l’ultima volta che ci siamo visti mi hai chiesto del problema
+dell’orologio, cerco di risponderti brevemente qui<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. È un problema
+classico che propongo da anni nelle classi dove faccio supplenza, con
+risultati abbastanza minimali (ovvero nessuno di solito mi sa dare la
+soluzione). Non è un problema difficile, anzi, ma richiede di pensare
+in modo diverso rispetto alle abitudini di uno studente o una
+studentessa della nostra scuola. Il problema ha una formulazione molto
+semplice: a mezzogiorno in punto la lancetta dei minuti e quella delle
+ore di un orologio sono sovrapposte (eclisse); in quali altri momenti
+(ora e minuti) si ha un’eclisse di lancette?</p>
+
+<p>La maggior parte dei ragazzi e delle ragazze senza pensarci su
+risponde qualcosa del tipo “All’una e cinque”, senza pensare che
+quando la lancetta dei minuti è sul cinque quella delle ore non puó
+essere esattamente sul cinque (ovvero l’una), ma deve trovarsi un po’
+oltre in quanto sono passati cinque minuti dal momento in cui c’era.</p>
+
+<p>Esistono molti modi di rispondere, te ne propongo tre.</p>
+
+<h1 id="per-simmetria">Per simmetria</h1>
+
+<p>Dimostriamo per simmetria che le eclissi sono distanziate dal medesimo
+intervallo di tempo. Si prenda per esempio la prima eclisse dopo
+mezzogiorno, si troverá poco dopo l’una e cinque. Se ora si ruota
+l’intero orologio in modo da far sì che le due lancette sovrapposte
+risultino verticali, si torna ad una situazione equivalente a quella
+che si aveva a mezzogiorno. Dunque la successiva eclisse, la seconda
+eclisse dopo mezzogiorno, avverà dopo un’intervallo uguale a quello
+che separa la prima eclisse da mezzogiorno, e così via. Siccome la
+prima eclisse avviene dopo più di un’ora, e dopo meno di due, le
+eclissi devono essere 11 (non possono essere 12 perché se no se ne
+avrebbe una ogni ora, e abbiamo visto che questo non succede)
+nell’arco delle 12 ore (un giro completo). Dunque basta dividere
+l’angolo giro in 11 parti per sapere l’angolo che le lancette
+percorrono tra un’eclisse e la successiva</p>
+
+<script type="math/tex; mode=display">\theta = \frac{2\pi}{11} \mathrm{rad}</script>
+
+<p>La lancetta delle ore si muove ad una velocità angolare pari a</p>
+
+<script type="math/tex; mode=display">\omega = \frac{2\pi}{12} \mathrm{\frac{rad}{ora}}</script>
+
+<p>Dunque le eclissi sono distanziate da un tempo dato da</p>
+
+<script type="math/tex; mode=display">t = \frac{\theta}{\omega} = \frac{12}{11} \mathrm{ora} \simeq 1\,
+\mathrm{ora}\quad 5\, \mathrm{minuti}\quad 27\, \mathrm{secondi}</script>
+
+<h1 id="inseguimento">Inseguimento</h1>
+
+<p>Possiamo scrivere le leggi orarie del moto angolare delle due lancette
+ed impostare il problema come un classico problema di inseguimento. La
+lancetta delle ore ha una legge oraria data da</p>
+
+<script type="math/tex; mode=display">\theta_o = \omega_o t</script>
+
+<p>e quella dei minuti, analogamente, da</p>
+
+<script type="math/tex; mode=display">\theta_m = \omega_m t</script>
+
+<p>dove gli angoli sono presi rispetto all’asse passante per
+mezzogiorno. Esprimendo le velocità angolari in rad/ora si ha</p>
+
+<script type="math/tex; mode=display">\omega_o = \frac{2\pi}{12} \mathrm{\frac{rad}{ora}}</script>
+
+<p>e</p>
+
+<script type="math/tex; mode=display">\omega_m = 2\pi \mathrm{\frac{rad}{ora}}</script>
+
+<p>Una eclisse avviene quando la differenza tra $\theta_o$ e $\theta_m$ è
+un multiplo di $2\pi$, ovvero</p>
+
+<script type="math/tex; mode=display">\theta_m - \theta_o = 2 n \pi</script>
+
+<p>da cui</p>
+
+<script type="math/tex; mode=display">t (\omega_m - \omega_o) = 2 n \pi</script>
+
+<p>e quindi</p>
+
+<script type="math/tex; mode=display">t(2\pi - \frac{2\pi}{12}) = 2 n \pi</script>
+
+<p>Si ottiene infine, raccogliendo e semplificando</p>
+
+<script type="math/tex; mode=display">t = n \frac{12}{11}</script>
+
+<p>dove il risultato è espresso in ore. Si ottiene dunque lo stesso
+risultato di prima (da notare che quando $n=11$ si ha $t=12$, ovvero
+dopo 11 eclissi sono passate esattamente 12 ore, le lancette sono
+tornate entrambe nella posizione verticale verso l’alto).</p>
+
+<h1 id="numeri-complessi">Numeri complessi</h1>
+
+<p>Una variante del primo metodo consiste nell’accorgersi che le eclissi,
+essendo 11, costituiscono intorno al centro dell’orologio i vertici di
+un poligono regolare di 11 lati. Si può usare allora la nota proprietà
+dei numeri complessi relativa alle radici ennesime di un numero
+complesso. Ti lascio da dimostrare che effettivamente le eclissi si
+posizionano come le radici undicesime di $i$ (unità immaginaria).</p>
+
+<p>Spero di sentire presto tue notizie. Saluti, prof.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Ringrazio il collega Sangoi per alcuni preziosi suggerimenti nel
+ripensare al problema. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

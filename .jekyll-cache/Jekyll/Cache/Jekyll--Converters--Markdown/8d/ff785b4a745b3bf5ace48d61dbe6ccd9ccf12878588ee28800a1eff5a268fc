@@ -1,0 +1,15 @@
+I"�<p>Sia dato un albero binario pieno finito di altezza $n$; dimostrare che il numero
+di cammini che partono dalla radice e arrivano alle foglie terminali è minore del
+numero di vertici dell’albero per ogni valore di $n$. Cosa succede se $n$ tende
+a infinito?</p>
+
+<p>(La seconda parte è complicata, ma non impossibile; mostra un apparente
+    paradosso, detto <em>paradosso di Peppermaus</em>, simile al pradosso di Littlewood
+    mostrato
+    <a href="http://orporick.github.io/imperfezioni/2018/03/13/un-altra-imperfezione/">qui</a>.
+    In pratica puoi dimostrare che quando $n$ tende ad infinito paradossalmente
+    la situazione si inverte, il numero di
+    cammini diventa più grande, nel senso di Cantor, del numero di vertici.
+    Ne abbiamo parlato in classe e ne
+    parlo anche <a href="https://www.librimondadori.it/libri/un-labirinto-incerto-riccardo-giannitrapani/">qui</a>.)</p>
+:ET

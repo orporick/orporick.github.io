@@ -1,0 +1,14 @@
+I"<p>Dimostrare che la sequenza</p>
+
+<script type="math/tex; mode=display">\sqrt{1+\sqrt{1+\sqrt{1+\sqrt{\ldots}}}}</script>
+
+<p>dove i puntini indicano una ripetizione all’infinito, è il numero aureo.</p>
+
+<p><em>(Ricordo che il numero aureo è</em></p>
+
+<script type="math/tex; mode=display">\frac{1+\sqrt{5}}{2}</script>
+
+<p><em>Dimostrare che la sequenza data, se esiste, è il numero aureo non è complicato; per completezza
+però si dovrebbe dimostrare prima di tutto che la sequenza converge ad un valore.)</em></p>
+
+:ET

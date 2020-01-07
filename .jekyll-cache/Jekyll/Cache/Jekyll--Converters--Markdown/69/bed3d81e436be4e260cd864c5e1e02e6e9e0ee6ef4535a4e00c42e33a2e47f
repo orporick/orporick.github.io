@@ -1,0 +1,130 @@
+I"�<p>Caro L., rispondo solo ora alla tua gentile richiesta, sono giorni un po’
+impegnativi. Nella tua lettera hai detto di aver visto il mio <a href="https://twitter.com/orporick/status/1199829863093407746">tweet</a>
+іn cui proponevo uno strano codice in <a href="https://www.jsoftware.com/#/">linguaggio J</a></p>
+
+<pre><code class="language-j">((] , +/&amp;(_2&amp;{.))^:10) 1 1
+</code></pre>
+
+<p>Provo a spiegarti in queste poche righe, prendila come una piccola introduzione
+ad un sistema per fare matematica sperimentale. 
+Il mio interesse per questo strano, ma potente, linguaggio di
+programmazione è di natura sentimentale; da giovane laureando in Fisica presso 
+l’Istituto di Astronomia di Pisa, tanti tanti anni fa, iniziai ad avvicinarmi 
+seriamente al
+mondo della programmazione (dopo il basic del Sinclari ZX-80 e del Commodore 64,
+nomi che non ti diranno molto) con il classico Pascal e, soprattutto, con APL, un
+programma orientato agli array molto particolare, denso e complesso. J è, per
+certi versi, il successore di APL, entrambi ideati da K.E.Iverson. Ultimamente,
+riprendendo in mano la strana programmazione orientata agli array di J, mi
+sembra di camminare di nuovo tra i corridoi di Piazza Torricelli a Pisa in
+un’epoca in cui il World Wide Web doveva ancora arrivare.</p>
+
+<p>Passando oltre questi stupidi e personali sentimentalismi, torniamo alla strana
+riga. In J le funzioni si chiamano “verbi” (la metafora della grammatica è molto
+usata nella comunità di J) e possono essere monadici, ovvero applicati ad un
+solo argomento (a destra) o diadici, ovvero applicati a due argomenti (uno a
+destra ed uno a sinistra). Per esempio il verbo % se usato in modo monadico
+restituisce il reciproco in un numero</p>
+
+<pre><code class="language-j">%n --&gt; 1/n
+</code></pre>
+
+<p>se usato in modo diadico restituisce la frazione</p>
+
+<pre><code class="language-j">n%m --&gt; n/m
+</code></pre>
+
+<p>Tre verbi racchiusi da parentesi fanno un “fork”: dunque</p>
+
+<pre><code class="language-j">(a b c)
+</code></pre>
+
+<p>è un fork. Se applicato ad un nome (che può essere un numero, ma anche un array
+come vedremo), si ottiene il seguente effetto</p>
+
+<pre><code class="language-j">(a b c) n --&gt; an b cn 
+</code></pre>
+
+<p>ovvero si applicano i verbi monadici a e c al nome n e i due risultati si passano al
+verbo diadico b.</p>
+
+<p>Incominciamo dunque a districare la strana riga del mio tweet; abbiamo applicato
+un fork di tre verbi (che ora discuteremo) ad un array di numeri, ovvero 1 1
+(vediamo dopo cosa significa poi il simbolo ^:10).</p>
+
+<p>I tre verbi che costituiscono il fork sono</p>
+
+<pre><code class="language-j">]
+</code></pre>
+<p>che non fa altro che duplicare il nome a cui è applicato</p>
+
+<pre><code class="language-j">] 11 -&gt; 11
+</code></pre>
+
+<p>Abbiamo a destra qualcosa di più elaborato:</p>
+
+<pre><code class="language-j">+/&amp;(_2&amp;{.)
+</code></pre>
+
+<p>Il termine a destra (in J si parte da destra) è specifico del linguaggio ed
+estrae gli ultimi due elementi di un array, ad esempio</p>
+
+<pre><code class="language-j">_2&amp;{. 1 2 3 4 5 --&gt; 4 5
+</code></pre>
+
+<p>A questo si aggancia (con l’&amp;) un secondo verbo</p>
+
+<pre><code class="language-j">+/
+</code></pre>
+
+<p>che applica la somma + tra ogni elemento dell’array, nell’esempio tra 4 e 5</p>
+
+<pre><code class="language-j">+/&amp;(_2&amp;{.) 1 2 3 4 5 --&gt; 9
+</code></pre>
+
+<p>Infine il verbo in mezzo del fork è una semplice , che implica concatenazione,
+ovvero costruisce un nuovo array mettendo insieme il risultato a sinistra ed il
+risultato a destra. A questo punto dovrebbe esserti chiaro cosa faccia il nostro
+fork all’array 1 1</p>
+
+<pre><code class="language-j">(] , +/&amp;(_2&amp;{.)) 1 1
+</code></pre>
+
+<p>A sinistra replica l’array di ingresso 1 1, a destra calcola la somma degli
+ultimi due elementi (quindi 1+1=2) ed infine crea un nuovo array concatenandoli</p>
+
+<pre><code class="language-j">(] , +/&amp;(_2&amp;{.)) 1 1 --&gt; 1 1 2
+</code></pre>
+
+<p>Ti sarà a questo punto evidente che stiamo costruendo la successione di
+Fibonacci. Se applichiamo di nuovo il nostro fork al risultato otteniamo</p>
+
+<pre><code class="language-j">(] , +/&amp;(_2&amp;{.)) 1 1 2 --&gt; 1 1 2 3
+</code></pre>
+
+<p>e così via. Ecco l’ultimo mistero, l’operazione ^:10 non fa altro che applicare
+10 volte il fork, ottenendo la sequenza con i primi 12 (10 + i due iniziali)
+elementi della successione di Fibonacci</p>
+
+<pre><code class="language-j">1 1 2 3 5 8 13 21 34 55 89 144
+</code></pre>
+
+<p>Bene, questo era un semplice esempio di uso di questo particolare linguaggio,
+come vedi la potenza simbolica si paga con  una leggibilità ridotta del
+codice. Ma ti assicuro che una volta che ti ci appassionerai non tornerai più
+indietro.</p>
+
+<p>Ti lascio come esercizio capire (ed eventualmente sperimentare) cosa significa</p>
+
+<pre><code class="language-j"> % %/ _2&amp;{. ((] , +/&amp;(_2&amp;{.))^:10) 1 1
+</code></pre>
+
+<p>Cosa succede se aumento quel 10.</p>
+
+<p>Un caro saluto, prof.</p>
+
+<p>P.S. Mi son reso conto scrivendo questo post che Jekyll, il sistema con cui
+mantengo questo mio piccolo spazio sulla rete, non supporta il linguaggio J per
+il syntax highlight del codice. Solo per questo sarebbe il caso di passare ad un
+altro sistema, ma adesso son troppo stanco.</p>
+:ET

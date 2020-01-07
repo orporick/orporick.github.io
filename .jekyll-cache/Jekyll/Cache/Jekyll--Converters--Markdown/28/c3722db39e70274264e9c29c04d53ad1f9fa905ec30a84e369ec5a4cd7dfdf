@@ -1,0 +1,133 @@
+I"�<p>Cari studenti e care studentesse di 5C, stamane ho fatto un errore
+piuttosto grave durante la spiegazione sulle equazioni
+differenziali. Ho poi rimediato, ma mi è rimasto il dispiacere per una
+imperfezione evitabile. Non ho scusanti se non un po’ di stanchezza e
+l’aver voluto seguire la notazione del vostro libro su due piedi
+invece di usare quella a cui sono abituato. Risultato
+disastroso. Aveva ragione Hardy quando diceva che superati i 40 anni
+sarebbe meglio non dedicarsi più alla matematica. Vabbè, cosa fatta
+capo ha, il risultato è che, a parziale risarcimento, adesso avete
+tutti un caffè pagato al bar della scuola. Inoltre provo qui in poche
+righe a riscrivere in modo dettagliato quanto stamane ho fatto in modo
+così confuso alla lavagna così che vi possa essere utile in
+seguito. Come sempre impariamo dalle imperfezioni, soprattutto dalle
+mie (le vostre sono scusabili).</p>
+
+<p>Stiamo parlando di equazioni differenziali lineari del primo ordine,
+ovvero, con la notazione usata stamane in classe, equazioni del tipo</p>
+
+<script type="math/tex; mode=display">y' + a(x) y = b(x)</script>
+
+<p>dove $y=f(x)$ è una funzione della variabile $x$ e $a(x)$ e $b(x)$ sono
+funzioni reali. Ricordo che risolvere l’equazione differenziale
+significa trovare la famiglia di funzioni (le curve integrali) che la
+soddisfa.</p>
+
+<p>Si parte dal caso omogeneo, ovvero $b(x) = 0$; l’equazione allora
+diventa</p>
+
+<script type="math/tex; mode=display">y' = -a(x) y</script>
+
+<p>e si vede subito che è un’equazione differenziale a variabili
+separabili la cui soluzione trovata in classe (questa era giusta) è</p>
+
+<script type="math/tex; mode=display">y = e^{-\int a(x){\rm d}x}</script>
+
+<p>Immaginiamo che $a(x)$ sia integrabile e dunque scriviamo</p>
+
+<script type="math/tex; mode=display">\int a(x) {\rm d} x = A(x) + c</script>
+
+<p>dove $A(x) + c$ è la generica primitiva di $a(x)$. Quindi la soluzione
+dell’omogenea si può scrivere come</p>
+
+<script type="math/tex; mode=display">y = e^{-(A(x) + c)}</script>
+
+<p>Bene, questo per l’equazione omogenea. Per l’equazione non omogenea ho
+fatto il disastro, rieccovi il ragionamento completo questa volta
+corretto (spero).</p>
+
+<p>Si parte dalla soluzione dell’omogenea, ma si considera la costante di
+integrazione $c$ come una funzione di $x$. Ovvero si prende la
+seguente funzione</p>
+
+<script type="math/tex; mode=display">y = e^{-(A(x) + c(x))}</script>
+
+<p>e si prova a vedere se è soluzione dell’equazione di
+partenza. Inserendola e facendo le opportune derivate otteniamo</p>
+
+<script type="math/tex; mode=display">-(A'(x) + c'(x))e^{-(A(x) + c(x))} + a(x)e^{-(A(x) + c(x))} = b(x)</script>
+
+<p>Ma siccome $A(x)$ è una primitiva di $a(x)$ si ha $A’(x) = a(x)$ per
+definizione di primitiva. Dunque</p>
+
+<script type="math/tex; mode=display">-(a(x) + c'(x))e^{-(A(x) + c(x))} + a(x)e^{-(A(x) + c(x))} = b(x)</script>
+
+<p>Si vede che il termine che contiene $a(x)$ si semplifica e otteniamo</p>
+
+<script type="math/tex; mode=display">-c'(x)e^{-(A(x) + c(x))} = b(x)</script>
+
+<p>Questa è un’equazione differenziabile alle variabili separabili per la
+funzione $c$. Con semplice passaggio algebrico diventa</p>
+
+<script type="math/tex; mode=display">-c'(x)e^{-c(x)} = b(x) e^{A(x)}</script>
+
+<p>Inegrando rispetto a $x$</p>
+
+<script type="math/tex; mode=display">\int -c'(x)e^{-c(x)} {\rm d}x = \int b(x) e^{A(x)} {\rm d} x</script>
+
+<p>Il primo membro è immediato e si ottiene</p>
+
+<script type="math/tex; mode=display">e^{-c(x)} = \int b(x) e^{A(x)} {\rm d} x</script>
+
+<p>(come ho detto in classe non metto qui la costante di integrazione
+potendola sempre riassorbire nella costante di inegrazione
+dell’integrale nel membro di destra).</p>
+
+<p>Si può a questo punto usare questo risultato e rimetterlo dentro la
+soluzione $y$ che abbiamo provato all’inizio del ragionamento,
+ottenendo</p>
+
+<script type="math/tex; mode=display">y = e^{-A(x)} \int b(x) e^{A(x)} {\rm d} x</script>
+
+<p>Ecco, questa è la soluzione dell’equazione differenziale lineare che
+abbiamo affrontato (se volete potete dimenticare tutti i passaggi,
+questa è la soluzione da ricordare). Notate che la soluzione
+contiene un integrale, quindi una costante di inegrazione: le
+soluzioni costituiscono una famiglia infinita di funzioni (le curve
+integrali dell’equazione).</p>
+
+<p>Faccio un esempio. Si voglia risolvere la seguente equazione
+differenziale</p>
+
+<script type="math/tex; mode=display">y' + ky = h</script>
+
+<p>con $k$ e $h$ numeri reali. In questo caso si ha</p>
+
+<script type="math/tex; mode=display">a(x) = k</script>
+
+<script type="math/tex; mode=display">b(x) = h</script>
+
+<script type="math/tex; mode=display">A(x) = kx</script>
+
+<script type="math/tex; mode=display">\int b(x) e^{A(x)} {\rm d} x = \int h e^{kx} {\rm d} x = \frac{h}{k} e^{kx}
++ c</script>
+
+<p>Da cui la soluzione</p>
+
+<script type="math/tex; mode=display">y = e^{-kx}(\frac{h}{k}e^{kx} + c)</script>
+
+<p>ovvero</p>
+
+<script type="math/tex; mode=display">y = \frac{h}{k} + c e^{-kx}</script>
+
+<p>dove $c$ è la costante di integrazione. Esercizio per casa: dimostrare
+che questa equazione descrive per esempio il moto di caduta verticale
+di un corpo soggetto ad una forza di gravità costante e ad una forza
+di attrito proporzionale alla velocità. Cosa si può dedurre dalla
+soluzione?</p>
+
+<p>Va bene, vi ho tediati abbastanza. Spero di essere stato un po’ meno
+impreciso in queste poche righe, mi scuso ancora per l’errore di
+stamane. Alla prossima imperfezione.</p>
+
+:ET
