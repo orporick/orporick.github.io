@@ -1,0 +1,88 @@
+I"{<div class="right"><i>... per Whitman e Francesco d’Assisi, che scrissero già questa poesia,<br />
+per il fatto che questa poesia è inesauribile<br />
+e si confonde con la somma delle creature<br />
+e non arriverà mai all’ultimo verso</i><br />
+<b>Joege Luis Borges </b></div>
+
+<p><br /></p>
+<hr class="style-eight" />
+
+<p><br /></p>
+
+<p>Caro Francesco, la notte è iniziata, tua sorella ha ancora la febbre ed ogni
+tanto mi chiama, il sonno stanotte tarderà come altre volte. Ho quindi trovato
+un po’ di tempo e di coraggio per provare a rispondere ad una tua domanda, o
+almeno cominciare<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>: di cosa parlano tutti questi libri che mi seppelliscono
+(o riparano) durante la notte? La risposta breve (e quindi disonesta) è che
+parlano di idee che un tempo ho ritenuto importanti, talmente importanti da
+ridurre la mia vita ad una ricerca costante, senza sosta o speranza. Oggi, sarà forse il
+tempo che è rimasto impigliato nella mia barba bianca, ho rallentato il passo,
+mi accontento di intuire più che di capire. Però, tra tutti questi panorami che
+mi hanno tenuto compagnia, uno in particolare credo che meriti una risposta più
+dettagliata. Ecco dunque il motivo di questa mia lettera, raccontarti,
+brevemente e parzialmente, un’idea che mi ha tenuto sveglio per molti anni.</p>
+
+<p>La storia parte da molto lontano, ma se vogliamo trovare un punto di partenza
+potrebbe essere la conferenza tenuta da <a href="https://www.equipes.lps.u-psud.fr/Montambaux/histoire-physique/Kelvin-1900.pdf">Lord
+Kelvin</a>
+il 27 aprile del 1900, anno memorabile e simbolo di una nuova rinascita. Per
+capire il contenuto di quella conferenza bisogna guardare al panorama
+scientifico del secolo appena concluso, in particolare all’edificio che la
+Fisica aveva eretto con fatica e dedizione. Banalizzando, tre erano i pilastri
+su cui si reggeva l’intera conoscenza delle leggi fisiche della natura:</p>
+
+<ol>
+  <li>la meccanica nella sua formulazione newtoniana, un’incredibile teoria che pur
+presentando ancora alcune lacune sembrava un monumento di incredibile
+solidità;</li>
+  <li>la termodinamica le cui applicazioni pratiche avevano rivoluzionato interi
+continenti;</li>
+  <li>l’elettromagnetismo, il risultato di uno sforzo collettivo riassunto da
+Maxwell nelle sue famose equazioni.</li>
+</ol>
+
+<p>In particolare l’elettromagnetismo, l’ultimo arrivato, sembrava rappresentare un
+successo straordinario culturale e tecnologico. I fisici di fine secolo erano
+impegnati non solo a consolidare, sistemare ed applicare questi domini
+della fisica, ma erano interessati alle intersezioni. Meccanica e termodinamica
+erano già state oggetto di varie unificazioni concettuali che, semplificando,
+possiamo identificare con la meccanica statistica dello stesso Maxwell e dello
+sfortunato
+<a href="https://books.google.it/books/about/L_atomo_di_Boltzmann.html?id=RfArAAAACAAJ&amp;source=kp_book_description&amp;redir_esc=y">Boltzmann</a>.
+Rimanevano da capire i possibili contributi a cavallo tra elettromagnetismo e
+meccanica e tra elettromagnetismo e termodinamica. Esattamente di queste due
+indagini parla, quella mattina di aprile, Lord Kelvin. Egli analizza lo stato
+della situazione e mette in guardia la comunità scientifica su 
+<a href="https://history.aip.org/exhibits/gap/PDF/michelson.pdf">Michelson e Morley</a></p>
+
+<p align="center"> 
+<img width="500" src="http://localhost:4000/images/fiume.png" />
+</p>
+
+<script type="math/tex; mode=display">t_{AB} = \frac{L}{c+v}</script>
+
+<script type="math/tex; mode=display">t_{BA} = \frac{L}{c-v}</script>
+
+<script type="math/tex; mode=display">t_{ABA} = \frac{2L}{c\left(1-\frac{v^2}{c^2}\right)}</script>
+
+<script type="math/tex; mode=display">v^2 t_{AC}^2 + L^2 = c^2 t_{AC}^2</script>
+
+<script type="math/tex; mode=display">t_{AC} = \frac{L}{c\sqrt{1-\frac{v^2}{c^2}}}</script>
+
+<script type="math/tex; mode=display">t_{ACA} = \frac{2L}{c\sqrt{1-\frac{v^2}{c^2}}}</script>
+
+<script type="math/tex; mode=display">\frac{t_{ACA}}{t_{ABA}} = \sqrt{1-\frac{v^2}{c^2}}</script>
+
+<p><br /></p>
+<hr class="style-eight" />
+
+<p><br /></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>L’idea di raccontare la relatività tramite delle lettere scritte a mio figlio Francesco gira nella mia testa da diversi anni. Alcune, come questa, le ho scritte realmente, alcune le ho immaginate dettagliatamente, di altre ancora ho solo una vaga idea di contesto e contenuto. C’è stato anche un momento della mia vita in cui ho pensato di sistemare il tutto e provare a tirarne fuori un progetto editoriale; la consapevolezza dei miei vasti limiti e di un panorama già denso di opere sull’argomento a cui non avrei aggiunto nulla mi ha fatto desistere dall’idea. Ho pensato dunque di mettere qui sopra questa prima lettera come contributo didattico per i miei studenti e le mie studentesse di quinta, figli e figlie in prestito; troveranno infatti in queste poche righe gli argomenti con cui abbiamo iniziato questo viaggio in classe, nella speranza (sempre) che possano essere il punto di partenza per personali approfondimenti. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
