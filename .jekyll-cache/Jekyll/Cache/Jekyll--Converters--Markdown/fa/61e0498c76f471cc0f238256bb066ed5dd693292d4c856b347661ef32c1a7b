@@ -1,21 +1,14 @@
----
-layout: post
-title: "Lettera ad un figlio su un'idea"
-published: true
-tags: [fisica]
-categories: Lettere
----
-
-<div class="right"><i>... per Whitman e Francesco d’Assisi, che scrissero già questa poesia,<br>
-per il fatto che questa poesia è inesauribile<br>
-e si confonde con la somma delle creature<br>
-e non arriverà mai all’ultimo verso</i><br>
+I"�/<div class="right"><i>... per Whitman e Francesco d’Assisi, che scrissero già questa poesia,<br />
+per il fatto che questa poesia è inesauribile<br />
+e si confonde con la somma delle creature<br />
+e non arriverà mai all’ultimo verso</i><br />
 <b>Jorge Luis Borges </b></div>
 
-<br>
-<hr class="style-eight">
-<br>
-Caro Francesco, la notte è iniziata e, come spesso succede, mi ha portato la tua
+<p><br /></p>
+<hr class="style-eight" />
+
+<p><br /></p>
+<p>Caro Francesco, la notte è iniziata e, come spesso succede, mi ha portato la tua
 voce inventata. Tua sorella ha ancora la febbre ed ogni
 tanto mi chiama, il sonno stanotte tarderà come altre volte. Ho quindi trovato
 un po' di tempo e di coraggio per provare a rispondere, o
@@ -70,7 +63,7 @@ della fisica, ma erano interessati alle loro intersezioni ed alla ricerca incess
 In questo spirito, meccanica e termodinamica erano già state oggetto di varie
 unificazioni concettuali che, semplificando, possiamo identificare con la
 meccanica statistica dello stesso Maxwell e dello sfortunato
-[Boltzmann](https://books.google.it/books/about/L_atomo_di_Boltzmann.html?id=RfArAAAACAAJ&source=kp_book_description&redir_esc=y).
+[Boltzmann](https://books.google.it/books/about/L_atomo_di_Boltzmann.html?id=RfArAAAACAAJ&amp;source=kp_book_description&amp;redir_esc=y).
 Rimanevano invece terreno ancora incerto di ricerca le intersezioni tra elettromagnetismo e
 meccanica e tra elettromagnetismo e termodinamica. Esattamente di queste due
 indagini parla, quella mattina di aprile, Lord Kelvin. Egli analizza lo stato
@@ -96,7 +89,7 @@ alla distanza $AC$ e indichiamo entrambe con $L$.
 
 
 <p align="center"> 
-<img width="500" src="{{ site.url }}/images/fiume.png">
+<img width="500" src="http://localhost:4000/images/fiume.png" />
 </p>
 
 Supponi ora di voler cronometrare i tempi che impieghi per andare a nuoto da $A$ a $B$ e
@@ -109,7 +102,7 @@ crediamo nelle leggi della meccanica, ed in particolare nella composizione delle
 velocità, quando nuoti a favore della corrente la tua velocità si sommerà a
 quella della corrente; invece quando nuoti da valle a monte alla tua velocità si
 dovrà sottrarre quella della corrente (per poter fare questo tipo di nuotata è
-quindi necessario ipotizzare $c>v$). Risulta quindi semplice calcolare i tempi
+quindi necessario ipotizzare $c&gt;v$). Risulta quindi semplice calcolare i tempi
 per andare da $A$ a $B$ e ritorno
 
 $$ t_{AB} = \frac{L}{c+v} $$
@@ -193,8 +186,10 @@ memoria argomenti, paesaggi ed orizzonti cari.
 
 Un abbraccio, papà.
 
-<br>
-<hr class="style-eight">
+<br />
+<hr class="style-eight" />
 
-[^1]: L'idea di raccontare la relatività tramite delle lettere scritte a mio figlio Francesco gira nella mia testa da diversi anni. Alcune, come questa, le ho scritte realmente, alcune le ho immaginate dettagliatamente, di altre ancora ho solo una vaga idea di contesto e contenuto. C'è stato anche un momento della mia vita in cui ho pensato di sistemare il tutto e provare a tirarne fuori una dispensa per le mie classi; la consapevolezza dei miei vasti limiti e di un panorama già denso di opere sull'argomento a cui non avrei aggiunto nulla mi ha fatto desistere dall'idea. Ho pensato comunque di mettere qui sopra questa prima lettera come contributo didattico per i miei studenti e le mie studentesse di quinta, figli e figlie in prestito; troveranno infatti in queste poche righe gli argomenti con cui abbiamo iniziato questo viaggio in classe, nella speranza (sempre) che possano essere il punto di partenza per personali approfondimenti.
+[^1]: L'idea di raccontare la relatività tramite delle lettere scritte a mio figlio Francesco gira nella mia testa da diversi anni. Alcune, come questa, le ho scritte realmente, alcune le ho immaginate dettagliatamente, di altre ancora ho solo una vaga idea di contesto e contenuto. C'è stato anche un momento della mia vita in cui ho pensato di sistemare il tutto e provare a tirarne fuori un progetto editoriale; la consapevolezza dei miei vasti limiti e di un panorama già denso di opere sull'argomento a cui non avrei aggiunto nulla mi ha fatto desistere dall'idea. Ho pensato dunque di mettere qui sopra questa prima lettera come contributo didattico per i miei studenti e le mie studentesse di quinta, figli e figlie in prestito; troveranno infatti in queste poche righe gli argomenti con cui abbiamo iniziato questo viaggio in classe, nella speranza (sempre) che possano essere il punto di partenza per personali approfondimenti.
 
+</p>
+:ET
