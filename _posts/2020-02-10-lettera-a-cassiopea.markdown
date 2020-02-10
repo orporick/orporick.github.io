@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Lettera a Cassiopea"
+published: true
+---
+
+Cara CQ, ti immagino mentre dormi nel buio di una stanza accanto, i capelli color del
+tempo confine di un volto consueto, il respiro copiato con pazienza dal
+lenzuolo, la forma segreta del tuo corpo. Tu non sai quante volte al buio ho
+studiato la geografia del tuo contorno, frontiera della mia insonnia e conforto
+di tanti dubbi. Questi sono giorni senza sorriso, giorni che ti scoprono
+pensierosa e fragile, aggrappata al mondo ed alle cose, misurata nei gesti, con
+voce lontana. Sono giorni in cui mi sento a volte inutile, a lato di una piccola
+paura che non sai gestire, che non so togliere. Spesso, la notte, quando il
+sonno non arriva (per scelta o per abitudine) ed i gatti esplorano la casa, alla
+tenue luce delle cose addormentate mi siedo al tuo scrittoio. Minuti che a volte
+diventano ore. Sento il rumore della penna che incide, posso quasi vederti curva
+sui quaderni, minuziosa artigiana della parola. Penso allora a tutte le parole
+che mi hai scritto, a tutta la strada che abbiamo fatto, alla casa con la
+veranda in cui ascoltavamo l'estate, alle tue pillole, al pianto di AW, ad ogni
+singola carezza. Penso anche a tutti i miei errori, al tuo perdono quotidiano,
+alla vastità che hai portato nella mia vita, al nostro credo comune nelle
+piccole cose. Vorrei togliere il peso dai tuoi occhi, riesco solo a scriverti
+queste poche righe; io che ho immaginato di studiare l'universo e le sue leggi
+mi arrendo di fronte alla tua maestosa astronomia, ad ogni singola costellazione
+della tua pelle, alla saggezza delle tue
+parole, al mestiere di scrivere che finalmente hai trovato.  Non pretendo più di
+costruire cosmologie o teoremi, rinuncio ai mondi reali ed immaginari in cui
+avevo fissato il mio esilio; mi basta, al mattino, guardarti di nascosto mentre
+riordini i pensieri, parli con i gatti, ridi con AW, pensi tremando a qualche altra
+parola da sottrarre all'oblio. 
+
+Non sono capace di far sparire le paure di questi giorni, tu sola sai come fare;
+l'unica cosa che posso dirti con stupide parole prolisse è che io sono più
+fortunato, io non ho paura, vicino ho una donna dal nome segreto che, armata di
+lancia, conosce perfettamente la rotta. Anche se lei non lo sa.
+
+R.
