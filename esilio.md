@@ -103,8 +103,7 @@ tempo fa](../documents/em.pdf). Ripassate inoltre l'introduzione al k-calculus
 di Bondi e in generale la relatività ristretta (vi ho messo dei video, vedi
 oltre). Potete studiare sugli appunti e per la primissima discussione sul
 problema potete fare riferimento a questa [mia
-lettera](http://orporick.github.io/lettere/2020/01/17/lettera-ad-un-figlio-su-un-idea/)
-di tempo fa. Temo che vista la pausa prolungata salterà l'introduzione alla
+lettera](http://orporick.github.io/lettere/2020/01/17/lettera-ad-un-figlio-su-un-idea/). Temo che vista la pausa prolungata salterà l'introduzione alla
 relatività generale che vi avevo promesso, se ci sarà tempo la proporrò
 eventualmente in un paio di incontri pomeridiani (alla riapertura delle attività
 didattiche ovviamente) a cui parteciperà solo chi ha qualche interesse in merito
