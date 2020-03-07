@@ -15,8 +15,11 @@ Di seguito, dopo un riassunto dei metodi che avete per contattarmi, riporto
 classe per classe gli argomenti che vi chiedo di rivedere, i materiali (scritti,
 video etc) che ho predisposto per voi, alcuni suggerimenti su compiti da fare
 (non sono prescrittivi, fateli se ve la sentite; sono pensati per farvi cercare
-e ragionare, un buon modo per passare il tempo in giorni complessi.
+e ragionare, un buon modo per passare il tempo in giorni complessi).
 
+<br>
+<hr class="style-eight">
+<br>
 
 # Contatti
 
@@ -27,10 +30,15 @@ canali che per vostra comodità riassumo qui
 * [email ufficiale della scuola](mailto:riccardo.giannitrapani@liceomarinelli.edu.it)
 * Google Hangouts (quando sono collegato, usate l'email ufficiale della scuola) 
 * [twitter](https://twitter.com/orporick)
+* [Canale YouTube](https://www.youtube.com/channel/UCbGXVD3e3aSiZTSCX-_R77Q)
+    (trovate un po' di video)
 * [facebook](https://www.facebook.com/riccardo.giannitrapani) (se proprio dovete, è un canale che non uso volentieri)
 * tramite Campus Virtuale della scuola
 * telefono, whatsapp, telegram (a richiesta privata)
 
+<br>
+<hr class="style-eight">
+<br>
 
 # Terza C
 
@@ -50,6 +58,9 @@ quadrato della distanza dalla terza legge di Keplero
 1. Leggete, interpretate e spiegate il corollario 7 di pag 8 di [questa versione
     dei Principia di Newton](https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up). Come si collega a quanto visto in classe? 
 
+<br>
+<hr class="style-eight">
+<br>
 
 # Quarta N
 
@@ -71,9 +82,9 @@ continuerò a farlo, quindi rimanete collegati.
 
 ## Video
 
-[Ripasso del calcolo cobinatorio](https://www.youtube.com/watch?v=L8nbrfrAlvw)
-
-[Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo,
+* [Ripasso del calcolo cobinatorio](https://www.youtube.com/watch?v=L8nbrfrAlvw)
+* [Ripasso del ripasso di probabilità](https://www.youtube.com/watch?v=2sawn5v0JgE)
+* [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo,
 date un'occhiata per cominciare ad orientarvi, non è difficile).
 
 ## Compiti in classe senza classe
@@ -85,6 +96,10 @@ date un'occhiata per cominciare ad orientarvi, non è difficile).
 2. Ricordando la discussione fatta in classe per introdurre il concetto di probabilità 
    da un punto di vista teorico, provate a leggere questa [intervista a Bruno de Finetti](https://archive.org/details/Sapere740/mode/2up) e commentate le parti che vi sono chiare (questo è un compito difficile, ma siamo alla
     base concettuale della teoria, provate a fare uno sforzo).
+
+<br>
+<hr class="style-eight">
+<br>
 
 # Quinta H
 
