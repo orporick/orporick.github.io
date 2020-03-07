@@ -55,7 +55,7 @@ quadrato della distanza dalla terza legge di Keplero
 
 ## Compiti in classe senza classe
 
-1. Leggete, interpretate e spiegate il corollario 7 di pag 8 di [questa versione
+1. Leggete, interpretate e spiegate il corollario 7 di pag 108 di [questa versione
     dei Principia di Newton](https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up). Come si collega a quanto visto in classe? 
 
 <br>
