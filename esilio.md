@@ -145,6 +145,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 ### Matematica
 * [Sviluppo in serie di Taylor di una funzione](https://www.youtube.com/watch?v=bn7HxSwQYfI)
 * [Metodo di Newton per la ricerca approssimata di zeri di una funzione](https://www.youtube.com/watch?v=ojYzSAJSG_8)
+* [Metodo dei trapezi per l'approssimazione di un integrale definito](https://www.youtube.com/watch?v=XSfbSO5bjtw)
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
