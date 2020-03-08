@@ -9,7 +9,8 @@ Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po' di
 ordine sui materiali che vi sto proponendo in questi giorni di sospensione della
 didattica. Non consideratelo come un posto definitivo, ma come un ripiano
 provvisorio in cui appoggiare proposte e pensieri in questi giorni di strana
-lontananza. Per la ratio del mio discorso vi ho già scritto [una lettera](http://orporick.github.io/lettere/2020/03/04/lettera-dall-esilio-ai-miei-studenti-ed-alle-mie-studentesse/), potete far riferimento a quella.
+lontananza. Per la ratio del mio discorso vi ho già scritto [una lettera](http://orporick.github.io/lettere/2020/03/04/lettera-dall-esilio-ai-miei-studenti-ed-alle-mie-studentesse/) ed un
+[video](https://www.youtube.com/watch?v=-oXT8P8NR34) come punti di partenza.
 
 Di seguito, dopo un riassunto dei metodi che avete per contattarmi, riporto
 classe per classe gli argomenti che vi chiedo di rivedere, i materiali (scritti,
@@ -160,4 +161,5 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
   Senza entrare obbligatoriamente nei dettagli tecnici (se volete potete farlo
   ovviamente), a cosa sta pensando Einstein due anni dopo l'annus mirabilis del
   1905? Su quali linee si sta indirizzando la sua ricerca? 
+
 
