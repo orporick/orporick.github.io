@@ -142,8 +142,10 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 
 ## Video
 
+### Matematica
 * [Sviluppo in serie di Taylor di una funzione](https://www.youtube.com/watch?v=bn7HxSwQYfI)
 * [Metodo di Newton per la ricerca approssimata di zeri di una funzione](https://www.youtube.com/watch?v=ojYzSAJSG_8)
+### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
