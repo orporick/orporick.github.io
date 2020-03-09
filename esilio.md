@@ -12,6 +12,7 @@ provvisorio in cui appoggiare proposte e pensieri in questi giorni di strana
 lontananza. Per la ratio del mio discorso vi ho già scritto [una lettera](http://orporick.github.io/lettere/2020/03/04/lettera-dall-esilio-ai-miei-studenti-ed-alle-mie-studentesse/) ed un
 [video](https://www.youtube.com/watch?v=-oXT8P8NR34) come punti di partenza.
 
+
 Di seguito, dopo un riassunto dei metodi che avete per contattarmi, riporto
 classe per classe gli argomenti che vi chiedo di rivedere, i materiali (scritti,
 video etc) che ho predisposto per voi, alcuni suggerimenti su compiti da fare
@@ -52,7 +53,9 @@ quadrato della distanza dalla terza legge di Keplero
 
 ## Video
 
-[Alcune conseguenze della legge di gravitazione](https://www.youtube.com/watch?v=voEnq4poeCU)
+* [Gravitazione Universale](https://youtu.be/GZKpHXazycg)
+* [Momento angolare ed energia potenziale gravitazionale](https://youtu.be/Rk-pqz-tsEM) 
+* [Alcune conseguenze della legge di gravitazione](https://www.youtube.com/watch?v=voEnq4poeCU)
 
 ## Compiti in classe senza classe
 
