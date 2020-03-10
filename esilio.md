@@ -152,6 +152,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Metodo dei trapezi per l'approssimazione di un integrale definito](https://www.youtube.com/watch?v=XSfbSO5bjtw)
 * [Integrali Impropri](https://www.youtube.com/watch?v=PjRsNqdms_w)
 * [Calcolo di volumi con integrali impropri](https://www.youtube.com/watch?v=rkJrO-wWid4)
+
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
