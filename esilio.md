@@ -57,6 +57,7 @@ quadrato della distanza dalla terza legge di Keplero
 * [Momento angolare ed energia potenziale gravitazionale](https://youtu.be/Rk-pqz-tsEM) 
 * [Alcune conseguenze della legge di gravitazione](https://www.youtube.com/watch?v=voEnq4poeCU)
 * [Sidereus Nuncius e piccola esplorazione spaziale](https://www.youtube.com/watch?v=rDPWYbLO6dU)
+* [Velocità orbitale e trasferimento orbitale](https://www.youtube.com/watch?v=9s6qhRDMRFo)
 
 ## Compiti in classe senza classe
 
