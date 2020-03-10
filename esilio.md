@@ -56,6 +56,7 @@ quadrato della distanza dalla terza legge di Keplero
 * [Gravitazione Universale](https://youtu.be/GZKpHXazycg)
 * [Momento angolare ed energia potenziale gravitazionale](https://youtu.be/Rk-pqz-tsEM) 
 * [Alcune conseguenze della legge di gravitazione](https://www.youtube.com/watch?v=voEnq4poeCU)
+* [Sidereus Nuncius e piccola esplorazione spaziale](https://www.youtube.com/watch?v=rDPWYbLO6dU)
 
 ## Compiti in classe senza classe
 
@@ -149,6 +150,8 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Sviluppo in serie di Taylor di una funzione](https://www.youtube.com/watch?v=bn7HxSwQYfI)
 * [Metodo di Newton per la ricerca approssimata di zeri di una funzione](https://www.youtube.com/watch?v=ojYzSAJSG_8)
 * [Metodo dei trapezi per l'approssimazione di un integrale definito](https://www.youtube.com/watch?v=XSfbSO5bjtw)
+* [Integrali Impropri](https://www.youtube.com/watch?v=PjRsNqdms_w)
+* [Calcolo di volumi con integrali impropri](https://www.youtube.com/watch?v=rkJrO-wWid4)
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
