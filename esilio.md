@@ -88,10 +88,15 @@ continuerò a farlo, quindi rimanete collegati.
 
 ## Video
 
+### Matematica
 * [Ripasso del calcolo cobinatorio](https://www.youtube.com/watch?v=L8nbrfrAlvw)
 * [Ripasso del ripasso di probabilità](https://www.youtube.com/watch?v=2sawn5v0JgE)
 * [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo,
 date un'occhiata per cominciare ad orientarvi, non è difficile).
+
+### Fisica
+
+* [Introduzione alla fluidodinamica](https://www.youtube.com/watch?v=H9Hc2tv2hRI)
 
 ## Compiti in classe senza classe
 
