@@ -58,6 +58,11 @@ quadrato della distanza dalla terza legge di Keplero
 * [Alcune conseguenze della legge di gravitazione](https://www.youtube.com/watch?v=voEnq4poeCU)
 * [Sidereus Nuncius e piccola esplorazione spaziale](https://www.youtube.com/watch?v=rDPWYbLO6dU)
 * [Velocità orbitale e trasferimento orbitale](https://www.youtube.com/watch?v=9s6qhRDMRFo)
+* [Applicazioni all'astrofisica - 1](https://www.youtube.com/watch?v=1cJIq_NnHho)
+* [Applicazioni all'astrofisica - 2](https://www.youtube.com/watch?v=PlVUShw8J4Q)
+* *Letture*
+	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/)
+	* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
 
 ## Compiti in classe senza classe
 
@@ -93,6 +98,10 @@ continuerò a farlo, quindi rimanete collegati.
 * [Ripasso del ripasso di probabilità](https://www.youtube.com/watch?v=2sawn5v0JgE)
 * [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo,
 date un'occhiata per cominciare ad orientarvi, non è difficile).
+* [Esecizi di probabilità](https://www.youtube.com/watch?v=1SiS1XUQcKY)
+* *Letture*
+	* [Problema di probabilità](http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/)
+	* [Paradosso di Monty Hall](http://orporick.github.io/lettere/2017/12/19/lettera-sulla-probabilita/)
 
 ### Fisica
 
@@ -162,6 +171,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
+* [Relatività, composizione delle velocità e trasformazioni di Lorentz](https://youtu.be/yQ35fZzR4xs)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
 	* [parte2](https://www.youtube.com/watch?v=-vgiI3hz9xU)
