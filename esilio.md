@@ -61,7 +61,7 @@ quadrato della distanza dalla terza legge di Keplero
 * [Applicazioni all'astrofisica - 1](https://www.youtube.com/watch?v=1cJIq_NnHho)
 * [Applicazioni all'astrofisica - 2](https://www.youtube.com/watch?v=PlVUShw8J4Q)
 * *Letture*
-	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/)
+	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
 	* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
 
 ## Compiti in classe senza classe
