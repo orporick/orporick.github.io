@@ -42,6 +42,12 @@ canali che per vostra comodità riassumo qui
 <hr class="style-eight">
 <br>
 
+# Materiale Generale
+
+* [Videolezione: matematica delle epidemie](https://youtu.be/9FcX6cktjEU)
+* [Lettera sul modello SIR](http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/)
+* [Lettera sulla crescita esponenziale](http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/)
+
 # Terza C
 
 Vi chiedo di concentrarvi sull'ultimo argomento visto, cioè l'introduzione alla
