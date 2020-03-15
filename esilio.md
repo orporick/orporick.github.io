@@ -44,7 +44,7 @@ canali che per vostra comodità riassumo qui
 
 # Materiale Generale
 
-* [Videolezione: matematica delle epidemie](https://youtu.be/9FcX6cktjEU)
+* [Videolezione: matematica delle epidemie](https://youtu.be/jAkPa1ETsQM)
 * [Lettera sul modello SIR](http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/)
 * [Lettera sulla crescita esponenziale](http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/)
 
@@ -74,6 +74,10 @@ quadrato della distanza dalla terza legge di Keplero
 
 1. Leggete, interpretate e spiegate il corollario 7 di pag 108 di [questa versione
     dei Principia di Newton](https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up). Come si collega a quanto visto in classe? 
+2. Usando i concetti spiegati nei video provate a "progettare" una missione su
+   Marte; in particolare trovate tutte le velocità delle orbite di partenza e
+   arrivo, le caratteristiche dell'orbita di trasferimento e la durata del
+   viaggio.
 
 <br>
 <hr class="style-eight">
@@ -122,7 +126,9 @@ date un'occhiata per cominciare ad orientarvi, non è difficile).
 2. Ricordando la discussione fatta in classe per introdurre il concetto di probabilità 
    da un punto di vista teorico, provate a leggere questa [intervista a Bruno de Finetti](https://archive.org/details/Sapere740/mode/2up) e commentate le parti che vi sono chiare (questo è un compito difficile, ma siamo alla
     base concettuale della teoria, provate a fare uno sforzo).
-
+3. Studiate bene il paradosso di Monty Hall (vedi sopra nelle letture consigliate) e
+   trovate un'argomentazione forte che non usi la matematica per convincere
+   qualcuno della soluzione.
 <br>
 <hr class="style-eight">
 <br>
@@ -173,6 +179,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Metodo dei trapezi per l'approssimazione di un integrale definito](https://www.youtube.com/watch?v=XSfbSO5bjtw)
 * [Integrali Impropri](https://www.youtube.com/watch?v=PjRsNqdms_w)
 * [Calcolo di volumi con integrali impropri](https://www.youtube.com/watch?v=rkJrO-wWid4)
+* [Esercizi su integrali](https://www.youtube.com/watch?v=sBHmUs_MJI4)
 
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
@@ -194,5 +201,15 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
   Senza entrare obbligatoriamente nei dettagli tecnici (se volete potete farlo
   ovviamente), a cosa sta pensando Einstein due anni dopo l'annus mirabilis del
   1905? Su quali linee si sta indirizzando la sua ricerca? 
-
+* Calcolate il volume di un toro (ciambella per intenderci) sapendo raggio
+    interno e raggio esterno
+* Usate i metodi numerici visti nei video per trovare un valore approssimato di
+    $\pi$. Provate a trovare due modi diversi e confrontate le due
+    approssimazioni.
+* Cercando i valori del campo magnetico terrestre (usate un valore medio), fate
+    una stima della velocità minima che deve avere un protone che arriva dallo
+    spazio  per poter arrivare sulla Terra.
+* Guardate il video sui modelli SIR per le epidemie all'inizio di questa pagina
+    e provate a riscrivere le equazioni usando le derivate. Cosa potete dire
+    dell'eventuale soluzione?
 
