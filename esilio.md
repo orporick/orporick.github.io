@@ -108,7 +108,8 @@ continuerò a farlo, quindi rimanete collegati.
 * [Ripasso del ripasso di probabilità](https://www.youtube.com/watch?v=2sawn5v0JgE)
 * [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo,
 date un'occhiata per cominciare ad orientarvi, non è difficile).
-* [Esecizi di probabilità](https://www.youtube.com/watch?v=1SiS1XUQcKY)
+* [Esecizi di probabilità 1](https://www.youtube.com/watch?v=1SiS1XUQcKY)
+* [Esercizi di probabilità 2](https://www.youtube.com/watch?v=Wj-K61EIaLQ)
 * *Letture*
 	* [Problema di probabilità](http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/)
 	* [Paradosso di Monty Hall](http://orporick.github.io/lettere/2017/12/19/lettera-sulla-probabilita/)
