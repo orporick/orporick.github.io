@@ -70,14 +70,6 @@ quadrato della distanza dalla terza legge di Keplero
 	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
 	* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
 
-## Compiti in classe senza classe
-
-1. Leggete, interpretate e spiegate il corollario 7 di pag 108 di [questa versione
-    dei Principia di Newton](https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up). Come si collega a quanto visto in classe? 
-2. Usando i concetti spiegati nei video provate a "progettare" una missione su
-   Marte; in particolare trovate tutte le velocità delle orbite di partenza e
-   arrivo, le caratteristiche dell'orbita di trasferimento e la durata del
-   viaggio.
 
 <br>
 <hr class="style-eight">
@@ -118,18 +110,7 @@ date un'occhiata per cominciare ad orientarvi, non è difficile).
 
 * [Introduzione alla fluidodinamica](https://www.youtube.com/watch?v=H9Hc2tv2hRI)
 
-## Compiti in classe senza classe
 
-1. Provate a determinare la probabilità che due persone su un autobus abbiano il
-   compleanno lo stesso giorno (fate voi una stima del numero di persone). Come
-   cambia la domanda (e quindi la risposta) nel caso si richieda che siano nate
-   lo stesso giorno e lo stesso anno?
-2. Ricordando la discussione fatta in classe per introdurre il concetto di probabilità 
-   da un punto di vista teorico, provate a leggere questa [intervista a Bruno de Finetti](https://archive.org/details/Sapere740/mode/2up) e commentate le parti che vi sono chiare (questo è un compito difficile, ma siamo alla
-    base concettuale della teoria, provate a fare uno sforzo).
-3. Studiate bene il paradosso di Monty Hall (vedi sopra nelle letture consigliate) e
-   trovate un'argomentazione forte che non usi la matematica per convincere
-   qualcuno della soluzione.
 <br>
 <hr class="style-eight">
 <br>
@@ -192,7 +173,58 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 	* [parte3](https://www.youtube.com/watch?v=CTo-tSOBlfA)
 	* [parte4](https://www.youtube.com/watch?v=3GdYpn6fTXY)
 
-## Compiti in classe senza classe
+<br>
+<hr class="style-eight">
+<br>
+
+# Compiti in classe senza classe
+
+## Terza C
+1. Leggete, interpretate e spiegate il corollario 7 di pag 108 di [questa versione
+    dei Principia di Newton](https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up). Come si collega a quanto visto in classe? 
+2. Usando i concetti spiegati nei video provate a "progettare" una missione su
+   Marte; in particolare trovate tutte le velocità delle orbite di partenza e
+   arrivo, le caratteristiche dell'orbita di trasferimento e la durata del
+   viaggio.
+3. Trovate in rete tutti i dati (masse, periodi, raggi delle orbite) degli otto
+   pianeti del sistema solare e verificate numericamente la terza legge di
+   Keplero
+4. Applicate la legge di gravitazione universale per proporre un modello
+   semplificato di galassia. Confrontate con dati reali.
+
+
+## Quarta N
+
+### Matematica
+
+1. Provate a determinare la probabilità che due persone su un autobus abbiano il
+   compleanno lo stesso giorno (fate voi una stima del numero di persone). Come
+   cambia la domanda (e quindi la risposta) nel caso si richieda che siano nate
+   lo stesso giorno e lo stesso anno?
+2. Ricordando la discussione fatta in classe per introdurre il concetto di
+   probabilità da un punto di vista teorico, provate a leggere questa
+   [intervista a Bruno de
+   Finetti](https://archive.org/details/Sapere740/mode/2up) e commentate le
+   parti che vi sono chiare (questo è un compito difficile, ma siamo alla base
+   concettuale della teoria, provate a fare uno sforzo).
+3. Studiate bene il paradosso di Monty Hall (vedi sopra nelle letture
+   consigliate) e trovate un'argomentazione forte che non usi la matematica per
+   convincere qualcuno della soluzione.
+4. Scegliete un gioco d'azzardo qualunque e studiatene le caratteristiche da un
+   punto di vista probabilistico (probabilità di vincere, di perdere, vale la
+   pena giocare etc.) 
+
+### Fisica
+
+1. Procuratevi online una copia delle Opticks di Newton (se non trovate
+   scrivetemi) e leggete, analizzate e discutete almeno 3 delle queries che si
+   trovano in fondo all'opera.
+2. Sulla base della lezione sulla fluidodinamica provare a dare una spiegazione
+   "artigianale" della forma a fungo assunta dalla nuvola in un'esplosione (per
+   esempio di un ordigno nucleare)
+
+
+## Quinta H
 
 * Orientatevi nella lettura (anche non completa) [dell'articolo del 1905 di
     Einstein](https://einsteinpapers.press.princeton.edu/vol2-trans/154).
