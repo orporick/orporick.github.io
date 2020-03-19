@@ -66,6 +66,7 @@ quadrato della distanza dalla terza legge di Keplero
 * [Velocità orbitale e trasferimento orbitale](https://www.youtube.com/watch?v=9s6qhRDMRFo)
 * [Applicazioni all'astrofisica - 1](https://www.youtube.com/watch?v=1cJIq_NnHho)
 * [Applicazioni all'astrofisica - 2](https://www.youtube.com/watch?v=PlVUShw8J4Q)
+* [Esercizio sulla gravitazione](https://youtu.be/rnptxGje5v4)
 * *Letture*
 	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
 	* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
@@ -162,6 +163,9 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Integrali Impropri](https://www.youtube.com/watch?v=PjRsNqdms_w)
 * [Calcolo di volumi con integrali impropri](https://www.youtube.com/watch?v=rkJrO-wWid4)
 * [Esercizi su integrali](https://www.youtube.com/watch?v=sBHmUs_MJI4)
+* [Equazioni differenziali - Parte I](https://youtu.be/_FEXvt1TcWg)
+* [Esercizi su equazioni differenziali del primo ordine](https://youtu.be/vRT-yv1aZh8)
+* [Equazioni differenzali - Parte II](https://youtu.be/5jcSiTgNZKQ)
 
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
@@ -220,7 +224,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
    scrivetemi) e leggete, analizzate e discutete almeno 3 delle queries che si
    trovano in fondo all'opera.
 2. Sulla base della lezione sulla fluidodinamica provare a dare una spiegazione
-   "artigianale" della forma a fungo assunta dalla nuvola in un'esplosione (per
+   "artigianale" della forma a fungo assunta dalla "nuvola" di un'esplosione (per
    esempio di un ordigno nucleare)
 
 
