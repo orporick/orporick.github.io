@@ -183,6 +183,29 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 
 # Compiti in classe senza classe
 
+Diamo valore (o almeno proviamoci) a questo tempo di esilio personale. Chiedo ad
+ognuno ed ognuna di voi di mostrare la propria trasformazione (di cui vi parlo
+da tanto tempo) da obbligo a senso del dovere. Del primo mi interessa poco, del
+secondo invece dobbiamo fare bandiera del nostro agire quotidiano. Quello che vi
+chiedo è semplice; guardate i video, venite ai (pochi) incontri live che stiamo
+programmando, date un'occhiata al libro, parlate tra di voi (soprattutto questo)
+con ogni mezzo disponibile, cercate di capire i concetti chiave, confrontatevi
+con qualche problema. Non ho più una classe dove dipingere acquarelli nella
+solitudine del compito in classe, ci dobbiamo accontentare di altro. La scuola
+che conoscevamo non c'è più, per adesso almeno, inventiamone una nuova. Per
+darmi modo di valutarvi vi chiedo di scrivermi; qui sotto vi lascio, divisi per
+classe, dei possibili spunti. Non vi fermate a questi, cercate di approfondire o
+affrontare problemi connessi, collegati o aderenti al discorso. Leggerò e
+valuterò tutto quello che mi manderete. Se non ve la sentite ancora di gestire
+un compito di questo tipo, prendete il libro, scegliete degli esercizi, fateli,
+fotografateli e mandatemeli. Va bene anche questo, in tempo di esilio. Cogliete
+questa occasione, i confini sono incerti, scavalcate e provate a camminare con
+gambe vostre. Non ha importanza se inciamperete, ci sono io a darvi una mano.
+Sempre. 
+
+Aspetto i vostri compiti in classe senza classe.
+
+
 ## Terza C
 1. Leggete, interpretate e spiegate il corollario 7 di pag 108 di [questa versione
     dei Principia di Newton](https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up). Come si collega a quanto visto in classe? 
