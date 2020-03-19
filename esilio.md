@@ -110,7 +110,7 @@ date un'occhiata per cominciare ad orientarvi, non è difficile).
 ### Fisica
 
 * [Introduzione alla fluidodinamica](https://www.youtube.com/watch?v=H9Hc2tv2hRI)
-
+* [Esercizio di fluidodinamica](https://youtu.be/gnngIgaKCFI)
 
 <br>
 <hr class="style-eight">
