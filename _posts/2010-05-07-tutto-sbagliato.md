@@ -26,7 +26,7 @@ chiralmente) o l'immancabile tesi al CERN "L'importanza della verniciatura a
 caldo dei tubi di Freon per la resa   del LEP" (all'epoca si chiamava LEP, poi
 con mossa di marketing   astutissima hanno cambiato in LHC, eliminando tutte le
 vocali ed   escludendo quindi la possibilità di usare la sigla come nome
-proprio, al limite come codice fiscale). 
+proprio, al limite come codice fiscale) cominciavo ad avere dubbi sul futuro.
 
 Quando quelli del collettivo "Okkupi(ti)amo" mi dissero che quel giovedì
 pomeriggio ci sarebbe stato Peppermaus a tenere una conferenza in aula A rimasi
