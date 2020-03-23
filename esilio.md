@@ -112,6 +112,7 @@ date un'occhiata per cominciare ad orientarvi, non è difficile).
 
 * [Introduzione alla fluidodinamica](https://www.youtube.com/watch?v=H9Hc2tv2hRI)
 * [Esercizio di fluidodinamica](https://youtu.be/gnngIgaKCFI)
+* [Introduzione alla teoria dei campi](https://www.youtube.com/watch?v=daC1IoPYsXs)
 
 <br>
 <hr class="style-eight">
@@ -172,6 +173,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
 * [Relatività, composizione delle velocità e trasformazioni di Lorentz](https://youtu.be/yQ35fZzR4xs)
+* [L'invariante spaziotemporale](https://www.youtube.com/watch?v=esiXpSvct_A)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
 	* [parte2](https://www.youtube.com/watch?v=-vgiI3hz9xU)

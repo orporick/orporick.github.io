@@ -1,4 +1,4 @@
-I"�/<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
+I"UA<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
 ordine sui materiali che vi sto proponendo in questi giorni di sospensione della
 didattica. Non consideratelo come un posto definitivo, ma come un ripiano
 provvisorio in cui appoggiare proposte e pensieri in questi giorni di strana
@@ -41,7 +41,7 @@ canali che per vostra comodità riassumo qui</p>
 <h1 id="materiale-generale">Materiale Generale</h1>
 
 <ul>
-  <li><a href="https://youtu.be/9FcX6cktjEU">Videolezione: matematica delle epidemie</a></li>
+  <li><a href="https://youtu.be/jAkPa1ETsQM">Videolezione: matematica delle epidemie</a></li>
   <li><a href="http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/">Lettera sul modello SIR</a></li>
   <li><a href="http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/">Lettera sulla crescita esponenziale</a></li>
 </ul>
@@ -65,6 +65,8 @@ quadrato della distanza dalla terza legge di Keplero</p>
   <li><a href="https://www.youtube.com/watch?v=9s6qhRDMRFo">Velocità orbitale e trasferimento orbitale</a></li>
   <li><a href="https://www.youtube.com/watch?v=1cJIq_NnHho">Applicazioni all’astrofisica - 1</a></li>
   <li><a href="https://www.youtube.com/watch?v=PlVUShw8J4Q">Applicazioni all’astrofisica - 2</a></li>
+  <li><a href="https://youtu.be/rnptxGje5v4">Esercizio sulla gravitazione</a></li>
+  <li><a href="https://www.youtube.com/watch?v=VTvEdtsDh8k">Riassunto gravitazione</a></li>
   <li><em>Letture</em>
     <ul>
       <li><a href="http://orporick.github.io/lettere/2017/02/27/letterauniverso/">Esopianeti</a> (solo la prima parte)</li>
@@ -72,13 +74,6 @@ quadrato della distanza dalla terza legge di Keplero</p>
     </ul>
   </li>
 </ul>
-
-<h2 id="compiti-in-classe-senza-classe">Compiti in classe senza classe</h2>
-
-<ol>
-  <li>Leggete, interpretate e spiegate il corollario 7 di pag 108 di <a href="https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up">questa versione
- dei Principia di Newton</a>. Come si collega a quanto visto in classe?</li>
-</ol>
 
 <p><br /></p>
 <hr class="style-eight" />
@@ -111,7 +106,8 @@ continuerò a farlo, quindi rimanete collegati.</p>
   <li><a href="https://www.youtube.com/watch?v=2sawn5v0JgE">Ripasso del ripasso di probabilità</a></li>
   <li><a href="https://www.youtube.com/watch?v=DW6Ay7TljC0">Introduzione alla formula di Bayes</a> (è un argomento nuovo,
 date un’occhiata per cominciare ad orientarvi, non è difficile).</li>
-  <li><a href="https://www.youtube.com/watch?v=1SiS1XUQcKY">Esecizi di probabilità</a></li>
+  <li><a href="https://www.youtube.com/watch?v=1SiS1XUQcKY">Esecizi di probabilità 1</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Wj-K61EIaLQ">Esercizi di probabilità 2</a></li>
   <li><em>Letture</em>
     <ul>
       <li><a href="http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/">Problema di probabilità</a></li>
@@ -124,19 +120,9 @@ date un’occhiata per cominciare ad orientarvi, non è difficile).</li>
 
 <ul>
   <li><a href="https://www.youtube.com/watch?v=H9Hc2tv2hRI">Introduzione alla fluidodinamica</a></li>
+  <li><a href="https://youtu.be/gnngIgaKCFI">Esercizio di fluidodinamica</a></li>
+  <li><a href="https://www.youtube.com/watch?v=daC1IoPYsXs">Introduzione alla teoria dei campi</a></li>
 </ul>
-
-<h2 id="compiti-in-classe-senza-classe-1">Compiti in classe senza classe</h2>
-
-<ol>
-  <li>Provate a determinare la probabilità che due persone su un autobus abbiano il
-compleanno lo stesso giorno (fate voi una stima del numero di persone). Come
-cambia la domanda (e quindi la risposta) nel caso si richieda che siano nate
-lo stesso giorno e lo stesso anno?</li>
-  <li>Ricordando la discussione fatta in classe per introdurre il concetto di probabilità 
-da un punto di vista teorico, provate a leggere questa <a href="https://archive.org/details/Sapere740/mode/2up">intervista a Bruno de Finetti</a> e commentate le parti che vi sono chiare (questo è un compito difficile, ma siamo alla
- base concettuale della teoria, provate a fare uno sforzo).</li>
-</ol>
 
 <p><br /></p>
 <hr class="style-eight" />
@@ -190,6 +176,10 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.</p>
   <li><a href="https://www.youtube.com/watch?v=XSfbSO5bjtw">Metodo dei trapezi per l’approssimazione di un integrale definito</a></li>
   <li><a href="https://www.youtube.com/watch?v=PjRsNqdms_w">Integrali Impropri</a></li>
   <li><a href="https://www.youtube.com/watch?v=rkJrO-wWid4">Calcolo di volumi con integrali impropri</a></li>
+  <li><a href="https://www.youtube.com/watch?v=sBHmUs_MJI4">Esercizi su integrali</a></li>
+  <li><a href="https://youtu.be/_FEXvt1TcWg">Equazioni differenziali - Parte I</a></li>
+  <li><a href="https://youtu.be/vRT-yv1aZh8">Esercizi su equazioni differenziali del primo ordine</a></li>
+  <li><a href="https://youtu.be/5jcSiTgNZKQ">Equazioni differenzali - Parte II</a></li>
 </ul>
 
 <h3 id="fisica-1">Fisica</h3>
@@ -197,6 +187,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.</p>
   <li><a href="https://www.youtube.com/watch?v=Klv2-67naQY">Introduzione al k-calculus (parte prima)</a></li>
   <li><a href="https://www.youtube.com/watch?v=AfhyyH3HG84">Relatività, simultaneità, paradosso dei gemelli</a></li>
   <li><a href="https://youtu.be/yQ35fZzR4xs">Relatività, composizione delle velocità e trasformazioni di Lorentz</a></li>
+  <li><a href="https://www.youtube.com/watch?v=esiXpSvct_A">L’invariante spaziotemporale</a></li>
   <li>Cenni sui cenni sulla crisi della fisica classica (video vecchi):
     <ul>
       <li><a href="https://www.youtube.com/watch?v=uH7dimfmhDY">parte1</a></li>
@@ -207,7 +198,83 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.</p>
   </li>
 </ul>
 
-<h2 id="compiti-in-classe-senza-classe-2">Compiti in classe senza classe</h2>
+<p><br /></p>
+<hr class="style-eight" />
+
+<h1 id="compiti-in-classe-senza-classe">Compiti in classe senza classe</h1>
+
+<p>Diamo valore (o almeno proviamoci) a questo tempo di esilio personale. Chiedo ad
+ognuno ed ognuna di voi di mostrare la propria trasformazione (di cui vi parlo
+da tanto tempo) da obbligo a senso del dovere. Del primo mi interessa poco, del
+secondo invece dobbiamo fare bandiera del nostro agire quotidiano. Quello che vi
+chiedo è semplice; guardate i video, venite ai (pochi) incontri live che stiamo
+programmando, date un’occhiata al libro, parlate tra di voi (soprattutto questo)
+con ogni mezzo disponibile, cercate di capire i concetti chiave, confrontatevi
+con qualche problema. Non ho più una classe dove dipingere acquarelli nella
+solitudine del compito in classe, ci dobbiamo accontentare di altro. La scuola
+che conoscevamo non c’è più, per adesso almeno, inventiamone una nuova. Per
+darmi modo di valutarvi vi chiedo di scrivermi; qui sotto vi lascio, divisi per
+classe, dei possibili spunti. Non vi fermate a questi, cercate di approfondire o
+affrontare problemi connessi, collegati o aderenti al discorso. Leggerò e
+valuterò tutto quello che mi manderete. Se non ve la sentite ancora di gestire
+un compito di questo tipo, prendete il libro, scegliete degli esercizi, fateli,
+fotografateli e mandatemeli. Va bene anche questo, in tempo di esilio. Cogliete
+questa occasione, i confini sono incerti, scavalcate e provate a camminare con
+gambe vostre. Non ha importanza se inciamperete, ci sono io a darvi una mano.
+Sempre.</p>
+
+<p>Aspetto i vostri compiti in classe senza classe.</p>
+
+<h2 id="terza-c-1">Terza C</h2>
+<ol>
+  <li>Leggete, interpretate e spiegate il corollario 7 di pag 108 di <a href="https://archive.org/details/IsaacNewtonPrincipiaEnglish1846/page/n113/mode/2up">questa versione
+ dei Principia di Newton</a>. Come si collega a quanto visto in classe?</li>
+  <li>Usando i concetti spiegati nei video provate a “progettare” una missione su
+Marte; in particolare trovate tutte le velocità delle orbite di partenza e
+arrivo, le caratteristiche dell’orbita di trasferimento e la durata del
+viaggio.</li>
+  <li>Trovate in rete tutti i dati (masse, periodi, raggi delle orbite) degli otto
+pianeti del sistema solare e verificate numericamente la terza legge di
+Keplero</li>
+  <li>Applicate la legge di gravitazione universale per proporre un modello
+semplificato di galassia. Confrontate con dati reali.</li>
+</ol>
+
+<h2 id="quarta-n-1">Quarta N</h2>
+
+<h3 id="matematica-2">Matematica</h3>
+
+<ol>
+  <li>Provate a determinare la probabilità che due persone su un autobus abbiano il
+compleanno lo stesso giorno (fate voi una stima del numero di persone). Come
+cambia la domanda (e quindi la risposta) nel caso si richieda che siano nate
+lo stesso giorno e lo stesso anno?</li>
+  <li>Ricordando la discussione fatta in classe per introdurre il concetto di
+probabilità da un punto di vista teorico, provate a leggere questa
+<a href="https://archive.org/details/Sapere740/mode/2up">intervista a Bruno de
+Finetti</a> e commentate le
+parti che vi sono chiare (questo è un compito difficile, ma siamo alla base
+concettuale della teoria, provate a fare uno sforzo).</li>
+  <li>Studiate bene il paradosso di Monty Hall (vedi sopra nelle letture
+consigliate) e trovate un’argomentazione forte che non usi la matematica per
+convincere qualcuno della soluzione.</li>
+  <li>Scegliete un gioco d’azzardo qualunque e studiatene le caratteristiche da un
+punto di vista probabilistico (probabilità di vincere, di perdere, vale la
+pena giocare etc.)</li>
+</ol>
+
+<h3 id="fisica-2">Fisica</h3>
+
+<ol>
+  <li>Procuratevi online una copia delle Opticks di Newton (se non trovate
+scrivetemi) e leggete, analizzate e discutete almeno 3 delle queries che si
+trovano in fondo all’opera.</li>
+  <li>Sulla base della lezione sulla fluidodinamica provare a dare una spiegazione
+“artigianale” della forma a fungo assunta dalla “nuvola” di un’esplosione (per
+esempio di un ordigno nucleare)</li>
+</ol>
+
+<h2 id="quinta-h-1">Quinta H</h2>
 
 <ul>
   <li>Orientatevi nella lettura (anche non completa) <a href="https://einsteinpapers.press.princeton.edu/vol2-trans/154">dell’articolo del 1905 di
@@ -218,6 +285,17 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.</p>
 Senza entrare obbligatoriamente nei dettagli tecnici (se volete potete farlo
 ovviamente), a cosa sta pensando Einstein due anni dopo l’annus mirabilis del
 1905? Su quali linee si sta indirizzando la sua ricerca?</li>
+  <li>Calcolate il volume di un toro (ciambella per intenderci) sapendo raggio
+  interno e raggio esterno</li>
+  <li>Usate i metodi numerici visti nei video per trovare un valore approssimato di
+  $\pi$. Provate a trovare due modi diversi e confrontate le due
+  approssimazioni.</li>
+  <li>Cercando i valori del campo magnetico terrestre (usate un valore medio), fate
+  una stima della velocità minima che deve avere un protone che arriva dallo
+  spazio  per poter arrivare sulla Terra.</li>
+  <li>Guardate il video sui modelli SIR per le epidemie all’inizio di questa pagina
+  e provate a riscrivere le equazioni usando le derivate. Cosa potete dire
+  dell’eventuale soluzione?</li>
 </ul>
 
 :ET
