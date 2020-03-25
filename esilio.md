@@ -104,15 +104,18 @@ continuerò a farlo, quindi rimanete collegati.
 date un'occhiata per cominciare ad orientarvi, non è difficile).
 * [Esecizi di probabilità 1](https://www.youtube.com/watch?v=1SiS1XUQcKY)
 * [Esercizi di probabilità 2](https://www.youtube.com/watch?v=Wj-K61EIaLQ)
-* *Letture*
-	* [Problema di probabilità](http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/)
-	* [Paradosso di Monty Hall](http://orporick.github.io/lettere/2017/12/19/lettera-sulla-probabilita/)
+* [Introduzione all'analisi](https://www.youtube.com/watch?v=QcdUCuNtCeQ)
 
 ### Fisica
 
 * [Introduzione alla fluidodinamica](https://www.youtube.com/watch?v=H9Hc2tv2hRI)
 * [Esercizio di fluidodinamica](https://youtu.be/gnngIgaKCFI)
 * [Introduzione alla teoria dei campi](https://www.youtube.com/watch?v=daC1IoPYsXs)
+
+## Letture
+
+* [Problema di probabilità](http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/)
+* [Paradosso di Monty Hall](http://orporick.github.io/lettere/2017/12/19/lettera-sulla-probabilita/)
 
 <br>
 <hr class="style-eight">
@@ -168,7 +171,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Equazioni differenziali - Parte I](https://youtu.be/_FEXvt1TcWg)
 * [Esercizi su equazioni differenziali del primo ordine](https://youtu.be/vRT-yv1aZh8)
 * [Equazioni differenzali - Parte II](https://youtu.be/5jcSiTgNZKQ)
-
+* [Esercizio su equazioni differenziali del secondo ordine](https://www.youtube.com/watch?v=30akGUzidDM)
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
