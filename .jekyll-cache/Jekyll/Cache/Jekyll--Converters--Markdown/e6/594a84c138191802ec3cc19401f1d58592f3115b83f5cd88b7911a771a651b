@@ -1,4 +1,4 @@
-I"UA<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
+I"�G<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
 ordine sui materiali che vi sto proponendo in questi giorni di sospensione della
 didattica. Non consideratelo come un posto definitivo, ma come un ripiano
 provvisorio in cui appoggiare proposte e pensieri in questi giorni di strana
@@ -46,6 +46,14 @@ canali che per vostra comodità riassumo qui</p>
   <li><a href="http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/">Lettera sulla crescita esponenziale</a></li>
 </ul>
 
+<h1 id="introduzione-alla-programmazione">Introduzione alla programmazione</h1>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=S9wlhlH2gAI">Introduzione alla programmazione - Parte I</a></li>
+  <li><a href="https://www.youtube.com/watch?v=67-lARJpIs8">Introduzione alla programmazione - Parte II</a></li>
+  <li><a href="https://www.youtube.com/watch?v=n48HGs55Rn8">Introduzione alla programmazione - Parte III</a></li>
+</ul>
+
 <h1 id="terza-c">Terza C</h1>
 
 <p>Vi chiedo di concentrarvi sull’ultimo argomento visto, cioè l’introduzione alla
@@ -67,6 +75,9 @@ quadrato della distanza dalla terza legge di Keplero</p>
   <li><a href="https://www.youtube.com/watch?v=PlVUShw8J4Q">Applicazioni all’astrofisica - 2</a></li>
   <li><a href="https://youtu.be/rnptxGje5v4">Esercizio sulla gravitazione</a></li>
   <li><a href="https://www.youtube.com/watch?v=VTvEdtsDh8k">Riassunto gravitazione</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0b3abjZdPKc">Costruire una Delta-V map</a></li>
+  <li><a href="https://www.youtube.com/watch?v=kmrKBrApamY">Introduzione alla termodinamica</a></li>
+  <li><a href="https://www.youtube.com/watch?v=HlgYLmT2vUk">Natura meccanica della temperatura</a></li>
   <li><em>Letture</em>
     <ul>
       <li><a href="http://orporick.github.io/lettere/2017/02/27/letterauniverso/">Esopianeti</a> (solo la prima parte)</li>
@@ -104,16 +115,12 @@ continuerò a farlo, quindi rimanete collegati.</p>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=L8nbrfrAlvw">Ripasso del calcolo cobinatorio</a></li>
   <li><a href="https://www.youtube.com/watch?v=2sawn5v0JgE">Ripasso del ripasso di probabilità</a></li>
-  <li><a href="https://www.youtube.com/watch?v=DW6Ay7TljC0">Introduzione alla formula di Bayes</a> (è un argomento nuovo,
-date un’occhiata per cominciare ad orientarvi, non è difficile).</li>
+  <li><a href="https://www.youtube.com/watch?v=DW6Ay7TljC0">Introduzione alla formula di Bayes</a> (è un argomento nuovo, date un’occhiata per cominciare ad orientarvi, non è difficile).</li>
   <li><a href="https://www.youtube.com/watch?v=1SiS1XUQcKY">Esecizi di probabilità 1</a></li>
   <li><a href="https://www.youtube.com/watch?v=Wj-K61EIaLQ">Esercizi di probabilità 2</a></li>
-  <li><em>Letture</em>
-    <ul>
-      <li><a href="http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/">Problema di probabilità</a></li>
-      <li><a href="http://orporick.github.io/lettere/2017/12/19/lettera-sulla-probabilita/">Paradosso di Monty Hall</a></li>
-    </ul>
-  </li>
+  <li><a href="https://www.youtube.com/watch?v=QcdUCuNtCeQ">Introduzione all’analisi</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ukzdlsD7ZIU">Primi passi nell’analisi di funzioni reali</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3nyKxk1t-EE">Funzioni iniettive e suriettive</a></li>
 </ul>
 
 <h3 id="fisica">Fisica</h3>
@@ -122,6 +129,14 @@ date un’occhiata per cominciare ad orientarvi, non è difficile).</li>
   <li><a href="https://www.youtube.com/watch?v=H9Hc2tv2hRI">Introduzione alla fluidodinamica</a></li>
   <li><a href="https://youtu.be/gnngIgaKCFI">Esercizio di fluidodinamica</a></li>
   <li><a href="https://www.youtube.com/watch?v=daC1IoPYsXs">Introduzione alla teoria dei campi</a></li>
+  <li><a href="https://www.youtube.com/watch?v=v1ScMRGFyBw">Introduzione al campo gravitazionale</a></li>
+</ul>
+
+<h2 id="letture">Letture</h2>
+
+<ul>
+  <li><a href="http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/">Problema di probabilità</a></li>
+  <li><a href="http://orporick.github.io/lettere/2017/12/19/lettera-sulla-probabilita/">Paradosso di Monty Hall</a></li>
 </ul>
 
 <p><br /></p>
@@ -180,6 +195,9 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.</p>
   <li><a href="https://youtu.be/_FEXvt1TcWg">Equazioni differenziali - Parte I</a></li>
   <li><a href="https://youtu.be/vRT-yv1aZh8">Esercizi su equazioni differenziali del primo ordine</a></li>
   <li><a href="https://youtu.be/5jcSiTgNZKQ">Equazioni differenzali - Parte II</a></li>
+  <li><a href="https://www.youtube.com/watch?v=30akGUzidDM">Esercizio su equazioni differenziali del secondo ordine</a></li>
+  <li><a href="https://www.youtube.com/watch?v=EVVyXoQV7Ok">Equazioni differenziali applicate ai circuiti elettrici</a></li>
+  <li><a href="https://www.youtube.com/watch?v=s4bCHM4-56w">Calcolo del volume del toro con gli integrali</a></li>
 </ul>
 
 <h3 id="fisica-1">Fisica</h3>
@@ -187,6 +205,7 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.</p>
   <li><a href="https://www.youtube.com/watch?v=Klv2-67naQY">Introduzione al k-calculus (parte prima)</a></li>
   <li><a href="https://www.youtube.com/watch?v=AfhyyH3HG84">Relatività, simultaneità, paradosso dei gemelli</a></li>
   <li><a href="https://youtu.be/yQ35fZzR4xs">Relatività, composizione delle velocità e trasformazioni di Lorentz</a></li>
+  <li><a href="https://www.youtube.com/watch?v=DF4wShAIbEk">Un semplice esercizio di cinematica relativistica</a></li>
   <li><a href="https://www.youtube.com/watch?v=esiXpSvct_A">L’invariante spaziotemporale</a></li>
   <li>Cenni sui cenni sulla crisi della fisica classica (video vecchi):
     <ul>

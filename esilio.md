@@ -48,6 +48,12 @@ canali che per vostra comodità riassumo qui
 * [Lettera sul modello SIR](http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/)
 * [Lettera sulla crescita esponenziale](http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/)
 
+# Introduzione alla programmazione
+
+* [Introduzione alla programmazione - Parte I](https://www.youtube.com/watch?v=S9wlhlH2gAI)
+* [Introduzione alla programmazione - Parte II](https://www.youtube.com/watch?v=67-lARJpIs8)
+* [Introduzione alla programmazione - Parte III](https://www.youtube.com/watch?v=n48HGs55Rn8)
+
 # Terza C
 
 Vi chiedo di concentrarvi sull'ultimo argomento visto, cioè l'introduzione alla
@@ -68,6 +74,9 @@ quadrato della distanza dalla terza legge di Keplero
 * [Applicazioni all'astrofisica - 2](https://www.youtube.com/watch?v=PlVUShw8J4Q)
 * [Esercizio sulla gravitazione](https://youtu.be/rnptxGje5v4)
 * [Riassunto gravitazione](https://www.youtube.com/watch?v=VTvEdtsDh8k)
+* [Costruire una Delta-V map](https://www.youtube.com/watch?v=0b3abjZdPKc)
+* [Introduzione alla termodinamica](https://www.youtube.com/watch?v=kmrKBrApamY)
+* [Natura meccanica della temperatura](https://www.youtube.com/watch?v=HlgYLmT2vUk)
 * *Letture*
 	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
 	* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
@@ -100,17 +109,19 @@ continuerò a farlo, quindi rimanete collegati.
 ### Matematica
 * [Ripasso del calcolo cobinatorio](https://www.youtube.com/watch?v=L8nbrfrAlvw)
 * [Ripasso del ripasso di probabilità](https://www.youtube.com/watch?v=2sawn5v0JgE)
-* [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo,
-date un'occhiata per cominciare ad orientarvi, non è difficile).
+* [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo, date un'occhiata per cominciare ad orientarvi, non è difficile).
 * [Esecizi di probabilità 1](https://www.youtube.com/watch?v=1SiS1XUQcKY)
 * [Esercizi di probabilità 2](https://www.youtube.com/watch?v=Wj-K61EIaLQ)
 * [Introduzione all'analisi](https://www.youtube.com/watch?v=QcdUCuNtCeQ)
+* [Primi passi nell'analisi di funzioni reali](https://www.youtube.com/watch?v=ukzdlsD7ZIU)
+* [Funzioni iniettive e suriettive](https://www.youtube.com/watch?v=3nyKxk1t-EE)
 
 ### Fisica
 
 * [Introduzione alla fluidodinamica](https://www.youtube.com/watch?v=H9Hc2tv2hRI)
 * [Esercizio di fluidodinamica](https://youtu.be/gnngIgaKCFI)
 * [Introduzione alla teoria dei campi](https://www.youtube.com/watch?v=daC1IoPYsXs)
+* [Introduzione al campo gravitazionale](https://www.youtube.com/watch?v=v1ScMRGFyBw)
 
 ## Letture
 
@@ -172,10 +183,14 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Esercizi su equazioni differenziali del primo ordine](https://youtu.be/vRT-yv1aZh8)
 * [Equazioni differenzali - Parte II](https://youtu.be/5jcSiTgNZKQ)
 * [Esercizio su equazioni differenziali del secondo ordine](https://www.youtube.com/watch?v=30akGUzidDM)
+* [Equazioni differenziali applicate ai circuiti elettrici](https://www.youtube.com/watch?v=EVVyXoQV7Ok)
+* [Calcolo del volume del toro con gli integrali](https://www.youtube.com/watch?v=s4bCHM4-56w)
+
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
 * [Relatività, simultaneità, paradosso dei gemelli](https://www.youtube.com/watch?v=AfhyyH3HG84)
 * [Relatività, composizione delle velocità e trasformazioni di Lorentz](https://youtu.be/yQ35fZzR4xs)
+* [Un semplice esercizio di cinematica relativistica](https://www.youtube.com/watch?v=DF4wShAIbEk)
 * [L'invariante spaziotemporale](https://www.youtube.com/watch?v=esiXpSvct_A)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
