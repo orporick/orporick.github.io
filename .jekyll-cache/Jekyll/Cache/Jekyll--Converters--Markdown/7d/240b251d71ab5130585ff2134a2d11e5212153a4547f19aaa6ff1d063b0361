@@ -1,4 +1,4 @@
-I"OG<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
+I"VJ<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
 ordine sui materiali che vi sto proponendo in questi giorni di sospensione della
 didattica. Non consideratelo come un posto definitivo, ma come un ripiano
 provvisorio in cui appoggiare proposte e pensieri in questi giorni di strana
@@ -42,9 +42,13 @@ canali che per vostra comodità riassumo qui</p>
 
 <ul>
   <li><a href="https://youtu.be/jAkPa1ETsQM">Videolezione: matematica delle epidemie</a></li>
-  <li>
-    <p><a href="http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/">Lettera sul modello SIR</a>* <a href="http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/">Lettera sulla crescita esponenziale</a></p>
-  </li>
+  <li><a href="http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/">Lettera sul modello SIR</a></li>
+  <li><a href="http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/">Lettera sulla crescita esponenziale</a></li>
+</ul>
+
+<h1 id="introduzione-alla-programmazione">Introduzione alla programmazione</h1>
+
+<ul>
   <li><a href="https://www.youtube.com/watch?v=S9wlhlH2gAI">Introduzione alla programmazione - Parte I</a></li>
   <li><a href="https://www.youtube.com/watch?v=67-lARJpIs8">Introduzione alla programmazione - Parte II</a></li>
   <li><a href="https://www.youtube.com/watch?v=n48HGs55Rn8">Introduzione alla programmazione - Parte III</a></li>
@@ -253,6 +257,17 @@ pianeti del sistema solare e verificate numericamente la terza legge di
 Keplero</li>
   <li>Applicate la legge di gravitazione universale per proporre un modello
 semplificato di galassia. Confrontate con dati reali.</li>
+  <li>Questo è un po’ elaborato:
+    <ul>
+      <li>Leggere “Dalla Terra alla Luna” di Jules Verne</li>
+      <li>Calcolare la velocità che dovrebbe avere il proiettile per
+ raggiungere il punto di Lagrange L1 tra Terra e Luna (vedi video)</li>
+      <li>Stimare l’accelerazione del proiettile in fase di lancio (velocità e
+ lunghezza del cannone le avete, fate una stima del tempo di eiezione)</li>
+      <li>Perché questa parte del viaggio è chiaramente impossibile?</li>
+      <li>Dare una stima del tempo di volo per raggiungere L1.</li>
+    </ul>
+  </li>
 </ol>
 
 <h2 id="quarta-n-1">Quarta N</h2>
@@ -311,6 +326,7 @@ ovviamente), a cosa sta pensando Einstein due anni dopo l’annus mirabilis del
   <li>Guardate il video sui modelli SIR per le epidemie all’inizio di questa pagina
   e provate a riscrivere le equazioni usando le derivate. Cosa potete dire
   dell’eventuale soluzione?</li>
+  <li>Leggere <a href="https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf">questo articolo</a> e commentarlo</li>
 </ul>
 
 :ET

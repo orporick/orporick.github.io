@@ -11,6 +11,7 @@ didattica. Non consideratelo come un posto definitivo, ma come un ripiano
 provvisorio in cui appoggiare proposte e pensieri in questi giorni di strana
 lontananza. Per la ratio del mio discorso vi ho già scritto [una lettera](http://orporick.github.io/lettere/2020/03/04/lettera-dall-esilio-ai-miei-studenti-ed-alle-mie-studentesse/) ed un
 [video](https://www.youtube.com/watch?v=-oXT8P8NR34) come punti di partenza.
+Aggiungo un [commento sconfortato](https://www.youtube.com/watch?v=pcM_cqKkTKE).
 
 
 Di seguito, dopo un riassunto dei metodi che avete per contattarmi, riporto
@@ -44,15 +45,24 @@ canali che per vostra comodità riassumo qui
 
 # Materiale Generale
 
+## Modelli di crescita 
 * [Videolezione: matematica delle epidemie](https://youtu.be/jAkPa1ETsQM)
 * [Lettera sul modello SIR](http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/)
 * [Lettera sulla crescita esponenziale](http://orporick.github.io/lettere/2018/02/24/lettera-ad-una-mia-studentessa-sulla-liberta/)
 
-# Introduzione alla programmazione
+## Introduzione alla programmazione
 
 * [Introduzione alla programmazione - Parte I](https://www.youtube.com/watch?v=S9wlhlH2gAI)
 * [Introduzione alla programmazione - Parte II](https://www.youtube.com/watch?v=67-lARJpIs8)
 * [Introduzione alla programmazione - Parte III](https://www.youtube.com/watch?v=n48HGs55Rn8)
+* [Introduzione alla programmazione - Parte IV](https://www.youtube.com/watch?v=gor0PYUtIBk)
+* [Introduzione alla porgrammazione - Parte V](https://www.youtube.com/watch?v=K64CiQFOBMU)
+
+## Lezioni trasversali
+
+* [I punti di Lagrange](https://www.youtube.com/watch?v=soDumqxqh6I)
+* [Rivisitare i vettori](https://www.youtube.com/watch?v=EhhY1ov8qCs)
+
 
 # Terza C
 
@@ -77,6 +87,7 @@ quadrato della distanza dalla terza legge di Keplero
 * [Costruire una Delta-V map](https://www.youtube.com/watch?v=0b3abjZdPKc)
 * [Introduzione alla termodinamica](https://www.youtube.com/watch?v=kmrKBrApamY)
 * [Natura meccanica della temperatura](https://www.youtube.com/watch?v=HlgYLmT2vUk)
+* [Le scale termometriche: Celsius e Kelvin](https://www.youtube.com/watch?v=FZ9OjWlZlP8)
 * *Letture*
 	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
 	* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
@@ -122,7 +133,7 @@ continuerò a farlo, quindi rimanete collegati.
 * [Esercizio di fluidodinamica](https://youtu.be/gnngIgaKCFI)
 * [Introduzione alla teoria dei campi](https://www.youtube.com/watch?v=daC1IoPYsXs)
 * [Introduzione al campo gravitazionale](https://www.youtube.com/watch?v=v1ScMRGFyBw)
-
+* [Introduzione alle equazioni del campo](https://www.youtube.com/watch?v=1_hFYovvrJ8)
 ## Letture
 
 * [Problema di probabilità](http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/)
@@ -192,6 +203,8 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Relatività, composizione delle velocità e trasformazioni di Lorentz](https://youtu.be/yQ35fZzR4xs)
 * [Un semplice esercizio di cinematica relativistica](https://www.youtube.com/watch?v=DF4wShAIbEk)
 * [L'invariante spaziotemporale](https://www.youtube.com/watch?v=esiXpSvct_A)
+* [Dinamica relativistica - parte 1](https://www.youtube.com/watch?v=K91OQg7-zFY)
+* [Dinamica relativistica - parte 1](https://www.youtube.com/watch?v=rlHK3_JsfTA)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
 	* [parte2](https://www.youtube.com/watch?v=-vgiI3hz9xU)
@@ -238,6 +251,14 @@ Aspetto i vostri compiti in classe senza classe.
    Keplero
 4. Applicate la legge di gravitazione universale per proporre un modello
    semplificato di galassia. Confrontate con dati reali.
+5. Questo è un po' elaborato:
+	* Leggere "Dalla Terra alla Luna" di Jules Verne
+	* Calcolare la velocità che dovrebbe avere il proiettile per
+	raggiungere il punto di Lagrange L1 tra Terra e Luna (vedi video)
+	* Stimare l'accelerazione del proiettile in fase di lancio (velocità e
+	lunghezza del cannone le avete, fate una stima del tempo di eiezione)
+	* Perché questa parte del viaggio è chiaramente impossibile?
+	* Dare una stima del tempo di volo per raggiungere L1.
 
 
 ## Quarta N
@@ -292,4 +313,5 @@ Aspetto i vostri compiti in classe senza classe.
 * Guardate il video sui modelli SIR per le epidemie all'inizio di questa pagina
     e provate a riscrivere le equazioni usando le derivate. Cosa potete dire
     dell'eventuale soluzione?
+* Leggere [questo articolo](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf) e commentarlo
 
