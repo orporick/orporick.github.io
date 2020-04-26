@@ -45,6 +45,8 @@ canali che per vostra comodità riassumo qui
 
 # Materiale Generale
 
+[Alcuni strumenti di didattica a distanza (o della solitudine)](https://www.youtube.com/watch?v=TKz6ywIT7eg)
+
 ## Modelli di crescita 
 * [Videolezione: matematica delle epidemie](https://youtu.be/jAkPa1ETsQM)
 * [Lettera sul modello SIR](http://orporick.github.io/lettere/2018/03/05/lettera-su-un-ragionamento/)
@@ -62,7 +64,8 @@ canali che per vostra comodità riassumo qui
 
 * [I punti di Lagrange](https://www.youtube.com/watch?v=soDumqxqh6I)
 * [Rivisitare i vettori](https://www.youtube.com/watch?v=EhhY1ov8qCs)
-
+* [Due passi tra Borges, Pascal, Bruno, Poe e il teorema di Gauss](https://www.youtube.com/watch?v=ZdGQcEscq5A)
+* [Un ritratto di Tullio Levi Civita nel giorno della Liberazione](https://www.youtube.com/watch?v=haPrCymzVQE)
 
 # Terza C
 
@@ -85,12 +88,19 @@ quadrato della distanza dalla terza legge di Keplero
 * [Esercizio sulla gravitazione](https://youtu.be/rnptxGje5v4)
 * [Riassunto gravitazione](https://www.youtube.com/watch?v=VTvEdtsDh8k)
 * [Costruire una Delta-V map](https://www.youtube.com/watch?v=0b3abjZdPKc)
+* [Un piccolo viaggio nello spazio con KSP](https://www.youtube.com/watch?v=CybX-eI021E)
 * [Introduzione alla termodinamica](https://www.youtube.com/watch?v=kmrKBrApamY)
 * [Natura meccanica della temperatura](https://www.youtube.com/watch?v=HlgYLmT2vUk)
 * [Le scale termometriche: Celsius e Kelvin](https://www.youtube.com/watch?v=FZ9OjWlZlP8)
-* *Letture*
-	* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
-	* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
+* [Definizione semiseria di funzione esponenziale](https://www.youtube.com/watch?v=1aHPfSuk5PQ)
+* [Appendice alla lezione sulla funzione esponenziale](https://www.youtube.com/watch?v=6bvcBakayOo)
+* [Legge di Gay-Lussac e dilatazione termica](https://www.youtube.com/watch?v=gmm7lF14C1g)
+* [Trasformazioni termodinamiche di un gas ed energia interna](https://www.youtube.com/watch?v=pMeRoYsw2rc)
+* [Pressione e densità atmosferiche in funzione dell'altezza e distribuzione di Boltzmann](https://www.youtube.com/watch?v=7fGcjKUtsaM)
+
+## Letture
+* [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
+* [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
 
 
 <br>
@@ -103,17 +113,20 @@ Per quanto riguarda fisica, vista lunga pausa, dichiaro terminata la parte
 sull'ottica geometrica (mancavano solo alcune applicazioni a strumenti composti
 che, sebbene interessanti, possiamo con tranquillità saltare) e rimando all'anno
 prossimo l'ottica fisica (ha più senso svilupparla nel contesto delle onde
-elettromagnetiche che vedremo, appunto, in quinta). Appena torniamo inizieremo
-il nuovo argomento, cioè la nascita delle teorie di campo. Al momento
-sospendiamo, se la pausa verrà prolungata allora inizieremo virtualmente ad
-andare avanti. 
+elettromagnetiche che vedremo, appunto, in quinta). Ho quindi sviluppato in
+remoto una breve introduzione alla fluidodinamica ed ho iniziato la teoria dei
+campi partendo dal campo gravitazionale per arrivare a definire gli strumenti
+principali (flusso, circuitazione, potenziale) che useremo per i campi elettrici
+e magnetici.
 
 Per quanto riguarda matematica direi che vi potete concentrare sul ripasso ed il
 consolidamento del calcolo combinatorio e della teoria delle probabilità.
 Abbiamo fatto quasi tutto, manca solo la formula di Bayes (vedi dopo) ed un po'
 di applicazioni a problemi e paradossi complessi. Al momento potete dare
 un'occhiata agli appunti ed al libro, vi ho anche inserito alcuni video e
-continuerò a farlo, quindi rimanete collegati.
+continuerò a farlo, quindi rimanete collegati. Ho quindi chiuso l'argomento
+probabilità ed iniziato l'analisi delle funzioni reali con lo scopo di arrivare
+entro la fine dell'anno alla definizione ed al calcolo dei limiti.
 
 ## Video
 
@@ -126,6 +139,8 @@ continuerò a farlo, quindi rimanete collegati.
 * [Introduzione all'analisi](https://www.youtube.com/watch?v=QcdUCuNtCeQ)
 * [Primi passi nell'analisi di funzioni reali](https://www.youtube.com/watch?v=ukzdlsD7ZIU)
 * [Funzioni iniettive e suriettive](https://www.youtube.com/watch?v=3nyKxk1t-EE)
+* [Introduzione alla topologia della retta reale](https://www.youtube.com/watch?v=Y32dxMM0L7w)
+* [Introduzione informale al concetto di limite](https://www.youtube.com/watch?v=j3zUQL0j60M)
 
 ### Fisica
 
@@ -134,6 +149,11 @@ continuerò a farlo, quindi rimanete collegati.
 * [Introduzione alla teoria dei campi](https://www.youtube.com/watch?v=daC1IoPYsXs)
 * [Introduzione al campo gravitazionale](https://www.youtube.com/watch?v=v1ScMRGFyBw)
 * [Introduzione alle equazioni del campo](https://www.youtube.com/watch?v=1_hFYovvrJ8)
+* [Equazione del campo gravitazionale con il flusso](https://www.youtube.com/watch?v=fGW0NQXQuwk)
+* [Esempi simmetrici di equazione del campo gravitazionale con il flusso](https://www.youtube.com/watch?v=kHQ-6JVk9NM)
+* [Esercizi sul campo gravitazionale e simmetrie](https://www.youtube.com/watch?v=W1NXRFYFbL0)
+* [La circuitazione del campo gravitazionale](https://www.youtube.com/watch?v=DPZF2I5qSQA)
+
 ## Letture
 
 * [Problema di probabilità](http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/)
@@ -152,18 +172,19 @@ lavorato molto in questi tre anni, non avete motivo di scoraggiarvi. Anzi, avete
 adesso l'occasione di mostrare la vostra consapevolezza della prova, la vostra
 determinazione ed il vostro senso di responsabilità. Come sapete bene per quanto
 mi riguarda l'esame lo avete già superato ampiamente, adesso si tratta solo di
-fare uno sforzo finale per rendere questa cosa universale.
+fare uno sforzo finale per rendere questa chiara anche agli altri (e a voi
+stessi e voi stesse).
 
 Per quanto riguarda fisica vi chiedo di fare un ripasso di tutto
 l'elettromagnetismo usando il libro, gli appunti, e lo [schema che vi ho passato
 tempo fa](../documents/em.pdf). Ripassate inoltre l'introduzione al k-calculus
-di Bondi e in generale la relatività ristretta (vi ho messo dei video, vedi
-oltre). Potete studiare sugli appunti e per la primissima discussione sul
-problema potete fare riferimento a questa [mia
-lettera](http://orporick.github.io/lettere/2020/01/17/lettera-ad-un-figlio-su-un-idea/). Temo che vista la pausa prolungata salterà l'introduzione alla
+di Bondi e in generale la relatività ristretta: potete studiare sugli appunti e per una introduzione
+alla discussione sul problema potete fare riferimento a questa [mia lettera](http://orporick.github.io/lettere/2020/01/17/lettera-ad-un-figlio-su-un-idea/). 
+In remoto ho finito tutta la relatività ristretta e messa nei video qui sotto,
+sia la cinematica che la dinamica.
+Vista la situazione temo che salterà l'introduzione alla
 relatività generale che vi avevo promesso, se ci sarà tempo la proporrò
-eventualmente in un paio di incontri pomeridiani (alla riapertura delle attività
-didattiche ovviamente) a cui parteciperà solo chi ha qualche interesse in merito
+eventualmente in un paio di video solo per chi ha qualche interesse in merito
 (e quindi non includerò nel programma consuntivo di fine anno). Ho
 messo infine nella sezione video (vedi oltre) alcuni video introduttivi alla fisica
 moderna che feci qualche anno fa; la parte di relatività dovrebbe esservi
@@ -177,9 +198,9 @@ all'esame senza tralasciare però la parte culturale del discorso.
 Per quanto riguarda matematica fate un ripasso generale di tutta l'analisi reale
 vista fino ad ora (limiti, derivate, integrali); vi ho aggiunto due video sul
 calcolo numerico che non abbiamo visto in classe, iniziate ad orientarvi.
-Prossimi argomenti (che spero di fare in classe con voi, altrimenti troveremo un
-modo qui sopra) saranno il calcolo di volumi (facile), gli integrali impropri (facile) e le equazioni
-differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
+Gli argomenti sviluppati in remoto qui di seguito sono il calcolo di volumi (facile), 
+gli integrali impropri (facile) e le equazioni differenziali, che però taglierò molto, 
+la geometria analitica nello spazio. Rimanete con le orecchie dritte.
 
 ## Video
 
@@ -196,6 +217,9 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [Esercizio su equazioni differenziali del secondo ordine](https://www.youtube.com/watch?v=30akGUzidDM)
 * [Equazioni differenziali applicate ai circuiti elettrici](https://www.youtube.com/watch?v=EVVyXoQV7Ok)
 * [Calcolo del volume del toro con gli integrali](https://www.youtube.com/watch?v=s4bCHM4-56w)
+* [Introduzione alla geometria analitica nello spazio](https://www.youtube.com/watch?v=Rxo9xMuA-tY)
+* [Ancora sulla geometria analitica nello spazio](https://www.youtube.com/watch?v=dUWoWJEXqMU)
+* [Intersezione tra piani e prodotto vettoriale](https://www.youtube.com/watch?v=nRQbG6mbMok)
 
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
@@ -205,6 +229,8 @@ differenziali, che però taglierò molto. Rimanete con le orecchie dritte.
 * [L'invariante spaziotemporale](https://www.youtube.com/watch?v=esiXpSvct_A)
 * [Dinamica relativistica - parte 1](https://www.youtube.com/watch?v=K91OQg7-zFY)
 * [Dinamica relativistica - parte 1](https://www.youtube.com/watch?v=rlHK3_JsfTA)
+* [Dinamica relativistica e non additività della massa](https://www.youtube.com/watch?v=M_Sg9IHdMtg)
+* [Redshift gravitazionale da un semplice argomento](https://www.youtube.com/watch?v=Fh72moXT1Wg)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
 	* [parte2](https://www.youtube.com/watch?v=-vgiI3hz9xU)
@@ -259,7 +285,20 @@ Aspetto i vostri compiti in classe senza classe.
 	lunghezza del cannone le avete, fate una stima del tempo di eiezione)
 	* Perché questa parte del viaggio è chiaramente impossibile?
 	* Dare una stima del tempo di volo per raggiungere L1.
-
+6. Ragionando da un punto di vista termodinamico e mettendo insieme quanto
+   appreso con la legge
+   della gravitazione universale, provate a stimare quale potrebbe essere una
+   temperatura massima per l'atmosfera di un pianeta. Confrontate questa stima
+   con dati reali per qualche pianeta (Terra, Marte, Mercurio, per esempio).
+   Commentate.
+7. Facendo riferimento alla lezione sull'andamento della pressione e della
+   densità atmosferiche in funzione dell'altezza, sai fare una stima
+   dell'altezza dell'atmosfera terrestre? Usa qualche semplificazione (per
+   esempio considera solo l'ossigeno) e commenta il risultato.
+8. Facendo riferimento al video di cui parlo nell'esercizio precedente, prova a
+   fare qualche simulazione numerica (per esempio con un foglio di calcolo o con
+   Geogebra o in Python) sulla distribuzione della densità in funzione
+   dell'altezza.
 
 ## Quarta N
 
@@ -281,7 +320,11 @@ Aspetto i vostri compiti in classe senza classe.
 4. Scegliete un gioco d'azzardo qualunque e studiatene le caratteristiche da un
    punto di vista probabilistico (probabilità di vincere, di perdere, vale la
    pena giocare etc.) 
-
+5. Cercate in rete riferimenti alla disputa tra Leibniz e Newton sulla nascita
+   del calcolo differenziale (l'analisi delle funzioni reali di cui abbiamo
+   iniziato lo studio). Inquadrate il problema dal punto di vista storico e
+   filosofico e provate a collegarlo con quanto stiamo vedendo nei video
+   sull'analisi. 
 ### Fisica
 
 1. Procuratevi online una copia delle Opticks di Newton (se non trovate
@@ -290,7 +333,25 @@ Aspetto i vostri compiti in classe senza classe.
 2. Sulla base della lezione sulla fluidodinamica provare a dare una spiegazione
    "artigianale" della forma a fungo assunta dalla "nuvola" di un'esplosione (per
    esempio di un ordigno nucleare)
-
+3. Leggete [queste lettere di
+   Newton](http://www.cartesio-episteme.net/episteme/epi5/ep5-newt.htm) e
+   provate a farvi un'idea personale (da riportare in un testo) su che cosa
+   intendesse Newton per forza gravitazionale e sull'efficacia (o meno) delle
+   sue argomentazioni in favore di una divinità.
+4. Sulla falsa riga di quanto ho fatto a lezione (virtuale), calcolate il campo
+   gravitazionale all'interno di una sfera di massa M e raggio R nei seguenti
+   casi (fateli tutti e due o solo uno):
+   1. sfera piena omogenea di densità costante
+   2. sfera cava di spessore omogeneo h
+5. Relativamente all'esercizio precedente, riuscite a studiare qualitativamente
+   o quantitativamente il moto di un corpo lasciato libero di cadere in un
+   tunnel che passa per il centro della sfera? Ed in un tunnel che non passa per
+   il centro della sfera?
+6. Relativamente agli esercizi 4 e 5, cosa potete dire nel caso di un cilindro
+   di altezza infinita, raggio $R$ e densita' di massa $\rho$?
+7. Applicando l'equazione di campo del flusso determinare il flusso totale
+   uscente da una sfera che contenga la Terra. Perché non è importante sapere il
+   raggio di tale sfera?
 
 ## Quinta H
 
