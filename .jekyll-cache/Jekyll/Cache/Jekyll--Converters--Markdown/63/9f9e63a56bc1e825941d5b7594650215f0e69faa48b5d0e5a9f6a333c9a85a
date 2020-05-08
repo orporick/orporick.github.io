@@ -1,4 +1,4 @@
-I")'<div class="right"><i>Sapiente è chi getta luce nell'oscurità,<br />
+I"�%<div class="right"><i>Sapiente è chi getta luce nell'oscurità,<br />
 chi scioglie i nodi, chi manifesta l'ignoto,<br />
 chi precisa l'incerto.</i><br />
 <b>Giorgio Colli</b></div>
@@ -33,10 +33,10 @@ Immagina di avere un punto $P$ sul piano con coordinate intere $(x,y)$. Immagina
 quindi di trasformare questo punto in un nuovo punto $P’$ di coordinate
 $(x’,y’)$ secondo questa legge</p>
 
-<script type="math/tex; mode=display">\begin{cases} 
+\[\begin{cases} 
 x' = ax + by \\
 y' = cx + dy  
-\end{cases}</script>
+\end{cases}\]
 
 <p>Limitiamoci a considerare i numeri $a b c d$ come interi; questo è un caso
 particolare di <em>trasformazione lineare</em> del piano. L’ideale sarebbe usare le
@@ -61,50 +61,50 @@ esercizio sapresti trovare l’orbita dell’origine del piano?</p>
 <p>Bene, cosa ha a che fare tutto questo con Fibonacci? Arriviamo al punto centrale
 del nostro discorso, considera la trasformazione lineare data da</p>
 
-<script type="math/tex; mode=display">\begin{cases} 
+\[\begin{cases} 
 x' = y \\
 y' = x + y  
-\end{cases}</script>
+\end{cases}\]
 
 <p>dunque con $a=0$, $b=c=d=1$; studiamo l’orbita che parte dal punto $P$ di
 coordinate $(1,1)$. Otteniamo (indovina? Esatto, esercizio)</p>
 
-<script type="math/tex; mode=display">(1,1) \rightarrow (1,2) \rightarrow (2,3) \rightarrow (3,5) \rightarrow (5,8)
-\rightarrow \ldots</script>
+\[(1,1) \rightarrow (1,2) \rightarrow (2,3) \rightarrow (3,5) \rightarrow (5,8)
+\rightarrow \ldots\]
 
 <p>Notiamo due cose evidenti (sicuro lo siano?): primo l’orbita risulta senza fine,
 possiamo andare avanti senza tornare mai indietro, secondo le coordinate dei
 punti dell’orbita seguono in modo evidente la successione di Fibonacci vista in
 classe</p>
 
-<script type="math/tex; mode=display">1\quad 1\quad 2\quad 3\quad 5\quad 8 \ldots</script>
+\[1\quad 1\quad 2\quad 3\quad 5\quad 8 \ldots\]
 
 <p>dove ogni termine è la somma dei due precedenti; questo dovrebbe renderti
 chiaro perché la nostra trasformazione lineare genera proprio tale successione
 con la $x$ e la $y$ sfasate di un termine. Se ricordi quando vi ho parlato della
 successione di Fibonacci vi ho detto che i termini sono tali che il rapporto</p>
 
-<script type="math/tex; mode=display">\frac{F_{i+1}}{F_i}</script>
+\[\frac{F_{i+1}}{F_i}\]
 
 <p>(indico con $F_i$ l’i-esimo termine della successione) tende ad un valore
 storicamente importante, la sezione aurea</p>
 
-<script type="math/tex; mode=display">\frac{1+\sqrt{5}}{2}</script>
+\[\frac{1+\sqrt{5}}{2}\]
 
 <p>In classe abbiamo visto un ragionamento plausibile, anche se non rigoroso;
 usando le proprietà della successione abbiamo</p>
 
-<script type="math/tex; mode=display">\frac{F_{i+1}}{F_i} = \frac{F_i + F_{i-1}}{F_i}</script>
+\[\frac{F_{i+1}}{F_i} = \frac{F_i + F_{i-1}}{F_i}\]
 
 <p>da cui, con alcuni passaggi algebrici</p>
 
-<script type="math/tex; mode=display">\frac{F_{i+1}}{F_i} = 1 + \frac{1}{\frac{F_i}{F_{i-1}}}</script>
+\[\frac{F_{i+1}}{F_i} = 1 + \frac{1}{\frac{F_i}{F_{i-1}}}\]
 
 <p>Ipotizzando che il rapporto tra un termine ed il precedente tenda ad un valore
 $\phi$ quando $i$ tende all’infinito (l’anno prossimo vedremo tutto con i dettagli
 giusti), si ottiene l’equazione</p>
 
-<script type="math/tex; mode=display">\phi = 1 + \frac{1}{\phi}</script>
+\[\phi = 1 + \frac{1}{\phi}\]
 
 <p>Quanto tempo abbiamo dedicato a questa equazione ed alla nascita degli alogoi?
 Spero tu possa ricordare, di fatto la soluzione di questa equazione di secondo

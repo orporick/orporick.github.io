@@ -1,4 +1,4 @@
-I"�&<p>Cara P,
+I"�%<p>Cara P,
 rispondo volentieri alla tua lettera immaginaria, ho fatto finta di riceverla proprio oggi. Mi
 chiedi della matematica, di quello che in classe stiamo facendo, mi parli di come vivi i voti, le
 difficoltà, le mie spiegazioni non sempre chiare. Non importa che tu questa lettera non me l’abbia
@@ -81,11 +81,11 @@ infiniti numeri, uno successivo all’altro. Ma i primi due assiomi non bastano;
 a tre numeri, lo zero ed altri due che chiamerò per convenzione $a$ e $b$. Posso immaginare la
 seguente struttura</p>
 
-    <script type="math/tex; mode=display">S(0) = a</script>
+\[S(0) = a\]
 
-    <script type="math/tex; mode=display">S(a) = b</script>
+\[S(a) = b\]
 
-    <script type="math/tex; mode=display">S(b) = a</script>
+\[S(b) = a\]
 
     <p>In un certo senso si parte da zero, il successore è $a$, il successore è $b$, il successore è di
 nuovo $a$. A questo punto si finisce in un circolo vizioso in cui si oscilla tra $a$ e $b$. In
@@ -99,11 +99,11 @@ $b$ sono diversi, eppure il loro successore è $a$, ovvero lo stesso. Sembra che
 questo terzo assioma non si può tornare indietro e definire così dei numeri che non siano
 infiniti. Sicura? Cosa ne dici di questa nuova struttura?</p>
 
-    <script type="math/tex; mode=display">S(0) = a</script>
+\[S(0) = a\]
 
-    <script type="math/tex; mode=display">S(a) = b</script>
+\[S(a) = b\]
 
-    <script type="math/tex; mode=display">S(b) = 0</script>
+\[S(b) = 0\]
 
     <p>adesso i tre numeri hanno successori diversi, 0 ha $a$, a ha $b$ e b ha $0$. Ci ritroviamo nello
 stesso problema di prima, i primi tre assiomi di Peano sono compatibili con una struttura di

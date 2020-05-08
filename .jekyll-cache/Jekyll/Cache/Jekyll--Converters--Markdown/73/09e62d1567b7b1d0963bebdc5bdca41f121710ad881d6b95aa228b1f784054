@@ -1,4 +1,4 @@
-I"�!<p>Oggi<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> è il tredicesimo anniversario della morte di John.F.Peppermaus, me ne
+I""<p>Oggi<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup> è il tredicesimo anniversario della morte di John.F.Peppermaus, me ne
 sono ricordato mentre correvo sotto la pioggia, bagnato dalla testa ai piedi.
 Entro in classe e Gamboni mi fa “prof, piove mica fuori?” (quando mi chiamano
 prof, lo fanno sempre con la p minuscola, ma mica è mancanza di rispetto, è
@@ -109,10 +109,10 @@ tempo. Ancora oggi quando ragiono su un problema, faccio
 lezione in classe, leggo un articolo di   matematica, ancora oggi mi sembra di
 sentire la sua voce, con spiccato   accento californiano, che mi dice “Riccardo, è tutto sbagliato”.</p>
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p>Queste righe le ho scritte molti anni fa per ricordare e onorare la memoria del mio amico e mentore, J.F.Peppermaus. Le ho volute riportare qui, in questo nuovo posto, per non perdere quella memoria. Non hanno alcun valore, sono solo l’epigrafe di un periodo della mia vita. (Nel trasloco ho apportato alcune modifiche che il tempo ed una rinnovata allergia al me stesso di tanti anni fa hanno richiesto.) <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p>Queste righe le ho scritte molti anni fa per ricordare e onorare la memoria del mio amico e mentore, J.F.Peppermaus. Le ho volute riportare qui, in questo nuovo posto, per non perdere quella memoria. Non hanno alcun valore, sono solo l’epigrafe di un periodo della mia vita. (Nel trasloco ho apportato alcune modifiche che il tempo ed una rinnovata allergia al me stesso di tanti anni fa hanno richiesto.) <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>

@@ -1,4 +1,4 @@
-I"<3<p>Cara R,
+I"�1<p>Cara R,
 nella tua ultima lettera mi chiedi se posso tornare brevemente su
 alcune questioni legate all’elettromagnetismo viste in classe, in
 particolare sulle prime due equazioni di Maxwell, quelle sui flussi
@@ -33,7 +33,7 @@ l’espressione della forza esercitata su una carica di prova $q$ posta
 in un punto dello spazio dove sono presenti un campo elettrico ${\bf
 E}$ ed uno magnetico ${\bf B}$</p>
 
-<script type="math/tex; mode=display">{\bf F}  = q {\bf E} + q{\bf v}\times{\bf B}</script>
+\[{\bf F}  = q {\bf E} + q{\bf v}\times{\bf B}\]
 
 <p>(ti ricordo che i campi sono vettori). L’espressione data per la forza
 può essere usata in modo operativo per definire, se vuoi, i campi
@@ -70,7 +70,7 @@ il campo è lo stesso come modulo, direzione e verso) e considerata una
 superficie piana di area $S$ perpendicolare alla direzione del campo,
 definiamo il flusso del campo attraverso la superficie come</p>
 
-<script type="math/tex; mode=display">\Phi_S({\bf V}) = S V</script>
+\[\Phi_S({\bf V}) = S V\]
 
 <p>(quando scrivo il vettore non in grassetto intendo indicare il suo
 modulo). Molto semplice. Se la superficie piana è parallela al campo il flusso
@@ -78,7 +78,7 @@ invece viene definito come nullo. E nei casi intermedi? Sia $\theta$
 l’angolo che la normale alla superficie fa con la direzione positiva
 del campo, allora il flusso è dato da</p>
 
-<script type="math/tex; mode=display">\Phi_S({\bf V}) = S V \cos(\theta)</script>
+\[\Phi_S({\bf V}) = S V \cos(\theta)\]
 
 <p>Come vedi con $\theta = 0$ e $\theta = 90^\circ$ si riottengono i due
 casi particolari. C’è un piccolo dettaglio: devo decidere
@@ -130,9 +130,9 @@ quello del cubo a sei facce di cui abbiamo parlato prima).</p>
 <p>Bene, torniamo a Maxwell. Le prime due equazioni si possono scrivere
 così</p>
 
-<script type="math/tex; mode=display">\Phi_S({\bf E}) = \frac{1}{\epsilon_0} Q</script>
+\[\Phi_S({\bf E}) = \frac{1}{\epsilon_0} Q\]
 
-<script type="math/tex; mode=display">\Phi_S({\bf B}) = 0</script>
+\[\Phi_S({\bf B}) = 0\]
 
 <p>dove $S$ è una qualunte superficie chiusa orientata verso l’esterno,
 $Q$ è la carica elettrica totale contenuta dentro la superficie $S$ ed
@@ -162,12 +162,12 @@ flusso del campo elettrico uscente. Per motivi di simmetria il campo
 dovrà essere perpendicolare alla superficie e per quanto abbiamo visto
 primo questo significa</p>
 
-<script type="math/tex; mode=display">\Phi_S({\bf E}) = 4\pi r^2 E</script>
+\[\Phi_S({\bf E}) = 4\pi r^2 E\]
 
 <p>dove $E$ è il modulo del campo elettrico. Mettendo questa espressione
 del flusso nell’equazione di Maxwell si ottiene</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}</script>
+\[E = \frac{1}{4\pi\epsilon_0} \frac{Q}{r^2}\]
 
 <p>Questo è il campo elettrico generato dalla carica $Q$ a distanza $r$
 (ricordo, questo è il modulo, per simmetria il campo sarà come vettore
@@ -183,7 +183,7 @@ caso).</p>
 elettrico questa subisce una forza pari a $q {\bf E}$, da cui
 otteniamo nel nostro caso semplice</p>
 
-<script type="math/tex; mode=display">F = \frac{1}{4\pi\epsilon_0} \frac{qQ}{r^2}</script>
+\[F = \frac{1}{4\pi\epsilon_0} \frac{qQ}{r^2}\]
 
 <p>che è l’espressione della forza di Coulomb tra due cariche poste a
 distanza $r$. Siamo tornati al punto di partenza: invece di parlare di

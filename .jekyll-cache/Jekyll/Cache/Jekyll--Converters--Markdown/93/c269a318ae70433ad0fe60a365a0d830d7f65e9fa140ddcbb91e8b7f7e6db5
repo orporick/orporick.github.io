@@ -1,4 +1,4 @@
-I"�<p>Cara A,
+I"$<p>Cara A,
 prima di tutto vorrei ringraziarti per le belle parole che hai avuto in classe pochi giorni fa dopo
 la consegna della verifica, mi rincuora sapere che non stai perdendo interesse per la matematica per
 causa mia. La fatica di questi mesi renderà più agile il percorso successivo, ne sono certo. In
@@ -19,9 +19,9 @@ di $B$ in modo che a due elementi di $A$ distinti vengano associati due elementi
 
 <p>In pratica $f$ è una biiezione se</p>
 
-<script type="math/tex; mode=display">x_1, x_2 \in A | x_1 \neq x_2 \longrightarrow f(x_1) \neq f(x_2)</script>
+\[x_1, x_2 \in A | x_1 \neq x_2 \longrightarrow f(x_1) \neq f(x_2)\]
 
-<script type="math/tex; mode=display">\forall y \in B \, \exists x \in A | y = f(x)</script>
+\[\forall y \in B \, \exists x \in A | y = f(x)\]
 
 <p>Due insiemi si dicono equipotenti (o di uguale cardinalità) se esiste una biiezione tra loro. Per
 insiemi finiti questo si traduce nella proprietà di avere lo stesso numero di elementi. Se tra
@@ -48,7 +48,7 @@ sottoinsieme di $A$. Se $x$ non appartiene a tale sottoinsieme lo chiamiamo (nom
 “solitario”. Definiamo allora l’insieme $B$ come l’insieme di tutti gli elementi di $A$ che sono
 solitari, ovvero</p>
 
-<script type="math/tex; mode=display">B = \{ x \in A | x\notin f(x) \}</script>
+\[B = \{ x \in A | x\notin f(x) \}\]
 
 <p>Chiaramente $B$ è un sottoinsieme di $A$, dunque appartiene a $\cal{P}(A)$ e quindi, visto che per
 ipotesi $f$ è suriettiva, deve esserci un elemento $b\in A$ tale che $B = f(b)$. Chiediamoci se $b$

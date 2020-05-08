@@ -1,53 +1,52 @@
-I"�<p>Iniziamo con ipotizzare che la sequenza infinita di radici esista e sia un numero $x$</p>
+I"~<p>Iniziamo con ipotizzare che la sequenza infinita di radici esista e sia un numero $x$</p>
 
-<script type="math/tex; mode=display">x = \sqrt{1+\sqrt{1+\sqrt{1+\sqrt{\ldots}}}}</script>
+\[x = \sqrt{1+\sqrt{1+\sqrt{1+\sqrt{\ldots}}}}\]
 
 <p>Chiaramente $x$ è positivo, quindi elevando al quadrato</p>
 
-<script type="math/tex; mode=display">x^2 = 1 + \sqrt{1+\sqrt{1+\sqrt{1+\sqrt{\ldots}}}}</script>
+\[x^2 = 1 + \sqrt{1+\sqrt{1+\sqrt{1+\sqrt{\ldots}}}}\]
 
 <p>e quindi</p>
 
-<script type="math/tex; mode=display">x^2 = 1 + x</script>
+\[x^2 = 1 + x\]
 
 <p>Questa è un’equazione di secondo grado che ha come radice positiva</p>
 
-<script type="math/tex; mode=display">\frac{1+\sqrt{5}}{2}</script>
+\[\frac{1+\sqrt{5}}{2}\]
 
 <p>che è, appunto, il numero aureo.</p>
 
 <p>Rimane da dimostrare che effettivamente la sequenza converga ad un numero; definiamo la successione</p>
 
-<script type="math/tex; mode=display">a_0 = \sqrt{1+\sqrt{1}}</script>
+\[a_0 = \sqrt{1+\sqrt{1}}\]
 
-<script type="math/tex; mode=display">a_1 = \sqrt{1+\sqrt{1+\sqrt{1}}}</script>
+\[a_1 = \sqrt{1+\sqrt{1+\sqrt{1}}}\]
 
-<script type="math/tex; mode=display">\vdots</script>
+\[\vdots\]
 
-<script type="math/tex; mode=display">a_n = \sqrt{1+a_{n-1}}</script>
+\[a_n = \sqrt{1+a_{n-1}}\]
 
 <p>Si vede che tale successione è monotona crescente: per induzione infatti abbiamo che $a_1$ è
 sicuramente maggiore di $a_0$ e ipotizzando che $a_n&gt;a_{n-1}$ otteniamo</p>
 
-<script type="math/tex; mode=display">a_n>a_n^2 - 1</script>
+\[a_n&gt;a_n^2 - 1\]
 
 <p>da cui</p>
 
-<script type="math/tex; mode=display">a_n+1 > a_n^2</script>
+\[a_n+1 &gt; a_n^2\]
 
 <p>e quindi</p>
 
-<script type="math/tex; mode=display">a_{n+1}^2 > a_n^2</script>
+\[a_{n+1}^2 &gt; a_n^2\]
 
 <p>che, essendo tutti i termini positivi, diventa</p>
 
-<p><script type="math/tex">a_{n+1} > a_n</script>.</p>
+<p>\(a_{n+1} &gt; a_n\).</p>
 
 <p>Analogamente si può dimostrare che la successione è limitata superiormente; per esempio, sempre per
 induzione, $a_0 &lt; 2$ e ipotizzando $a_n&lt;2$ si ottiene</p>
 
-<script type="math/tex; mode=display">% <![CDATA[
-a_{n+1} < \sqrt{1+2} < 2 %]]></script>
+\[a_{n+1} &lt; \sqrt{1+2} &lt; 2\]
 
 <p>Una successione di termini positivi che è monotona crescente e limitata superiormente converge ad un
 limite per il teorema di convergenza delle successioni monotone.</p>

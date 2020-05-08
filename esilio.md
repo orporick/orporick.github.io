@@ -375,4 +375,24 @@ Aspetto i vostri compiti in classe senza classe.
     e provate a riscrivere le equazioni usando le derivate. Cosa potete dire
     dell'eventuale soluzione?
 * Leggere [questo articolo](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf) e commentarlo
-
+* Provate a risolvere la seguente equazione differenziale per una funzione $f(t)$ del tempo:
+	$$ f' = f(a-f) $$
+  (dove $a$ è un numero reale positivo) e disegnate il grafico di $f$ (per $t$ positivi). Che significato ha il
+  parametro $a$? Provate ad immaginare una situazione (fisica, economica,
+  biologica, scegliete voi) che sia rappresentabile da questa equazione e
+  discutetela.
+* Nello spaziotempo di Minkowski immaginate un corpo che si muova lungo la linea
+    oraria data da $x^2 - t^2 = 1$. Discutete tale traiettoria trovandone le
+    caratteristiche salienti. In particolare determinate in ogni istante la
+    velocità vista dall'osservatore in quiete nell'origine. Determinate inoltre
+    in ogni punto della traiettoria le linee di simultaneità; notate qualche cosa
+    di strano? Cosa possiamo dire del tempo misurato dal corpo rispetto al tempo
+    misurato dall'osservatore in quiete? Riuscite a determinare la struttura
+    causale dello spaziotempo per questo corpo (cioè determinare quali
+    zone dello spaziotempo sono causalmente connesse con il corpo e quali no?) 
+    Discutete, esplorate, stupitevi (e stupitemi).
+* Determinare il volume di un ellissoide di rotazione (prendete una ellisse con
+    semiassi $a$ e $b$ e fatela ruotare rispetto all'asse delle $y$ di $2\pi$). 
+* L'energia gravitazionale di una sfera omogenea di raggio $R$ e massa $M$ è
+    data da $$ -\frac{3}{5}\frac{GM^2}{R}$$. Dimostralo.
+* Prendendo spunto da [questo post](http://orporick.github.io/imperfezioni/2015/05/17/una-tazzina-di-caffe/) provate a discutere un possibile modello di riscaldamento per un  

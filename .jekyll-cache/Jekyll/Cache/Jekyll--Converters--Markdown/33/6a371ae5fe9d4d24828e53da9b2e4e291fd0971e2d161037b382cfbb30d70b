@@ -1,4 +1,4 @@
-I"�<p>Carissimo E,
+I"�<p>Carissimo E,
 ti scrivo per riassumere, con qualche dettaglio, il discorso iniziato qualche giorno fa sulle maree.
 Se ricordi il tutto era partito da una imprecisione comune nei libri di testo scolastici, ovvero che
 le maree siano dovute all’attrazione gravitazionale della Luna tout court. In realtà, come ti ho
@@ -26,7 +26,7 @@ gravitazionale generato da un corpo sferico come la Terra senza fare l’appross
 uniforme; allora l’accelerazione sarà diretta verso il centro della Terra ed avrà una intensità data
 da</p>
 
-<script type="math/tex; mode=display">\frac{GM}{r^2}</script>
+\[\frac{GM}{r^2}\]
 
 <p>dove $r$ è la distanza dal centro. Si vede subito in questo caso che l’accelerazione dei cinque
 corpi nell’ascensore non è più la stessa. Il corpo $C$, essendo nel centro di massa dell’ascensore,
@@ -36,21 +36,21 @@ avrà un’accelerazione maggiore ed $A$ è più lontano e quindi un’acceleraz
 un asse verticale, poniamo il centro in $C$ e chiamiamo $R$ la distanza di $C$ dal centro della
 Terra e $z$ quella di $A$ da $C$ si vede subito che le accelerazioni sono</p>
 
-<script type="math/tex; mode=display">g_C = \frac{GM}{R^2}</script>
+\[g_C = \frac{GM}{R^2}\]
 
-<script type="math/tex; mode=display">g_A = \frac{GM}{(R+z)^2}</script>
+\[g_A = \frac{GM}{(R+z)^2}\]
 
 <p>Facendo un’approssimazione al primo ordine per $z$ piccolo (ovvero consideriamo la dimensione
 dell’ascensore piccola rispetto alla distanza $R$ dal centro della Terra) si ottiene facilmente
 (esercizio)</p>
 
-<script type="math/tex; mode=display">g_A = \frac{GM}{R^2} - 2\frac{GM}{R^3}z</script>
+\[g_A = \frac{GM}{R^2} - 2\frac{GM}{R^3}z\]
 
 <p>Se immaginiamo di considerare un tempo di osservazione del moto piccolo possiamo prendere queste
 accelerazioni costanti; allora avremo un moto uniformemente accelerato. Dunque la distanza tra $C$ e
 $A$ varia con un’accelerazione relativa di</p>
 
-<script type="math/tex; mode=display">2\frac{GM}{R^3}z</script>
+\[2\frac{GM}{R^3}z\]
 
 <p>Alcuni commenti: l’espressione così ottenuta è positiva per $z$ positivo, quindi per il punto $A$,
 ma si vede facilmente che per il punto $B$ il discorso è del tutto simile solo con $z$ negativo.
@@ -67,7 +67,7 @@ partenza. Ti lascio dimostrare che per i punti $D$ ed $E$ ci sono forze di marea
 verso il punto $C$ la cui accelerazione, nelle approssimazioni viste prima e chiamando con $x$ l’asse
 che contiene i punti, è pari a</p>
 
-<script type="math/tex; mode=display">-\frac{GM}{R^3}x</script>
+\[-\frac{GM}{R^3}x\]
 
 <p>(il segno meno rappresenta appunto la natura attrattiva della forza di marea trasversale).</p>
 

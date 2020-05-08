@@ -1,4 +1,4 @@
-I"�<p>Cari ragazzi e care ragazze,
+I"�<p>Cari ragazzi e care ragazze,
 ora che avete aperto questa mia lettera ed ho ottenuto con un sotterfugio la vostra attenzione,
 vorrei parlarvi di matematica. Lo so, non è la prima volta che ricorro a questi piccoli inganni, 
 perdonate se potete la necessità che provo di parlarvi di panorami diversi dal consueto.</p>
@@ -7,10 +7,10 @@ perdonate se potete la necessità che provo di parlarvi di panorami diversi dal 
 studiato in questi giorni la rappresentazione algebrica di tale problema, si tratta di mettere a
 sistema le due equazioni che rappresentano sul piano cartesiano le due rette. In termini formali</p>
 
-<script type="math/tex; mode=display">\begin{cases}
+\[\begin{cases}
 ax + by + c = 0 \\
 a'x + b'y + c' = 0
-\end{cases}</script>
+\end{cases}\]
 
 <p>dove le due equazioni lineari in $x$ e $y$ rappresentano, appunto, le due rette. Abbiamo visto come
 risolvere nella pratica il problema (metodo di sostituzione), vediamo però una strada leggermente
@@ -18,25 +18,25 @@ diversa, ne varrà la pena.</p>
 
 <p>Moltiplichiamo la prima equazione per $b’$ e la seconda per $b$, ottenendo</p>
 
-<script type="math/tex; mode=display">\begin{cases}
+\[\begin{cases}
 b'ax + b'by + b'c = 0 \\
 ba'x + bb'y + bc' = 0
-\end{cases}</script>
+\end{cases}\]
 
 <p>A questo punto sottriamo le due equazioni (è equivalente ad eguagliare i due membri di destra visto
 che entrambi sono uguali a $0$ e poi portare tutto a sinistra, provate).</p>
 
-<script type="math/tex; mode=display">b'ax + b'by + b'c - ba'x -bb'y -bc' = 0</script>
+\[b'ax + b'by + b'c - ba'x -bb'y -bc' = 0\]
 
 <p>Si vede che il termine che contiene la $y$ si elimina e possiamo raccogliere i due termini che
 contengono la $x$ e portare a destra gli altri, ottenendo</p>
 
-<script type="math/tex; mode=display">(b'a - ba') x = bc' - b'c</script>
+\[(b'a - ba') x = bc' - b'c\]
 
 <p>Guardiamo il risultato. Se il termine $ b’a - ba’$ è diverso da zero, possiamo dividere per tale
 termine l’equazione ed ottenere la soluzione per $x$</p>
 
-<script type="math/tex; mode=display">x = \frac{bc'-b'c}{b'a - ba'}</script>
+\[x = \frac{bc'-b'c}{b'a - ba'}\]
 
 <p>Questa cosa è identica a quanto abbiamo visto in classe, ma si vede subito che ci fornisce un
 criterio affinché il sistema abbia una soluzione, il termine $b’a - ba’$ deve essere diverso da
@@ -47,7 +47,7 @@ senza risolvere il sistema.</p>
 
 <p>E se il determinante è nullo? Allora non è possibile dividere e l’equazione ottenuta prima diventa</p>
 
-<script type="math/tex; mode=display">0 = bc' -b'c</script>
+\[0 = bc' -b'c\]
 
 <p>Questa eguaglianza può essere vera, nel qual caso lo è per ogni valore della $x$ e dunque le due
 rette sono coincidenti (sistema indeterminato visto a lezione) oppure può essere falsa, nel qual
@@ -62,11 +62,10 @@ cose.</p>
 
 <p>Primo, se prendiamo i coefficienti delle variabili e li mettiamo in un quadrato in questo modo</p>
 
-<script type="math/tex; mode=display">% <![CDATA[
-\begin{pmatrix}
-a & b \\
-a' & b'
-\end{pmatrix} %]]></script>
+\[\begin{pmatrix}
+a &amp; b \\
+a' &amp; b'
+\end{pmatrix}\]
 
 <p>si vede che il determinante si calcola moltiplicando i termini di una diagonale e sottraendo il
 prodotto dei termini sull’altra diagonale, una tecnica molto rapida. Un quadrato di questo tipo in

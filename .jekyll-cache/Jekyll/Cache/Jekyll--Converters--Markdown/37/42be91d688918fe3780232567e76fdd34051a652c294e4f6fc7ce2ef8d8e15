@@ -1,4 +1,4 @@
-I"�<p>Carissimo P, ti scrivo poche righe, come promesso, per aggiornarti sulla
+I"G<p>Carissimo P, ti scrivo poche righe, come promesso, per aggiornarti sulla
 dimostrazione di cui ti parlavo in classe. Come ti ho accennato, la lettura 
 di un <a href="https://www.cambridge.org/it/academic/subjects/mathematics/abstract-analysis/orthogonal-polynomials-and-continued-fractions-eulers-point-view?format=HB&amp;isbn=9780521854191">libro interessante</a> mi ha fatto scoprire una dimostrazione
 dell’irrazionalità della lunghezza della diagonale di un quadrato che trovo
@@ -20,31 +20,31 @@ tutti congruenti; indichiamo con $b$ la loro lunghezza. Sia infine $G$ un punto
 di $AB$ tale che $FG$ abbia lunghezza $b$ e indichiamo con $c$ la lunghezza di
 $GB$. Bene, da tutto questo si evince che</p>
 
-<script type="math/tex; mode=display">i = a + b</script>
+\[i = a + b\]
 
-<script type="math/tex; mode=display">a = 2b + c</script>
+\[a = 2b + c\]
 
 <p>Il rapporto cercato è dunque</p>
 
-<script type="math/tex; mode=display">\dfrac{i}{a} = 1 + \dfrac{b}{a} = 1 + \dfrac{1}{\dfrac{a}{b}}</script>
+\[\dfrac{i}{a} = 1 + \dfrac{b}{a} = 1 + \dfrac{1}{\dfrac{a}{b}}\]
 
 <p>da cui</p>
 
-<script type="math/tex; mode=display">\dfrac{i}{a} = 1 + \dfrac{1}{2 + \dfrac{c}{b}} = 1 + \dfrac{1}{2 + \dfrac{1}{\dfrac{b}{c}}}</script>
+\[\dfrac{i}{a} = 1 + \dfrac{1}{2 + \dfrac{c}{b}} = 1 + \dfrac{1}{2 + \dfrac{1}{\dfrac{b}{c}}}\]
 
 <p>Ora, se guardi il triangolo $BEF$ è simile al triangolo $BDA$ e $G$ è il punto
 analogo a $E$. Questo significa che possiamo ripetere la costruzione
 ricorsivamente e quindi esisterà un certo valore $d$ tale che</p>
 
-<script type="math/tex; mode=display">b = 2c + d</script>
+\[b = 2c + d\]
 
 <p>Il nostro rapporto diventa allora</p>
 
-<script type="math/tex; mode=display">\dfrac{i}{a} = 1 + \dfrac{1}{2 + \dfrac{1}{2+\dfrac{d}{c}}}</script>
+\[\dfrac{i}{a} = 1 + \dfrac{1}{2 + \dfrac{1}{2+\dfrac{d}{c}}}\]
 
 <p>A questo punto la procedura può essere reiterata all’infinito, ottenendo</p>
 
-<script type="math/tex; mode=display">\dfrac{i}{a} = 1 + \dfrac{1}{2 + \dfrac{1}{2+\dfrac{1}{2+\dfrac{1}{2+\ldots}}}}</script>
+\[\dfrac{i}{a} = 1 + \dfrac{1}{2 + \dfrac{1}{2+\dfrac{1}{2+\dfrac{1}{2+\ldots}}}}\]
 
 <p>dove i puntini indicano, appunto, che la frazione continua all’infinito. Siccome
 abbiamo visto in classe che le frazioni continue infinite sono irrazionali,
@@ -54,7 +54,7 @@ diagonale del quadrato ed il lato è un numero irrazionale. Con un piccolo trucc
 esplicitamente il valore. Guardando l’ultima espressione ottenuta, infatti, è facile
 verificare che, indicando con $x$ il rapporto $i/a$,</p>
 
-<script type="math/tex; mode=display">x = 1 + \dfrac{1}{1+x}</script>
+\[x = 1 + \dfrac{1}{1+x}\]
 
 <p>Risolvendo algebricamente questa equazione troverai che $x$ è uguale a
 $\sqrt{2}$, come ci si aspetta dal buon vecchio teorema di Pitagora.</p>

@@ -1,4 +1,4 @@
-I"�<p>Cari studenti e studentesse di 5C, stamane ho risolto parzialmente un
+I"<p>Cari studenti e studentesse di 5C, stamane ho risolto parzialmente un
 esercizio di geometria analitica nello spazio che mi avete
 chiesto. Sono qui per concluderlo, scusandomi tantissimo per non
 averlo finito stamane, ma l’idea (ovviamente banale) per il terzo
@@ -8,13 +8,13 @@ stasera.</p>
 <p>Riassumo il resto dell’esercizio visto che mi serve. Sia dato nello
 spazio un punto $P(2,-2,0)$ ed il piano $\alpha$ di equazione</p>
 
-<script type="math/tex; mode=display">x+y-3z+3 = 0</script>
+\[x+y-3z+3 = 0\]
 
 <p>Abbiamo trovato stamane la retta $r$ passante per $P$ e perpendicolare
 al piano che in forma parametrica si scrive (occhio che sul libro c’è
 un refuso nella soluzione di questo punto)</p>
 
-<script type="math/tex; mode=display">x = 2 + t; y = -2 + t; z = -3t</script>
+\[x = 2 + t; y = -2 + t; z = -3t\]
 
 <p>Abbiamo inoltre trovato (secondo punto) la sfera di raggio $3$
 centrata in $P$, la cui equazione non ci serve qui.</p>
@@ -52,7 +52,7 @@ equidistanti da un punto fisso $H$. Questa è proprio la definizione di
 una circonferenza su un piano. Il raggio della circonferenza sarà pari
 a $\overline{QH}$ che per il teorema di pitagora è dato da</p>
 
-<script type="math/tex; mode=display">\overline{QH} = \sqrt{\overline{QP}^2 - \overline{HP}^2}</script>
+\[\overline{QH} = \sqrt{\overline{QP}^2 - \overline{HP}^2}\]
 
 <p>ed essendo $\overline{QP}=3$ e $\overline{HP}$ noto (vedi punto 1), si
 ottiene il raggio.</p>

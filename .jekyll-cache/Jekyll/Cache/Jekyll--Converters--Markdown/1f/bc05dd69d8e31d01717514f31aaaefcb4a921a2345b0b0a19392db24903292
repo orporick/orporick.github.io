@@ -1,4 +1,4 @@
-I"j<p>Ci siamo, la prima imperfezione del nuovo anno scolastico. Carissimi
+I"h<p>Ci siamo, la prima imperfezione del nuovo anno scolastico. Carissimi
 studenti e studentesse di 5C, stamattina abbiamo perso 45 minuti per
 risolvere un esercizio alla lavagna mentre ne bastavano 2 di minuti
 (prof, abbiamo perso? Ha perso, noi siamo stati zitti zitti ed
@@ -12,7 +12,7 @@ riporta il problema geometrico</p>
 
 <p>Se vi ricordate dovevamo calcolare</p>
 
-<script type="math/tex; mode=display">\lim_{M\rightarrow B} \frac{\overline{MT}}{\overline{MC}}</script>
+\[\lim_{M\rightarrow B} \frac{\overline{MT}}{\overline{MC}}\]
 
 <p>Con la scelta dell’incognita $x$ proposta in classe siamo arrivati
 perdendo un sacco di tempo ad un limite piuttosto complicato (lo avete
@@ -21,26 +21,26 @@ abbastanza semplice anche quello. Ne parliamo in classe.).</p>
 
 <p>Invece bastava prendere come incognita $x$ l’angolo $M\widehat{B}T$. Infatti se</p>
 
-<script type="math/tex; mode=display">x = M\widehat{B}T</script>
+\[x = M\widehat{B}T\]
 
 <p>si ha</p>
 
-<script type="math/tex; mode=display">M\widehat{B}C = \frac{\pi}{4} - x</script>
+\[M\widehat{B}C = \frac{\pi}{4} - x\]
 
 <p>Inoltre, per le note proprietà dei triangoli rettangoli, considerando
 i triangoli $MTB$ ed $MCB$ si poteva scrivere</p>
 
-<script type="math/tex; mode=display">\overline{MT} = \overline{MB} \sin(x)</script>
+\[\overline{MT} = \overline{MB} \sin(x)\]
 
 <p>e</p>
 
-<script type="math/tex; mode=display">\overline{MC} = \overline{MB} \sin(\frac{\pi}{4} - x)</script>
+\[\overline{MC} = \overline{MB} \sin(\frac{\pi}{4} - x)\]
 
 <p>Quando $M$ tende a $B$ l’angolo $x$ tende a zero ed in definitiva il
 limite richiesto era</p>
 
-<script type="math/tex; mode=display">\lim_{x\rightarrow 0} \frac{\overline{MB}\sin(x)}{\overline{MB}\sin(\frac{\pi}{4} - x)} =
-\frac{\sin(x)}{\sin(\frac{\pi}{4} - x)}</script>
+\[\lim_{x\rightarrow 0} \frac{\overline{MB}\sin(x)}{\overline{MB}\sin(\frac{\pi}{4} - x)} =
+\frac{\sin(x)}{\sin(\frac{\pi}{4} - x)}\]
 
 <p>che vale $0$ in quanto il numeratore si annulla ed il denominatore
 tende a $\sin(\frac{\pi}{4}) = \frac{\sqrt{2}}{2}$.</p>

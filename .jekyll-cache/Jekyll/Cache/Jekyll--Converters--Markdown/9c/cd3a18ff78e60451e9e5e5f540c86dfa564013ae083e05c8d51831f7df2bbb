@@ -1,4 +1,4 @@
-I"T<p>Caro Davide</p>
+I"}<p>Caro Davide</p>
 
 <p>come promesso ti scrivo poche righe sul problema di cui ti parlavo
 qualche giorno fa. È un quesito classico con una soluzione anche
@@ -37,21 +37,21 @@ pavimento. Per vederlo analiticamente basta considerare le coordinate
 dei punti di contatto della scala con la parete e con il pavimento che
 sono, rispettivamente</p>
 
-<script type="math/tex; mode=display">(0,L\sin\theta)</script>
+\[(0,L\sin\theta)\]
 
-<script type="math/tex; mode=display">(L\cos\theta, 0)</script>
+\[(L\cos\theta, 0)\]
 
 <p>Dunque le coordinate del punto $M$ sono</p>
 
-<script type="math/tex; mode=display">M (\frac{L}{2}\cos\theta,\frac{L}{2}\sin\theta)</script>
+\[M (\frac{L}{2}\cos\theta,\frac{L}{2}\sin\theta)\]
 
 <p>Elevando queste coordinate al quadrato e sommandole si ottiene</p>
 
-<script type="math/tex; mode=display">x_M^2 + y_M^2 = \frac{L^2}{4}(\cos^2\theta + \sin^2\theta)</script>
+\[x_M^2 + y_M^2 = \frac{L^2}{4}(\cos^2\theta + \sin^2\theta)\]
 
 <p>che per note proprietà goniometriche fornisce</p>
 
-<script type="math/tex; mode=display">x_M^2 + y_M^2 = \frac{L^2}{4}</script>
+\[x_M^2 + y_M^2 = \frac{L^2}{4}\]
 
 <p>Si vede quindi che le coordinate di $M$ soddisfano l’equazione di una
 circonferenza centrata nell’origine di raggio $\frac{L}{2}$.</p>

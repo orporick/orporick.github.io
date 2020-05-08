@@ -1,4 +1,4 @@
-I"�<p>Di nuovo una imperfezione, se non proprio un errore. Mi sono accorto di essere rimasto lontano da <a href="http://orporick.github.io/imperfezioni/">questo posto</a>
+I"<p>Di nuovo una imperfezione, se non proprio un errore. Mi sono accorto di essere rimasto lontano da <a href="http://orporick.github.io/imperfezioni/">questo posto</a>
 per molto tempo, non per improvvisa precisione (che non mi appartiene), ma per mancanza di tempo. Qualche
 tempo fa però, durante una conferenza sui paradossi in matematica, ho presentato un argomento a me
 caro in modo così superficiale ed approssimativo che me ne sono vergognato per giorni. A parziale
@@ -35,7 +35,7 @@ totale inseriamo $9$ palline e siccome i passaggi per arrivare alla mezzanotte s
 fine devono esserci infinite palline. Questo ragionamento (sbagliato) si basa sull’uso improprio
 della seguente somma infinita:</p>
 
-<script type="math/tex; mode=display">10 - 1 + 10 - 1 + 10 - 1 + \ldots</script>
+\[10 - 1 + 10 - 1 + 10 - 1 + \ldots\]
 
 <p>Si può infatti dimostrare che questa somma non converge. Per rendersi conto di questo basta
 riordinare i termini (la somma è commutativa ed associativa) in modo da avere nella somma un $10$
@@ -47,13 +47,13 @@ un numero infinito di entrambi si possono riarrangiare in tutti i modi che ci ve
 ottenendo risultati diversi. Non sempre ovviamente è così; per esempio la somma infinita delle
 potenze di $1/2$</p>
 
-<script type="math/tex; mode=display">1 + 1/2 + 1/4 + 1/8 + \ldots</script>
+\[1 + 1/2 + 1/4 + 1/8 + \ldots\]
 
 <p>converge a $2$, e questo in qualsiasi modo si riarrangino i termini (ne abbiamo discusso alla
 conferenza parlando del paradosso di Zenone). Una somma infinita non convergente nota dall’antichità
 (che ha creato in passato non pochi grattacapi) è</p>
 
-<script type="math/tex; mode=display">1 - 1 + 1 - 1 + 1 - 1 + \ldots</script>
+\[1 - 1 + 1 - 1 + 1 - 1 + \ldots\]
 
 <p>che come nella somma infinita del paradosso di Littlewood può fare zero, ma anche $1$ (ed in
 generale qualsiasi numero). Questo perché in realtà non fa alcun numero non convergendo.</p>

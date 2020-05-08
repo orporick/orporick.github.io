@@ -1,4 +1,4 @@
-I"_(<p>Per una volta tanto non parlo di imperfezioni mie. Stamane ho
+I"B(<p>Per una volta tanto non parlo di imperfezioni mie. Stamane ho
 accompagnato una mia classe ad una bella conferenza di filosofia,
 occasione sicuramente importante promossa dal mio liceo. Iniziative
 del genere sono importanti e condivido in pieno il loro scopo
@@ -122,7 +122,7 @@ qui di seguito):</p>
 <ol>
   <li>$0^0$ è una forma indeterminata. Lo si vede facilmente in quanto,
 se si vogliono preservare le normali proprietà delle potenze, si ha
-<script type="math/tex">0^0 = 0^{1-1} = \frac{0}{0}</script>
+\(0^0 = 0^{1-1} = \frac{0}{0}\)
 che è appunto una forma indeterminata in quanto $\frac{0}{0}$ è
 quel numero che moltiplicato per $0$ deve dare $0$, ovvero
 tutti. La cosa in realtà può essere detta molto meglio ed in

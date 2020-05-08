@@ -1,4 +1,4 @@
-I"#<p>Cara P,
+I"] <p>Cara P,
 mi scuso prima di tutto per il lungo silenzio dovuto non a volontà o dimenticanza, ma alla vita che
 a volte ha modi strani (ma sempre delicati) per imporci un po’ di silenzio. Vorrei riprendere il
 discorso <a href="http://orporick.github.io/2016/11/24/lettera-sulla-matematica/">della nostra ultima lettera</a>, 
@@ -15,7 +15,7 @@ qualcosa di più pratico, tangibile? La risposta è affermativa e tra tutti i mo
 uno basato sulla teoria degli insiemi che abbiamo visto in classe. Siano dati dunque degli insiemi
 partendo dall’insieme vuoto $\emptyset$ e definendo un’operazione $S$ sugli insiemi nel seguente modo</p>
 
-<script type="math/tex; mode=display">S(A) = A \cup \{A\}</script>
+\[S(A) = A \cup \{A\}\]
 
 <p>Alcune considerazioni su cui ho insistito anche in classe. L’insieme A e l’insieme {A} sono
 due insiemi diversi; il primo è un insieme che contiene alcuni elementi (eventualmente nessuno se è
@@ -29,18 +29,18 @@ costituiscono i numeri naturali. Vediamo i primi numeri usando la rappresentazio
 elencazione (e ricordando che in tale rappresentazione l’insieme vuoto non compare mai come elemento
 pur essendo sottoinsieme di qualunque insieme)</p>
 
-<script type="math/tex; mode=display">0 = \emptyset</script>
+\[0 = \emptyset\]
 
-<script type="math/tex; mode=display">1 = S(0) = \{\{\emptyset\}\}</script>
+\[1 = S(0) = \{\{\emptyset\}\}\]
 
-<script type="math/tex; mode=display">2 = S(1) = \{\{\emptyset\},\{\{\emptyset\}\}\}</script>
+\[2 = S(1) = \{\{\emptyset\},\{\{\emptyset\}\}\}\]
 
-<script type="math/tex; mode=display">3 = S(2) = \{\{\emptyset\},\{\{\emptyset\}\}, \{\{\emptyset\},\{\{\emptyset\}\}\}\}</script>
+\[3 = S(2) = \{\{\emptyset\},\{\{\emptyset\}\}, \{\{\emptyset\},\{\{\emptyset\}\}\}\}\]
 
 <p>Lo so, ci si perde facilmente (ricorderai le risate in classe di fronte alla lavagna piena di
 parentesi graffe). Di nuovo ricordati che</p>
 
-<script type="math/tex; mode=display">\emptyset \neq \{\emptyset\}</script>
+\[\emptyset \neq \{\emptyset\}\]
 
 <p>in quanto il primo è l’insieme che non contiene nulla (vuoto, appunto), mentre il secondo è un
 insieme che contiene qualcosa.</p>
@@ -62,9 +62,9 @@ ovvero come si introducono la somma e la moltiplicazione? Ricorderai che lo abbi
 sempre cerchiamo di capire il senso di quel che scriviamo. Definiamo l’operazione di somma tra
 numeri naturali con due regole</p>
 
-<script type="math/tex; mode=display">a + 0 = a</script>
+\[a + 0 = a\]
 
-<script type="math/tex; mode=display">a + S(b) = S(a+b)</script>
+\[a + S(b) = S(a+b)\]
 
 <p>Sembrano regole sensate (lo sono, i matematici sono persone sensate). In particolare la prima
 sottolinea che lo $0$ è l’elemento neutro della somma. La seconda è un po’ particolare in quanto
@@ -73,12 +73,12 @@ visto in classe che questo tipo di definizione (si chiama ricorsiva) funziona.</
 
 <p>Vediamo alcuni esempi. Dimostriamo che $1+1 = 2$ (che banalità):</p>
 
-<script type="math/tex; mode=display">1 + 1 = 1 + S(0) = S(1 + 0) = S(1) = 2</script>
+\[1 + 1 = 1 + S(0) = S(1 + 0) = S(1) = 2\]
 
 <p>Ecco, fatto. Nota come abbiamo usato entrambe le regole di base e nient’altro. Altro esempio,
 dimostriamo che $a + 1 = S(a)$</p>
 
-<script type="math/tex; mode=display">a + 1 = a + S(0) = S(a + 0) = S(a)</script>
+\[a + 1 = a + S(0) = S(a + 0) = S(a)\]
 
 <p>Dunque se aggiungiamo $1$ ad un numero otteniamo il suo successore. Non c’è da stupirsi se queste
 regole riproducono cose banali che diamo per scontate, sono state scelte apposta per riprodurre
@@ -92,23 +92,23 @@ intravedere.</p>
 
 <p>Si può fare la stessa cosa con il prodotto, ricordi? Definendolo tramite due regole di base</p>
 
-<script type="math/tex; mode=display">a \times 0 = 0</script>
+\[a \times 0 = 0\]
 
-<script type="math/tex; mode=display">a \times S(b) = a \times b + a</script>
+\[a \times S(b) = a \times b + a\]
 
 <p>Nota che di nuovo è un modo ricorsivo per definire il prodotto e che per la sua definizione abbiamo
 bisogno di aver già definito una operazione di somma. Gli esercizi visti in classe ci hanno convinti
 che questo prodotto formale riproduce fedelemente tutto quello che ci saremmo aspettati dalle nostre
 conoscenze elementari. Ad esempio puoi provare a dimostrare che</p>
 
-<script type="math/tex; mode=display">2\times 1 = 1\times 2</script>
+\[2\times 1 = 1\times 2\]
 
 <p>(in generale si dimostra che il prodotto definito formalmente come sopra  è commutativo, ma la
 dimostrazione generale è piuttosto lunga).</p>
 
 <p>Altro esempio, di nuovo con la somma:</p>
 
-<script type="math/tex; mode=display">2 + 2 = 2 + S(1) = S(2+1) = S(2 + S(0)) = S(S(2+0)) = S(S(2)) = S(3) = 4</script>
+\[2 + 2 = 2 + S(1) = S(2+1) = S(2 + S(0)) = S(S(2+0)) = S(S(2)) = S(3) = 4\]
 
 <p>Certo, un sacco di fatica per dimostrare che $2+2=4$. Ma è proprio qui il punto, lo abbiamo
 dimostrato a partire dalle regole date sopra. Nella vita pratica non ci sogniamo minimamente di fare
@@ -122,9 +122,9 @@ tutti che $2+2=4$? Credere ad una cosa falsa fino a farla diventare vera, questo
 del protagonista del romanzo. Ma da un punto di vista matematico? Cambiamo le regole della somma,
 usiamo le seguenti:</p>
 
-<script type="math/tex; mode=display">a + 0 = S(a)</script>
+\[a + 0 = S(a)\]
 
-<script type="math/tex; mode=display">a + S(b) = S(a + b)</script>
+\[a + S(b) = S(a + b)\]
 
 <p>Con queste regole ti lascio da dimostrare $2+2=5$. Questa somma non è la nostra, quella a cui siamo
 abituati, quella delle nostre calcolatrici per intenderci. Non per questo è una operazione

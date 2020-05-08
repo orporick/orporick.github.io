@@ -1,4 +1,4 @@
-I"å<div class="home_image_container">
+I"º<div class="home_image_container">
   <div class="home_image">
     <p><img src="https://lh3.googleusercontent.com/-K_82y82RWYE/VAWRNJhpKLI/AAAAAAAAOaw/HLGCEYWn9dM/s288/P_20140820_123932.jpg" alt="Photo of Me" />
 <!--
@@ -24,6 +24,6 @@ matematicaâ€</a> edito da Mondadori.</p>
 <p>Ogni commento Ã¨ gradito (potete usare i riferimenti a fondo pagina per
 contattarmi)</p>
 
-<script type="math/tex; mode=display">e^{i\pi} + 1 = 0</script>
+\[e^{i\pi} + 1 = 0\]
 
 :ET

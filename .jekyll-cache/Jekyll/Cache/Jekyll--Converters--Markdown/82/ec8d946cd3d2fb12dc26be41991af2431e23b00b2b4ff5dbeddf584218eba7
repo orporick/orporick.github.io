@@ -1,4 +1,4 @@
-I"�*<p>Caro M,
+I"�(<p>Caro M,
 scusami per il ritardo con cui rispondo alla tua gentile lettera, sono stati giorni un po’ in
 salita. Ti ringrazio per l’interesse per quanto abbiamo detto alla mia conferenza di qualche
 settimana fa, esperienza che mi ha permesso di parlarvi di molte cose, probabilmente senza la dovuta
@@ -39,11 +39,11 @@ derivata che ancora non avete fatto, quando sarai in quinta ne riparliamo, prome
 che legano le popolazioni delle tre categorie all’istante $i+1$ alle popolazioni all’istante
 precedente $i$</p>
 
-<script type="math/tex; mode=display">S_{i+1} = S_i - a S_iI_i</script>
+\[S_{i+1} = S_i - a S_iI_i\]
 
-<script type="math/tex; mode=display">I_{i+1} = I_i + a S_iI_i - b I_i</script>
+\[I_{i+1} = I_i + a S_iI_i - b I_i\]
 
-<script type="math/tex; mode=display">R_{i+1} = R_i + b I_i</script>
+\[R_{i+1} = R_i + b I_i\]
 
 <p>Discutiamo queste equazioni. Intanto ciascun valore all’istante $i+1$, come detto sopra, è legato ai
 valori all’istante precedente $i$. Il processo è rappresentato schematicamente in questo modo: i
@@ -70,11 +70,11 @@ somma delle tre popolazioni all’istante $i$, ovvero il numero totale di person
 
 <p>Le equazioni del modello si possono in modo semplice riscrivere in questo modo</p>
 
-<script type="math/tex; mode=display">S_{i+1} - S_i = - a S_iI_i</script>
+\[S_{i+1} - S_i = - a S_iI_i\]
 
-<script type="math/tex; mode=display">I_{i+1} - I_i =  a S_iI_i - b I_i</script>
+\[I_{i+1} - I_i =  a S_iI_i - b I_i\]
 
-<script type="math/tex; mode=display">R_{i+1} - R_i = b I_i</script>
+\[R_{i+1} - R_i = b I_i\]
 
 <p>Dove a sinistra si trovano le variazioni per unità di tempo della popolazione relativa a quella
 categoria (tra un paio di anni queste variazioni le studieremo in modo più adeguato introducento il
@@ -82,28 +82,27 @@ concetto di derivata, questa analisi diventerà ancora più semplice).</p>
 
 <p>Soffermiamoci sulla seconda equazioni e trasformiamola, con un raccoglimento, in</p>
 
-<script type="math/tex; mode=display">\Delta I_{i+1} = (a S_i - b) I_i</script>
+\[\Delta I_{i+1} = (a S_i - b) I_i\]
 
 <p>dove con $\Delta$ si indica appunto la variazione della grandezza. Si vede subito che questa
 equazione ha il seguente significato: se $aS_i -b$ è positivo la popolazioni di infetti cresce,
 altrimenti decresce. L’epidemia dunque parte se all’istante iniziale vale la seguente equazione</p>
 
-<script type="math/tex; mode=display">a S_0 -b > 0</script>
+\[a S_0 -b &gt; 0\]
 
 <p>ovvero</p>
 
-<script type="math/tex; mode=display">S_0 > \frac{b}{a}</script>
+\[S_0 &gt; \frac{b}{a}\]
 
 <p>Se immaginiamo che all’istante iniziale il numero di infetti $I_0$ sia molto basso rispetto ai
 suscettibili ed ai rimossi, possiamo scrivere approssimativamente che $ S_0 = N - R_0 $, dunque
 l’epidemia per partire richiede che</p>
 
-<script type="math/tex; mode=display">N - R_0 > \frac{b}{a}</script>
+\[N - R_0 &gt; \frac{b}{a}\]
 
 <p>ovvero</p>
 
-<script type="math/tex; mode=display">% <![CDATA[
-R_0 < N - \frac{b}{a} %]]></script>
+\[R_0 &lt; N - \frac{b}{a}\]
 
 <p>Se non ci sono immunità naturali per cui $R_0$ è piccolo o nullo, l’epidemia sicuramente parte. Ma
 se possiamo inizialmente aumentare $R_0$ in modo da portarlo sopra la soglia critica $N-\frac{b}{a}$

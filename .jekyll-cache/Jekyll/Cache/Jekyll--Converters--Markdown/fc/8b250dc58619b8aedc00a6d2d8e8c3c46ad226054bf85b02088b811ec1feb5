@@ -1,4 +1,4 @@
-I"�&<p>Carissima Rebecca,
+I"=&<p>Carissima Rebecca,
 mi ha fatto piacere ricevere tue notizie da Vienna, la tua lettera, come sempre, mi ha ricordato con
 parole gentili il tempo passato in classe con tutti voi. Da tempo avrei voluto rispondere, se non
 l’ho fatto prima è per quel flusso costante che voi chiamate tempo e che per me è sempre più un caos
@@ -68,11 +68,11 @@ che è avvenuto l’evento $F$.</p>
 
 <p>Allora possiamo rispondere alla nostra domanda calcolando</p>
 
-<script type="math/tex; mode=display">P(A|B)</script>
+\[P(A|B)\]
 
 <p>Per fare questo calcolo usiamo il noto teorema di Bayes (o meglio una sua versione semplificata), ricordi?</p>
 
-<script type="math/tex; mode=display">P(A|B) = \frac{P(B|A)\cdot P(A)}{P(B)}</script>
+\[P(A|B) = \frac{P(B|A)\cdot P(A)}{P(B)}\]
 
 <p>Dunque,</p>
 
@@ -87,7 +87,7 @@ che è avvenuto l’evento $F$.</p>
 
 <p>Mettendo insieme questi valori scopriamo che</p>
 
-<script type="math/tex; mode=display">P(A|B) = 2/3</script>
+\[P(A|B) = 2/3\]
 
 <p>Dunque la probabilità che la macchina sia dietro la seconda porta, avendo visto il presentatore
 aprire la terza porta con una capra, è pari a $2/3$. La probabilità che la macchina allora sia
@@ -126,7 +126,7 @@ questi si moltiplicano le probabilità. Usiamo sempre Bayes considerando che</p>
 
 <p>Mettendo insieme otteniamo questa volta</p>
 
-<script type="math/tex; mode=display">P(A|B) = 1/2</script>
+\[P(A|B) = 1/2\]
 
 <p>Questa volta, con il vento, la probabilità di vincere cambiando porta è uguale alla probabilità di
 vincere non cambiando porta, quindi non vi è una strategia migliore, possiamo decidere di cambiare o

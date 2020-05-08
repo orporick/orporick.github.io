@@ -1,4 +1,4 @@
-I"�<p>Cari studenti e care studentesse di 5C, stamane ho fatto un errore
+I"B<p>Cari studenti e care studentesse di 5C, stamane ho fatto un errore
 piuttosto grave durante la spiegazione sulle equazioni
 differenziali. Ho poi rimediato, ma mi è rimasto il dispiacere per una
 imperfezione evitabile. Non ho scusanti se non un po’ di stanchezza e
@@ -16,7 +16,7 @@ mie (le vostre sono scusabili).</p>
 <p>Stiamo parlando di equazioni differenziali lineari del primo ordine,
 ovvero, con la notazione usata stamane in classe, equazioni del tipo</p>
 
-<script type="math/tex; mode=display">y' + a(x) y = b(x)</script>
+\[y' + a(x) y = b(x)\]
 
 <p>dove $y=f(x)$ è una funzione della variabile $x$ e $a(x)$ e $b(x)$ sono
 funzioni reali. Ricordo che risolvere l’equazione differenziale
@@ -26,21 +26,21 @@ soddisfa.</p>
 <p>Si parte dal caso omogeneo, ovvero $b(x) = 0$; l’equazione allora
 diventa</p>
 
-<script type="math/tex; mode=display">y' = -a(x) y</script>
+\[y' = -a(x) y\]
 
 <p>e si vede subito che è un’equazione differenziale a variabili
 separabili la cui soluzione trovata in classe (questa era giusta) è</p>
 
-<script type="math/tex; mode=display">y = e^{-\int a(x){\rm d}x}</script>
+\[y = e^{-\int a(x){\rm d}x}\]
 
 <p>Immaginiamo che $a(x)$ sia integrabile e dunque scriviamo</p>
 
-<script type="math/tex; mode=display">\int a(x) {\rm d} x = A(x) + c</script>
+\[\int a(x) {\rm d} x = A(x) + c\]
 
 <p>dove $A(x) + c$ è la generica primitiva di $a(x)$. Quindi la soluzione
 dell’omogenea si può scrivere come</p>
 
-<script type="math/tex; mode=display">y = e^{-(A(x) + c)}</script>
+\[y = e^{-(A(x) + c)}\]
 
 <p>Bene, questo per l’equazione omogenea. Per l’equazione non omogenea ho
 fatto il disastro, rieccovi il ragionamento completo questa volta
@@ -50,34 +50,34 @@ corretto (spero).</p>
 integrazione $c$ come una funzione di $x$. Ovvero si prende la
 seguente funzione</p>
 
-<script type="math/tex; mode=display">y = e^{-(A(x) + c(x))}</script>
+\[y = e^{-(A(x) + c(x))}\]
 
 <p>e si prova a vedere se è soluzione dell’equazione di
 partenza. Inserendola e facendo le opportune derivate otteniamo</p>
 
-<script type="math/tex; mode=display">-(A'(x) + c'(x))e^{-(A(x) + c(x))} + a(x)e^{-(A(x) + c(x))} = b(x)</script>
+\[-(A'(x) + c'(x))e^{-(A(x) + c(x))} + a(x)e^{-(A(x) + c(x))} = b(x)\]
 
 <p>Ma siccome $A(x)$ è una primitiva di $a(x)$ si ha $A’(x) = a(x)$ per
 definizione di primitiva. Dunque</p>
 
-<script type="math/tex; mode=display">-(a(x) + c'(x))e^{-(A(x) + c(x))} + a(x)e^{-(A(x) + c(x))} = b(x)</script>
+\[-(a(x) + c'(x))e^{-(A(x) + c(x))} + a(x)e^{-(A(x) + c(x))} = b(x)\]
 
 <p>Si vede che il termine che contiene $a(x)$ si semplifica e otteniamo</p>
 
-<script type="math/tex; mode=display">-c'(x)e^{-(A(x) + c(x))} = b(x)</script>
+\[-c'(x)e^{-(A(x) + c(x))} = b(x)\]
 
 <p>Questa è un’equazione differenziabile alle variabili separabili per la
 funzione $c$. Con semplice passaggio algebrico diventa</p>
 
-<script type="math/tex; mode=display">-c'(x)e^{-c(x)} = b(x) e^{A(x)}</script>
+\[-c'(x)e^{-c(x)} = b(x) e^{A(x)}\]
 
 <p>Inegrando rispetto a $x$</p>
 
-<script type="math/tex; mode=display">\int -c'(x)e^{-c(x)} {\rm d}x = \int b(x) e^{A(x)} {\rm d} x</script>
+\[\int -c'(x)e^{-c(x)} {\rm d}x = \int b(x) e^{A(x)} {\rm d} x\]
 
 <p>Il primo membro è immediato e si ottiene</p>
 
-<script type="math/tex; mode=display">e^{-c(x)} = \int b(x) e^{A(x)} {\rm d} x</script>
+\[e^{-c(x)} = \int b(x) e^{A(x)} {\rm d} x\]
 
 <p>(come ho detto in classe non metto qui la costante di integrazione
 potendola sempre riassorbire nella costante di inegrazione
@@ -87,7 +87,7 @@ dell’integrale nel membro di destra).</p>
 soluzione $y$ che abbiamo provato all’inizio del ragionamento,
 ottenendo</p>
 
-<script type="math/tex; mode=display">y = e^{-A(x)} \int b(x) e^{A(x)} {\rm d} x</script>
+\[y = e^{-A(x)} \int b(x) e^{A(x)} {\rm d} x\]
 
 <p>Ecco, questa è la soluzione dell’equazione differenziale lineare che
 abbiamo affrontato (se volete potete dimenticare tutti i passaggi,
@@ -99,26 +99,26 @@ integrali dell’equazione).</p>
 <p>Faccio un esempio. Si voglia risolvere la seguente equazione
 differenziale</p>
 
-<script type="math/tex; mode=display">y' + ky = h</script>
+\[y' + ky = h\]
 
 <p>con $k$ e $h$ numeri reali. In questo caso si ha</p>
 
-<script type="math/tex; mode=display">a(x) = k</script>
+\[a(x) = k\]
 
-<script type="math/tex; mode=display">b(x) = h</script>
+\[b(x) = h\]
 
-<script type="math/tex; mode=display">A(x) = kx</script>
+\[A(x) = kx\]
 
-<script type="math/tex; mode=display">\int b(x) e^{A(x)} {\rm d} x = \int h e^{kx} {\rm d} x = \frac{h}{k} e^{kx}
-+ c</script>
+\[\int b(x) e^{A(x)} {\rm d} x = \int h e^{kx} {\rm d} x = \frac{h}{k} e^{kx}
++ c\]
 
 <p>Da cui la soluzione</p>
 
-<script type="math/tex; mode=display">y = e^{-kx}(\frac{h}{k}e^{kx} + c)</script>
+\[y = e^{-kx}(\frac{h}{k}e^{kx} + c)\]
 
 <p>ovvero</p>
 
-<script type="math/tex; mode=display">y = \frac{h}{k} + c e^{-kx}</script>
+\[y = \frac{h}{k} + c e^{-kx}\]
 
 <p>dove $c$ è la costante di integrazione. Esercizio per casa: dimostrare
 che questa equazione descrive per esempio il moto di caduta verticale

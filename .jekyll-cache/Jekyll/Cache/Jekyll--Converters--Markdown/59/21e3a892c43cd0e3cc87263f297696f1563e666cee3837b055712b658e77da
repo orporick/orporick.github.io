@@ -1,4 +1,4 @@
-I"�(<p>Carissimo F,
+I"�'<p>Carissimo F,
 spero che tu stia bene e che questo nostro esilio forzato dai banchi e dalle nostre chiacchierate non
 ti sia di troppo peso. Recentemente mi è capitato di leggere un interessante articolo sui <a href="https://aaronswright.com/Wright2014AdvantagesBringingInfinity.pdf">diagrammi di
 Penrose-Carter</a> di cui ti avevo
@@ -19,16 +19,16 @@ esercizio estivo ed un piccolo anticipo di alcune cose che vedremo in classe tra
 <p>Iniziamo con il definire la seguente trasformazione dei punti $(x,y)$ del
 piano reale in nuove coordinate $(u,v)$:</p>
 
-<script type="math/tex; mode=display">u = y - x</script>
+\[u = y - x\]
 
-<script type="math/tex; mode=display">v = y + x</script>
+\[v = y + x\]
 
 <p>L’effetto è di ruotare il piano di $45^\circ$ e di dilatarlo. Successivamente definiamo due nuove
 coordinate $(q,p)$ in questo modo</p>
 
-<script type="math/tex; mode=display">q = \arctan(u)</script>
+\[q = \arctan(u)\]
 
-<script type="math/tex; mode=display">p = \arctan(v)</script>
+\[p = \arctan(v)\]
 
 <p>Questo è il punto saliente di tutta la trasformazione; ricorderai infatti che la funzione
 arcotangente (l’inversa della tangente) ha la notevole proprietà di mandare i punti di una retta
@@ -36,9 +36,9 @@ infinita nei punti di un segmento, $[-\pi/2,\pi/2]$ in modo biunivoco. In questo
 restringere tutto il piano in una regione limitata. Come ultimo passaggio effettuiamo la
 trasformazione</p>
 
-<script type="math/tex; mode=display">x' = p-q</script>
+\[x' = p-q\]
 
-<script type="math/tex; mode=display">y' = p+q</script>
+\[y' = p+q\]
 
 <p>che in pratica ruota indietro il piano ruotato con il passaggio alle coordinate $(u,v)$. In definitiva
 abbiamo una trasformazione biunivoca che prende i punti del piano reale $(x,y)$ e li manda nei punti
@@ -133,7 +133,7 @@ $(-\pi,0)$?).</p>
 
 <p>Vediamo infine la funzione</p>
 
-<script type="math/tex; mode=display">y = \frac{x^2}{x+1}</script>
+\[y = \frac{x^2}{x+1}\]
 
 <p>che ha un asintoto orizzontale inclinato di $45^\circ$ (dimostralo per esercizio). Ecco la funzione
 (per semplicità solo per $x$ positive) nel piano normale</p>

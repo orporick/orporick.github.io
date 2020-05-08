@@ -1,7 +1,7 @@
-I"W<p>Cara Bianca</p>
+I"�<p>Cara Bianca</p>
 
 <p>l’ultima volta che ci siamo visti mi hai chiesto del problema
-dell’orologio, cerco di risponderti brevemente qui<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. È un problema
+dell’orologio, cerco di risponderti brevemente qui<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>. È un problema
 classico che propongo da anni nelle classi dove faccio supplenza, con
 risultati abbastanza minimali (ovvero nessuno di solito mi sa dare la
 soluzione). Non è un problema difficile, anzi, ma richiede di pensare
@@ -36,16 +36,16 @@ nell’arco delle 12 ore (un giro completo). Dunque basta dividere
 l’angolo giro in 11 parti per sapere l’angolo che le lancette
 percorrono tra un’eclisse e la successiva</p>
 
-<script type="math/tex; mode=display">\theta = \frac{2\pi}{11} \mathrm{rad}</script>
+\[\theta = \frac{2\pi}{11} \mathrm{rad}\]
 
 <p>La lancetta delle ore si muove ad una velocità angolare pari a</p>
 
-<script type="math/tex; mode=display">\omega = \frac{2\pi}{12} \mathrm{\frac{rad}{ora}}</script>
+\[\omega = \frac{2\pi}{12} \mathrm{\frac{rad}{ora}}\]
 
 <p>Dunque le eclissi sono distanziate da un tempo dato da</p>
 
-<script type="math/tex; mode=display">t = \frac{\theta}{\omega} = \frac{12}{11} \mathrm{ora} \simeq 1\,
-\mathrm{ora}\quad 5\, \mathrm{minuti}\quad 27\, \mathrm{secondi}</script>
+\[t = \frac{\theta}{\omega} = \frac{12}{11} \mathrm{ora} \simeq 1\,
+\mathrm{ora}\quad 5\, \mathrm{minuti}\quad 27\, \mathrm{secondi}\]
 
 <h1 id="inseguimento">Inseguimento</h1>
 
@@ -53,37 +53,37 @@ percorrono tra un’eclisse e la successiva</p>
 ed impostare il problema come un classico problema di inseguimento. La
 lancetta delle ore ha una legge oraria data da</p>
 
-<script type="math/tex; mode=display">\theta_o = \omega_o t</script>
+\[\theta_o = \omega_o t\]
 
 <p>e quella dei minuti, analogamente, da</p>
 
-<script type="math/tex; mode=display">\theta_m = \omega_m t</script>
+\[\theta_m = \omega_m t\]
 
 <p>dove gli angoli sono presi rispetto all’asse passante per
 mezzogiorno. Esprimendo le velocità angolari in rad/ora si ha</p>
 
-<script type="math/tex; mode=display">\omega_o = \frac{2\pi}{12} \mathrm{\frac{rad}{ora}}</script>
+\[\omega_o = \frac{2\pi}{12} \mathrm{\frac{rad}{ora}}\]
 
 <p>e</p>
 
-<script type="math/tex; mode=display">\omega_m = 2\pi \mathrm{\frac{rad}{ora}}</script>
+\[\omega_m = 2\pi \mathrm{\frac{rad}{ora}}\]
 
 <p>Una eclisse avviene quando la differenza tra $\theta_o$ e $\theta_m$ è
 un multiplo di $2\pi$, ovvero</p>
 
-<script type="math/tex; mode=display">\theta_m - \theta_o = 2 n \pi</script>
+\[\theta_m - \theta_o = 2 n \pi\]
 
 <p>da cui</p>
 
-<script type="math/tex; mode=display">t (\omega_m - \omega_o) = 2 n \pi</script>
+\[t (\omega_m - \omega_o) = 2 n \pi\]
 
 <p>e quindi</p>
 
-<script type="math/tex; mode=display">t(2\pi - \frac{2\pi}{12}) = 2 n \pi</script>
+\[t(2\pi - \frac{2\pi}{12}) = 2 n \pi\]
 
 <p>Si ottiene infine, raccogliendo e semplificando</p>
 
-<script type="math/tex; mode=display">t = n \frac{12}{11}</script>
+\[t = n \frac{12}{11}\]
 
 <p>dove il risultato è espresso in ore. Si ottiene dunque lo stesso
 risultato di prima (da notare che quando $n=11$ si ha $t=12$, ovvero
@@ -101,11 +101,11 @@ posizionano come le radici undicesime di $i$ (unità immaginaria).</p>
 
 <p>Spero di sentire presto tue notizie. Saluti, prof.</p>
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
+    <li id="fn:1" role="doc-endnote">
       <p>Ringrazio il collega Sangoi per alcuni preziosi suggerimenti nel
-ripensare al problema. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+ripensare al problema. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>

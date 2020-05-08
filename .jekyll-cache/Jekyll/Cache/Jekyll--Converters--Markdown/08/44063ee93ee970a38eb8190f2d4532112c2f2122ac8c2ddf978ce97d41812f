@@ -1,4 +1,4 @@
-I"�<p>Cari ragazzi e care ragazze, ormai che avete aperto questa mia brevissima
+I"t<p>Cari ragazzi e care ragazze, ormai che avete aperto questa mia brevissima
 lettera vorrei parlarvi di un interessante risultato matematico, il <a href="https://math.osu.edu/sites/math.osu.edu/files/henderson_zeckendorf.pdf">teorema di
 Zeckendorf</a>
 (il link è uno dei tanti che si possono trovare in rete, una semplice formulazione del
@@ -19,11 +19,11 @@ interessante perché permette di rappresentare i numeri naturali in una forma
 diversa dall’usuale forma decimale. Vediamo un esempio; il numero $10$ può
 essere visto come</p>
 
-<script type="math/tex; mode=display">10 = 8 + 2</script>
+\[10 = 8 + 2\]
 
 <p>cioè come somma di $F_6$ ed $F_3$. Si potrebbe anche usare la scomposizione</p>
 
-<script type="math/tex; mode=display">10 = 5 + 3 + 2</script>
+\[10 = 5 + 3 + 2\]
 
 <p>ma in questo caso non sono rispettate le ipotesi del teorema in quanto $5$ e $3$
 sono numeri di Fibonacci consecutivi. In questo modo si può rappresentare un

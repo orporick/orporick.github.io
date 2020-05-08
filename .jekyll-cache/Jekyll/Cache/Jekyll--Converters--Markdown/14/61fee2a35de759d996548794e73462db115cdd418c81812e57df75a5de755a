@@ -1,4 +1,4 @@
-I"�<p>Caro L., mi spiace per il ritardo con cui rispondo alla tua domanda, provo a
+I"w<p>Caro L., mi spiace per il ritardo con cui rispondo alla tua domanda, provo a
 farmi perdonare cercando di essere il più esaustivo e sintetico possibile.
 Mi chiedi di un mio <a href="https://twitter.com/orporick/status/1231721647603933185">recente
 tweet</a> abbastanza, lo
@@ -11,8 +11,8 @@ codice J come esercizio personale.</p>
 ordinato delle frazioni ridotte ai minimi termini comprese tra $0$ e $1$ il cui denominatore non
 supera $n$. Per esempio la sequenza di ordine $4$ è</p>
 
-<script type="math/tex; mode=display">\frac{0}{1} \quad \frac{1}{4} \quad \frac{1}{3} \quad \frac{1}{2} \quad
-\frac{2}{3} \quad \frac{3}{4} \quad \frac{1}{1}</script>
+\[\frac{0}{1} \quad \frac{1}{4} \quad \frac{1}{3} \quad \frac{1}{2} \quad
+\frac{2}{3} \quad \frac{3}{4} \quad \frac{1}{1}\]
 
 <p>Notiamo subito che la sequenza ha una certa simmetria, $1/2$ si trova al centro
 (dimostra per esercizio che questo succede per ogni ordine $n$) e gli elementi a

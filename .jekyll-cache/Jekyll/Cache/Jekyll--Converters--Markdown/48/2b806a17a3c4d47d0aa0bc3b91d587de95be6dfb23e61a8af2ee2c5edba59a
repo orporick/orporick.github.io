@@ -1,4 +1,4 @@
-I"�<p>Cara S.</p>
+I";<p>Cara S.</p>
 
 <p>spero tu stia bene, mi ha fatto piacere ricevere tue notizie e sono sicuro che
 in California ti troverai benissimo. Mi hai chiesto della strana immagine che
@@ -20,7 +20,7 @@ di $1$ tutti i numeri complessi $z$ tali che $z^n = 1$. Siccome $1$ è pari a
 $e^{i0}$ e, per periodicità, a $e^{i2\pi}$ e più in generale a $e^{i2\pi k}$ con
 $k$ intero, è facile vedere che le $n$ radici ennesime di $1$ sono nella forma</p>
 
-<script type="math/tex; mode=display">e^{i\frac{2\pi}{n}k}</script>
+\[e^{i\frac{2\pi}{n}k}\]
 
 <p>con $k\in [0,1,\ldots,n-1] $.</p>
 
@@ -47,13 +47,13 @@ ritorna in $0$; in figura l’esempio con le radici ottave.</p>
 
 <p>Dunque, le somme parziali della seguente sommatoria</p>
 
-<script type="math/tex; mode=display">\sum_{k=0}^N e^{i\frac{2\pi}{n} k}</script>
+\[\sum_{k=0}^N e^{i\frac{2\pi}{n} k}\]
 
 <p>si dispongono su un poligono regolare di $k$ lati. Cosa succede se invece di
 moltiplicare per $k/n$ uso una funzione più complicata? Eccoci arrivati alle
 somme esponenziali complesse, definite come</p>
 
-<script type="math/tex; mode=display">\sum_{k=0}^N e^{i 2\pi f(k)}</script>
+\[\sum_{k=0}^N e^{i 2\pi f(k)}\]
 
 <p>con $f(k)$ una funzione sugli interi. La figura che si ottiene dalle somme
 parziali, che in generale non sarà più un semplice poligono, 
@@ -62,7 +62,7 @@ molto interessante in teoria dei numeri. Ai fini dell’immagine di partenza ho
 usato, come suggerito nel link che ti ho messo all’inizio, la seguente somma
 esponenziale</p>
 
-<script type="math/tex; mode=display">\sum_{k=0}^N e^{i 2\pi \left( \frac{k}{g} + \frac{k^2}{m} + \frac{k^3}{a} \right)}</script>
+\[\sum_{k=0}^N e^{i 2\pi \left( \frac{k}{g} + \frac{k^2}{m} + \frac{k^3}{a} \right)}\]
 
 <p>con $g$ il giorno della mia nascita, $m$ il mese (in numero) e con $a$ l’anno.
 Il risultato è la figura all’inizio di questa mia lettera. Ovviamente non c’è

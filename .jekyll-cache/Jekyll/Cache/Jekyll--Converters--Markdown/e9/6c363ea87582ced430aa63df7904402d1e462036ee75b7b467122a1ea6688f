@@ -1,4 +1,4 @@
-I"+<p>Carissimo P,
+I"�<p>Carissimo P,
 ti ringrazio per la tua ultima lettera, i mari in tempesta si placano, te lo avevo detto. Riguardo
 alla tua domanda, purtroppo devo parzialmente deluderti: non è possibile, con la matematica fatta
 fino ad ora, vedere nel dettaglio l’equazione di un razzo a reazione. In quinta, quando faremo le
@@ -13,35 +13,35 @@ cosa più semplice da fare è applicare la conservazione della quantità di moto
 quiete della massa (ovviamente il tutto lo facciamo nel caso non relativistico): allora abbiamo
 (fissata una direzione positiva opportuna)</p>
 
-<script type="math/tex; mode=display">\frac{M_i}{2} w = \frac{M_i}{2} v</script>
+\[\frac{M_i}{2} w = \frac{M_i}{2} v\]
 
 <p>da cui, come intuibile, $v = w$ che non dipende dalla massa. Immagina adesso di ripetere la procedura $n$ volte: possiamo
 ripetere il ragionamento nel riferimento istantaneo di quiete della massa ottenendo sempre lo stesso
 risultato, ad ogni scissione della massa la velocità aumenta di $w$. Dopo $n$ scissioni la velocità
 totale della massa residua sarà dunque</p>
 
-<script type="math/tex; mode=display">V = n w</script>
+\[V = n w\]
 
 <p>La massa residua $M_f$ sarà la metà della metà della metà etc. per $n$ volte, dunque</p>
 
-<script type="math/tex; mode=display">M_f = \left(\frac{1}{2}\right)^n M_i</script>
+\[M_f = \left(\frac{1}{2}\right)^n M_i\]
 
 <p>da cui</p>
 
-<script type="math/tex; mode=display">2^n = \frac{M_i}{M_f}</script>
+\[2^n = \frac{M_i}{M_f}\]
 
 <p>Usando il logaritmo naturale (ti ricordi le sue proprietà) su entrambi i membri dell’eguaglianza si
 ottiene</p>
 
-<script type="math/tex; mode=display">n \ln{2} = \ln{\frac{M_i}{M_f}}</script>
+\[n \ln{2} = \ln{\frac{M_i}{M_f}}\]
 
 <p>da cui</p>
 
-<script type="math/tex; mode=display">n = \frac{1}{\ln{2}}\ln{\frac{M_i}{M_f}}</script>
+\[n = \frac{1}{\ln{2}}\ln{\frac{M_i}{M_f}}\]
 
 <p>Sostituendo il valore di $n$ ottenuto nella relazione per la velocità finale, otteniamo infine</p>
 
-<script type="math/tex; mode=display">V = \frac{w}{\ln{2}}\ln{\frac{M_i}{M_f}}</script>
+\[V = \frac{w}{\ln{2}}\ln{\frac{M_i}{M_f}}\]
 
 <p>Questa espressione di $V$ ottenuta ipotizzando un processo di reazione con divisione della massa è
 piuttosto vicina alla soluzione dell’equazione del razzo a reazione di cui ti parlavo, di diverso 
@@ -61,42 +61,42 @@ la massa in due (poco realistico), dividiamo ad ogni passo la massa in due porzi
 Immaginiamo di espellere quindi una porzione $k$-esima della massa iniziale; allora, per
 conservazione della quantità di moto,</p>
 
-<script type="math/tex; mode=display">\frac{M_i}{k} w = \frac{(k-1)M_i}{k} v</script>
+\[\frac{M_i}{k} w = \frac{(k-1)M_i}{k} v\]
 
 <p>da cui</p>
 
-<script type="math/tex; mode=display">v = \frac{w}{k-1}</script>
+\[v = \frac{w}{k-1}\]
 
 <p>che, come prima, non dipende dalla massa. Ad ogni espulsione di una frazione $k$-esima di massa questo
 è l’aumento di velocità: dunque alla fine la velocità, dopo $n$ espulsioni, sarà</p>
 
-<script type="math/tex; mode=display">V = \frac{n}{k-1} w</script>
+\[V = \frac{n}{k-1} w\]
 
 <p>(se provi con $k=2$ ottieni ovviamente il risultato di prima).</p>
 
 <p>Ad ogni espulsione la massa si riduce della stessa proporzione ed alla fine si ottiene per la massa
 finale</p>
 
-<script type="math/tex; mode=display">M_f = \left(\frac{k-1}{k}\right)^n M_i</script>
+\[M_f = \left(\frac{k-1}{k}\right)^n M_i\]
 
 <p>da cui, con analogo ragionamento fatto prima con il logaritmo, si ottiene</p>
 
-<script type="math/tex; mode=display">n = \frac{1}{\ln{\frac{k}{k-1}}} \ln{\frac{M_i}{M_f}}</script>
+\[n = \frac{1}{\ln{\frac{k}{k-1}}} \ln{\frac{M_i}{M_f}}\]
 
 <p>Sostituendo, come prima, $n$ nella relazione per la velocità finale si ottiene questa volta</p>
 
-<script type="math/tex; mode=display">V = \frac{w}{(k-1)\ln{\frac{k}{k-1}}}\ln{\frac{M_i}{M_f}}</script>
+\[V = \frac{w}{(k-1)\ln{\frac{k}{k-1}}}\ln{\frac{M_i}{M_f}}\]
 
 <p>(di nuovo verifica facilmente che con $k=2$ si ottiene la relazione vista prima). In un razzo la
 parte espulsa istantaneamente è molto piccola rispetto al resto, possiamo allora immaginare di fare
 il limite per $k$ che tende a infinito. Ti lascio verificare per via numerica (per via analitica
 faremo l’anno prossimo, promesso) che in tale limite il fattore</p>
 
-<script type="math/tex; mode=display">(k-1)\ln{\frac{k}{k-1}}</script>
+\[(k-1)\ln{\frac{k}{k-1}}\]
 
 <p>tende a $1$, ottenendo così la soluzione</p>
 
-<script type="math/tex; mode=display">V = w \ln{\frac{M_i}{M_f}}</script>
+\[V = w \ln{\frac{M_i}{M_f}}\]
 
 <p>che è esattamente la soluzione dell’equazione di Tsiolkovsky per il razzo a reazione nel vuoto e
 senza altre forze.</p>

@@ -1,4 +1,4 @@
-I"<p>Caro D,
+I"�<p>Caro D,
 sono alcuni giorni che ho in mente di scriverti, stasera trovo il tempo in una rara pausa del
 giorno, sul bordo della sera. Non abbiamo più avuto modo di parlarci, non sono riuscito dall’ultima
 volta a chiederti come stai, a sapere di te. Provo a leggere ogni mattina qualche segnale, ma il
@@ -35,44 +35,44 @@ che possiamo cogliere.</p>
 <p>Immagina di voler trovare la somma delle prime $n$ potenze crescenti di un numero positivo $a$,
 ovvero</p>
 
-<script type="math/tex; mode=display">a^0 + a^1 + a^2 + a^3 + \ldots + a^{n-1}</script>
+\[a^0 + a^1 + a^2 + a^3 + \ldots + a^{n-1}\]
 
 <p>Nota che partendo da $0$ arriviamo ad $n-1$ per averne $n$. Inoltre ricorda che $a^0 = 1$ per
 definizione e che $a^1 = a$; dunque stiamo cercando la seguente somma, che chiameremo $S_{n}$</p>
 
-<script type="math/tex; mode=display">S_{n} = 1 + a + a^2 + a^3 + \ldots + a^{n-1}</script>
+\[S_{n} = 1 + a + a^2 + a^3 + \ldots + a^{n-1}\]
 
 <p>Come fare? L’idea è talmente semplice ed elegante che sembra far scaturire la soluzione
 letteralmente dal nulla. Raccogliamo un fattore $a$ in questo modo</p>
 
-<script type="math/tex; mode=display">S_{n} = 1 + a(1 + a + a^2 + \ldots + a^{n-2})</script>
+\[S_{n} = 1 + a(1 + a + a^2 + \ldots + a^{n-2})\]
 
 <p>Ma la somma tra parentesi è, se ci pensi un attimo, $ S_{n-1}$. Dunque</p>
 
-<script type="math/tex; mode=display">S_{n} = 1 + a S_{n-1}</script>
+\[S_{n} = 1 + a S_{n-1}\]
 
 <p>Questa formula si dice ricorsiva perché lega il valore di $S_n$ a quello di $S_{n-1}$. Possiamo fare
 di più però. Sappiamo infatti che $ S_{n-1} = S_n - a^{n‐1} $ (riesci a vederlo?). Da cui</p>
 
-<script type="math/tex; mode=display">S_{n} = 1 + a (S_n - a^{n-1})</script>
+\[S_{n} = 1 + a (S_n - a^{n-1})\]
 
 <p>Lo vedi ora caro D? Abbiamo una equazione che ci permette di trovare $S_n$, un infimo, meraviglioso
 crepuscolo; con facili passaggi si ottiene (prova)</p>
 
-<script type="math/tex; mode=display">S_{n} =\frac{a^n - 1}{a-1}</script>
+\[S_{n} =\frac{a^n - 1}{a-1}\]
 
 <p>Come ti dicevo la soluzione è saltata fuori dal nulla, dalla semplice definizione e con pochi
 passaggi algebrici. Funziona? Si, lascio a te fare delle prove, ti mostro solo alcune connessioni.
 Dalla formula appena trovata si ottiene la seguente relazione</p>
 
-<script type="math/tex; mode=display">(a^n - 1) = (a-1)(a^{n-1} + a^{n-2} + \ldots + a^2 + a + 1)</script>
+\[(a^n - 1) = (a-1)(a^{n-1} + a^{n-2} + \ldots + a^2 + a + 1)\]
 
 <p>relazione interessante di cui ti ricorderai abbiamo visto l’anno scorso due casi particolari quando
 abbiamo parlato di prodotti notevoli</p>
 
-<script type="math/tex; mode=display">(a^2 - 1) = (a - 1)(a+1)</script>
+\[(a^2 - 1) = (a - 1)(a+1)\]
 
-<script type="math/tex; mode=display">(a^3 - 1) = (a - 1)(a^2 + a + 1)</script>
+\[(a^3 - 1) = (a - 1)(a^2 + a + 1)\]
 
 <p>Se inoltre prendi come numero $a$ il numero $2$, trovi che la somma delle prime $n$ potenze di $2$ è
 pari a $2^n - 1$, risultato che abbiamo usato l’anno scorso quando abbiamo affrontato la numerazione

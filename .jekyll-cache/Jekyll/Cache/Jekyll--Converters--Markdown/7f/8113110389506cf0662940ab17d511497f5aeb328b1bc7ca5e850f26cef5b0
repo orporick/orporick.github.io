@@ -1,4 +1,4 @@
-I"�&<p>Cara L,
+I"1$<p>Cara L,
 perdona se rispondo solo ora, ma la tua domanda non era semplice. Mi chiedi della libertà che hai
 intravisto nella matematica, ne intuisco il timore e forse un pregiudizio: come può la materia delle
 regole essere libera? Un malinteso, io credo, tende ad associare la matematica al preciso,
@@ -19,7 +19,7 @@ ciascuno e così via. Le persone coinvolte seguono quella che si chiama una legg
 questo caso $1, 2, 4, 8, 16 \ldots$. Si può scrivere il tutto in termini semplici immaginando che al
 passo $i$-esimo le persone raggiunte siano $n_i$; allora</p>
 
-<script type="math/tex; mode=display">n_i = 2^i</script>
+\[n_i = 2^i\]
 
 <p>Tale funzione si chiama “esponenziale in base 2” e la studieremo più avanti (in realtà siccome $i$
 qui è un valore naturale queste sono semplicemente potenze, ma il termine esponenziale è più
@@ -27,7 +27,7 @@ evocativo di quello che vedremo più avanti).</p>
 
 <p>Con questa notazione si vede subito che</p>
 
-<script type="math/tex; mode=display">n_{i+1} = 2 n_i</script>
+\[n_{i+1} = 2 n_i\]
 
 <p>Questa è un’equazione ricorsiva la cui soluzione è, appunto, l’esponenziale in base due (la
 dimostrazione che $2^i$ è soluzione è facile e te la lascio; riesci anche a ragionare sul fatto che
@@ -35,11 +35,11 @@ sia l’unica?).</p>
 
 <p>Un passaggio interessante si ottiene se si riscrive l’equazione ricorsiva in questo modo</p>
 
-<script type="math/tex; mode=display">n_{i+1} = n_i + n_i</script>
+\[n_{i+1} = n_i + n_i\]
 
 <p>e dunque</p>
 
-<script type="math/tex; mode=display">n_{i+1} - n_i = n_i</script>
+\[n_{i+1} - n_i = n_i\]
 
 <p>Il termine di sinistra è la variazione di persone raggiunte in un passo e si vede che è uguale alla
 popolazione al passo precedente. Questa cosa è interessante perché ci dice che tale variazione è
@@ -52,50 +52,50 @@ rovino la sorpresa.</p>
 <p>L’equazione precedente può essere generalizzata; immagina che invece di due amici io ne abbia dieci
 e anche loro dieci e così via, l’equazione diventa</p>
 
-<script type="math/tex; mode=display">n_{i+1} = 10 n_i</script>
+\[n_{i+1} = 10 n_i\]
 
 <p>e, se in generale ho $k$ amici</p>
 
-<script type="math/tex; mode=display">n_{i+1} = k n_i</script>
+\[n_{i+1} = k n_i\]
 
 <p>La soluzione, come prima, sarà</p>
 
-<script type="math/tex; mode=display">n_i = k^i</script>
+\[n_i = k^i\]
 
 <p>e come prima possiamo scrivere un tasso di crescita come</p>
 
-<script type="math/tex; mode=display">n_{i+1} - n_i = (k-1) n_i</script>
+\[n_{i+1} - n_i = (k-1) n_i\]
 
 <p>Ponendo $k-1 = a$</p>
 
-<script type="math/tex; mode=display">n_{i+1} - n_i = a n^i</script>
+\[n_{i+1} - n_i = a n^i\]
 
 <p>Come prima la crescita aumenta con ogni passo proporzionalmente alla popolazione. Supponiamo adesso
 di voler sapere quanti passi $i$ servano per raggiungere una determinata popolazione, diciamo $N$.
 Si pone</p>
 
-<script type="math/tex; mode=display">N = k^i</script>
+\[N = k^i\]
 
 <p>Questa equazione per $i$ non è semplice, richiede un concetto nuovo che si chiama logaritmo e che
 non è il caso che io ti anticipi qui (lo vedremo a fine anno). Ma facciamo un caso particolare
 risolvibile facilmente, immaginiamo che sia $N$ che $k$ siano potenze di $10$, ovvero $N =
 10^\alpha$ e $k=10^\beta$. Allora l’equazione diventa</p>
 
-<script type="math/tex; mode=display">10^\alpha = (10^\beta)^i = 10^{\beta i}</script>
+\[10^\alpha = (10^\beta)^i = 10^{\beta i}\]
 
 <p>da cui immediatamente</p>
 
-<script type="math/tex; mode=display">\alpha = \beta i</script>
+\[\alpha = \beta i\]
 
 <p>e dunque</p>
 
-<script type="math/tex; mode=display">i = \frac{\alpha}{\beta}</script>
+\[i = \frac{\alpha}{\beta}\]
 
 <p>Per esempio ci chiediamo, quanti passi siano necessari per raggiungere $10$ miliardi di persone
 ($N = 10^{10}$) se ognuno passa la notizia a $100$ conoscenti ($k = 10^2$) (nell’epoca dei social
 network $100$ contatti sono piuttosto comuni). Si ottiene</p>
 
-<script type="math/tex; mode=display">i = \frac{10}{2} = 5</script>
+\[i = \frac{10}{2} = 5\]
 
 <p>(anche se ancora non lo sai abbiamo scritto una relazione logaritmica).</p>
 
@@ -132,7 +132,7 @@ seguente modifica: ad ongi passo del processo il numero di persone con cui ciasc
 in contatto per trasmettere la notizia decresce perché molte sono già state raggiunte da altri. Il
 modello più semplice è il seguente</p>
 
-<script type="math/tex; mode=display">n_{i+1} = (k-hn_i)n_i</script>
+\[n_{i+1} = (k-hn_i)n_i\]
 
 <p>Il significato del nuovo termine negativo $hn_i$ è il seguente; ad ogni passo la popolazione
 aumenta, ma non di $k$ volte, il fattore moltiplicativo diminuisce man mano che $n_i$ diventa più

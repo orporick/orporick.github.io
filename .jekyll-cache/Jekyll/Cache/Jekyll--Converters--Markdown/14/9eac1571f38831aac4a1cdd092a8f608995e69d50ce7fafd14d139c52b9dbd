@@ -1,4 +1,4 @@
-I"3<p>Cara M,
+I"<p>Cara M,
 come promesso ti scrivo due righe sul problema del biliardo circolare che vi ho lasciato in classe
 qualche settimana fa. Provo a dimostrarti una affermazione (teorema) più forte di quello che vi
 avevo posto come esercizio per casa; se ricordi vi avevo chiesto di dimostrare che in un biliardo
@@ -22,7 +22,7 @@ $AB$ e $A’B$. Cosa abbiamo dimostrato? Che la traiettoria ad ogni sponda prose
 che è congruente alla corda precedente. Siccome la corda $AB$ ha una distanza $d$ dal centro $C$ che
 dipende solo dalla sua lunghezza $l$ e dal raggio $r$ del biliardo (dimostra per esercizio)</p>
 
-<script type="math/tex; mode=display">d = \sqrt{r^2 - \left(\frac{l}{2}\right)^2}</script>
+\[d = \sqrt{r^2 - \left(\frac{l}{2}\right)^2}\]
 
 <p>tutte le corde di cui è composta la traiettoria, che sono tutte congruenti tra loro per quanto
 visto, avranno la stessa distanza $d$ dal centro. Abbiamo dunque appena dimostrato che la

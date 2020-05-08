@@ -1,4 +1,4 @@
-I"�<p>Cari studenti e care studentesse,
+I"J<p>Cari studenti e care studentesse,
 ora che avete aperto la lettera posso svelare il piccolo sotterfugio; avevo voglia di parlarvi di
 fisica, ma se avessi usato come titolo “Una proprietà interessante del moto di un corpo soggetto ad
 una forza radiale proporzionale all’inverso del quadrato della distanza” in
@@ -14,7 +14,7 @@ Keplero), come in figura</p>
 <p>Scrivendo la seconda legge della dinamica ed usando la forza di attrazione gravitazionale
 newtoniana otteniamo</p>
 
-<script type="math/tex; mode=display">m \dot{\mathbf{v}} = - \frac{GMm}{r^2} \mathbf{\hat{r}}</script>
+\[m \dot{\mathbf{v}} = - \frac{GMm}{r^2} \mathbf{\hat{r}}\]
 
 <p>dove, vi ricordo, il punto indica la derivata rispetto al tempo, $m$ è la massa del pianeta (che si
 semplifica), $M$ la
@@ -22,16 +22,16 @@ massa del sole ed il simbolo $\mathbf{\hat{r}}$ indica il versore radiale, ovver
 lunghezza unitaria che parte dal centro verso il punto considerato (il segno meno è dovuto alla
 natura attrattiva della gravità). Usando le componenti $x$ ed $y$ possiamo scrivere</p>
 
-<script type="math/tex; mode=display">\dot{v}_x = - \frac{GM}{r^2} \cos{\theta}</script>
+\[\dot{v}_x = - \frac{GM}{r^2} \cos{\theta}\]
 
-<script type="math/tex; mode=display">\dot{v}_y = - \frac{GM}{r^2} \sin{\theta}</script>
+\[\dot{v}_y = - \frac{GM}{r^2} \sin{\theta}\]
 
 <p>A questo punto moltiplichiamo al secondo membro sia il numeratore che il denominatore per
 $\dot{\theta}$ ottenendo</p>
 
-<script type="math/tex; mode=display">\dot{v}_x = - \frac{GM}{r^2\dot{\theta}} \dot{\theta}\cos{\theta}</script>
+\[\dot{v}_x = - \frac{GM}{r^2\dot{\theta}} \dot{\theta}\cos{\theta}\]
 
-<script type="math/tex; mode=display">\dot{v}_y = - \frac{GM}{r^2\dot{\theta}} \dot{\theta}\sin{\theta}</script>
+\[\dot{v}_y = - \frac{GM}{r^2\dot{\theta}} \dot{\theta}\sin{\theta}\]
 
 <p>Il termine $r^2\dot{\theta}$ è costante; si tratta infatti del momento angolare rispetto a $F$
 diviso la massa $m$, momento angolare che si conserva perché la forza è sempre radiale. Vedendolo da
@@ -42,32 +42,32 @@ casa).</p>
 <p>Chiamando dunque $r^2\dot{\theta} = l$ con $l$ costante e ricordando le proprietà di derivazione di
 seno e coseno, riscriviamo le equazioni del moto in questa forma</p>
 
-<script type="math/tex; mode=display">\dot{v}_x = - \frac{GM}{l} \dot{(\sin{\theta})}</script>
+\[\dot{v}_x = - \frac{GM}{l} \dot{(\sin{\theta})}\]
 
-<script type="math/tex; mode=display">\dot{v}_y =  \frac{GM}{l} \dot{(\cos{\theta})}</script>
+\[\dot{v}_y =  \frac{GM}{l} \dot{(\cos{\theta})}\]
 
 <p>Portiamo a sinistra e ricordando che la somma delle derivate è la derivata della somma (linearità
 della derivazione) otteniamo</p>
 
-<script type="math/tex; mode=display">\frac{ {\rm d} }{ {\rm d} t} \left( v_x + \frac{GM}{l} \sin{\theta} \right) = 0</script>
+\[\frac{ {\rm d} }{ {\rm d} t} \left( v_x + \frac{GM}{l} \sin{\theta} \right) = 0\]
 
-<script type="math/tex; mode=display">\frac{ {\rm d} }{ {\rm d} t} \left( v_y - \frac{GM}{l} \cos{\theta} \right) = 0</script>
+\[\frac{ {\rm d} }{ {\rm d} t} \left( v_y - \frac{GM}{l} \cos{\theta} \right) = 0\]
 
 <p>e dunque, ricordando che una funzione a derivata nulla è uguale ad una costante, otteniamo</p>
 
-<script type="math/tex; mode=display">v_x + \frac{GM}{l} \sin{\theta}  = k_x</script>
+\[v_x + \frac{GM}{l} \sin{\theta}  = k_x\]
 
-<script type="math/tex; mode=display">v_y - \frac{GM}{l} \cos{\theta}  = k_y</script>
+\[v_y - \frac{GM}{l} \cos{\theta}  = k_y\]
 
 <p>con $k_x$ e $k_y$ costanti. Ultimo sforzo, con semplice passaggio otteniamo</p>
 
-<script type="math/tex; mode=display">v_x - k_x = - \frac{GM}{l} \sin{\theta}</script>
+\[v_x - k_x = - \frac{GM}{l} \sin{\theta}\]
 
-<script type="math/tex; mode=display">v_y - k_y =  \frac{GM}{l} \cos{\theta}</script>
+\[v_y - k_y =  \frac{GM}{l} \cos{\theta}\]
 
 <p>Eleviamo al quadrato e sommiamo, otteniamo (ricordando la relazione fondamentale della goniometria)</p>
 
-<script type="math/tex; mode=display">(v_x - k_x)^2 + (v_y - k_y)^2 = \left(\frac{GM}{l}\right)^2</script>
+\[(v_x - k_x)^2 + (v_y - k_y)^2 = \left(\frac{GM}{l}\right)^2\]
 
 <p>Ed ecco il risultato interessante di cui parlavo all’inizio: nello spazio delle velocità $(v_x,v_y)$
 l’orbita è una <strong>circonferenza</strong>, qualunque sia la forma dell’ellisse nello spazio $(x,y)$. La

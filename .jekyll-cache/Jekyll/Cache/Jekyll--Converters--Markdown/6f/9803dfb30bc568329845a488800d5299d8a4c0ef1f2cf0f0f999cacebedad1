@@ -1,4 +1,4 @@
-I"�<p>La matematica non è un’opinione<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>… 
+I"<p>La matematica non è un’opinione<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>… 
 Con questa opinione si intende generalmente relegare la matematica in
 quell’ambito prettamente tecnico che è la precisione del calcolo, il far di
 conto che non ammette alternative. L’argomento di solito si esaurisce in fretta,
@@ -36,10 +36,10 @@ insegnamento della matematica che possa ridare valore culturale ad una delle pi�
 antiche e vaste imprese della razionalità imperfetta che ci contraddistingue
 dagli animali e dalle macchine.</p>
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p><em>Scrivo queste poche righe di giustificazione del <a href="https://www.librimondadori.it/libri/un-labirinto-incerto-riccardo-giannitrapani/">Labirinto Incerto</a> per una presentazione chiesta dall’amico e collega Christian Tam. Poche parole a loro volta incerte; forse non giustificano, ma è un inizio.</em> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p><em>Scrivo queste poche righe di giustificazione del <a href="https://www.librimondadori.it/libri/un-labirinto-incerto-riccardo-giannitrapani/">Labirinto Incerto</a> per una presentazione chiesta dall’amico e collega Christian Tam. Poche parole a loro volta incerte; forse non giustificano, ma è un inizio.</em> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>

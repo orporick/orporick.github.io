@@ -1,4 +1,4 @@
-I"%<p>Carissimo L,
+I"�#<p>Carissimo L,
 ti scrivo brevemente per rispondere alla tua lettera. Purtroppo mi sono accorto di aver perso gli
 appunti di cosmologia di cui ti ho parlato, durante il trasloco di un anno fa temo che siano finiti
 da qualche parte non prevista. Pazienza, non erano sicuramente speciali, mi dispiace perché avevo
@@ -30,7 +30,7 @@ didattica.</p>
     <p>dai dati osservativi sappiamo che la velocità con cui varia la distanza $r$ tra due galassie è
   direttamente proporzionale a $r$, ovvero la famosa <a href="http://fermatslibrary.com/s/a-relation-between-distance-and-radial-velocity-among-extra-galactic-nebulae">legge di Hubble</a></p>
 
-    <script type="math/tex; mode=display">v = H r</script>
+\[v = H r\]
 
     <p>dove $H$ è una costante (costante di Hubble, appunto);</p>
   </li>
@@ -49,7 +49,7 @@ per la simmetria sferica (ecco a cosa serve) il campo gravitazionale che agisce 
 generato solo dalla materia all’interno della sfera di raggio $r$, non da quella esterna. Chiamiamo
 la massa contenuta in questa ѕfera $M(r)$ che è legata alla densità $\rho$ dell’universo</p>
 
-<script type="math/tex; mode=display">M(r) = \rho \frac{4}{3} \pi r ^3</script>
+\[M(r) = \rho \frac{4}{3} \pi r ^3\]
 
 <p>La galassia è dunque soggetta ad una
 forza radiale verso $O$ e non può stare ferma. Questo punto è fondamentale, in un universo
@@ -57,20 +57,20 @@ newtoniano finito non può esserci, in presenza della sola gravità, equilibrio,
 espandersi o contrarsi; immaginiamo che si stia allontanando da $O$ seguento
 la legge di Hubble, quindi descriviamo un’universo in espansione. Scriviamo quindi l’energia meccanica totale della galassia</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{2} m v^2 - G\frac{M(r)m}{r}</script>
+\[E = \frac{1}{2} m v^2 - G\frac{M(r)m}{r}\]
 
 <p>(il primo termine è l’energia cinetica, il secondo è l’energia potenziale gravitazionale che conosci
 dalla terza). Usando la legge di Hubble e l’espressione per $M(r)$ si ottiene</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{2} m H^2 r^2 - G \frac{\rho m \frac{4}{3}\pi r^3}{r}</script>
+\[E = \frac{1}{2} m H^2 r^2 - G \frac{\rho m \frac{4}{3}\pi r^3}{r}\]
 
 <p>da cui, semplificando</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{2} m H^2 r^2 - G \frac{4\pi \rho m r^2}{3}</script>
+\[E = \frac{1}{2} m H^2 r^2 - G \frac{4\pi \rho m r^2}{3}\]
 
 <p>Raccogliendo il termine $\frac{1}{2}mr^2$ si ottiene</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{2}mr^2 \left(  H^2 - \frac{8}{3}\pi G\rho \right)</script>
+\[E = \frac{1}{2}mr^2 \left(  H^2 - \frac{8}{3}\pi G\rho \right)\]
 
 <p>Come ricorderai dalla meccanica classia, se $E$ è positiva la galassia si allontanerà all’infinito
 (sistema aperto) senza mai fermarsi, ovvero l’energia cinetica è maggiore di quella potenziale di
@@ -80,7 +80,7 @@ dall’espressione di $E$ che abbiamo ottenuto che il segno non dipende da $m$ o
 fattori numerici e da $\rho$. Dunque esisterà un valore critico della densità, chiamiamolo $\rho_c$
 per cui $E=0$; si vede facilmente che</p>
 
-<script type="math/tex; mode=display">\rho_c = \frac{3H^2}{8\pi G}</script>
+\[\rho_c = \frac{3H^2}{8\pi G}\]
 
 <p>Riassumendo, in questo modello classico abbiamo un universo in espansione con la legge di Hubble e
 l’espansione procederà per sempre se la densità è inferiore ad un certo valore critico $\rho_c$,

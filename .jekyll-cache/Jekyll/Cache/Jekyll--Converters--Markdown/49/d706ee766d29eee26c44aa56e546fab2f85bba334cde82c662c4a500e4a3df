@@ -1,4 +1,4 @@
-I"�b<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
+I"	g<p>Cari ragazzi e care ragazze. Cerco di mantenere in questa pagina un po’ di
 ordine sui materiali che vi sto proponendo in questi giorni di sospensione della
 didattica. Non consideratelo come un posto definitivo, ma come un ripiano
 provvisorio in cui appoggiare proposte e pensieri in questi giorni di strana
@@ -405,6 +405,22 @@ ovviamente), a cosa sta pensando Einstein due anni dopo l’annus mirabilis del
   e provate a riscrivere le equazioni usando le derivate. Cosa potete dire
   dell’eventuale soluzione?</li>
   <li>Leggere <a href="https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf">questo articolo</a> e commentarlo</li>
+  <li>Provate a risolvere la seguente equazione differenziale per una funzione $f(t)$ del tempo:
+  \(f' = f(a-f)\)
+(dove $a$ è un numero reale positivo) e disegnate il grafico di $f$ (per $t$ positivi). Che significato ha il
+parametro $a$? Provate ad immaginare una situazione (fisica, economica,
+biologica, scegliete voi) che sia rappresentabile da questa equazione e
+discutetela.</li>
+  <li>Nello spaziotempo di Minkowski immaginate un corpo che si muova lungo la linea
+  oraria data da $x^2 - t^2 = 1$. Discutete tale traiettoria trovandone le
+  caratteristiche salienti. In particolare determinate in ogni istante la
+  velocità vista dall’osservatore in quiete nell’origine. Determinate inoltre
+  in ogni punto della traiettoria le linee di simultaneità; c’è qualche cosa
+  di strano? Cosa possiamo dire del tempo misurato dal corpo rispetto al tempo
+  misurato dall’osservatore in quiete? Riuscite a determinare la struttura
+  causale dello spaziotempo per questo corpo (cioè determinare quali
+  zone dello spaziotempo sono causalmente connesse con il corpo e quali no?) 
+  Discutete, esplorate, stupitevi (e stupitemi).</li>
 </ul>
 
 :ET

@@ -1,4 +1,4 @@
-I"N<p>Carissimi ragazzi e ragazze di 5A. Di nuovo qui a scrivere perché non
+I"�<p>Carissimi ragazzi e ragazze di 5A. Di nuovo qui a scrivere perché non
 sono soddisfatto della lezione di stamane, troppo confusa e con molte
 imprecisioni. Vi chiedo scusa. Cerco di farmi perdonare provando a riassumere i punti
 importanti in questo breve post.</p>
@@ -20,7 +20,7 @@ essere leggermente modificata. In particolare vi ho fatto vedere
 tempo più avanti) che la definizione di quantità di moto va
 rivista. In relatività la definiamo come</p>
 
-<script type="math/tex; mode=display">p = m \frac{d x}{d \tau}</script>
+\[p = m \frac{d x}{d \tau}\]
 
 <p>dove $x$ è la coordinato dell’oggetto nel riferimento inerziale
 dell’osservatore, mentre $\tau$ (stamane in classe ho usato $t’$, ma
@@ -34,21 +34,21 @@ corpo, ma è una grandezza invariante.</p>
 
 <p>La definizione data è quasi uguale a quella classica</p>
 
-<script type="math/tex; mode=display">p = m \frac{d x}{d t}</script>
+\[p = m \frac{d x}{d t}\]
 
 <p>solo che la derivata è rispetto al tempo misurato dal corpo e
 non dall’osservatore. Siccome abbiamo visto nelle lezioni precedenti
 che</p>
 
-<script type="math/tex; mode=display">\frac{d \tau}{d t} = \frac{1}{\sqrt{1-v^2}}</script>
+\[\frac{d \tau}{d t} = \frac{1}{\sqrt{1-v^2}}\]
 
 <p>(fenomeno della dilatazione temporale) si ottiene subito</p>
 
-<script type="math/tex; mode=display">p = \frac{1}{\sqrt{1-v^2}} m \frac{d x}{d t}</script>
+\[p = \frac{1}{\sqrt{1-v^2}} m \frac{d x}{d t}\]
 
 <p>ovvero</p>
 
-<script type="math/tex; mode=display">p = \frac{mv}{\sqrt{1-v^2}}</script>
+\[p = \frac{mv}{\sqrt{1-v^2}}\]
 
 <p>con $v$ la velocità del corpo misurata dall’osservatore.</p>
 
@@ -61,17 +61,17 @@ conservazione della quantità di moto è salvo anche in relatività.</p>
 
 <p>Stamane abbiamo anche introdotto una seconda grandezza</p>
 
-<script type="math/tex; mode=display">E = m \frac{d t}{d \tau}</script>
+\[E = m \frac{d t}{d \tau}\]
 
 <p>ovvero, usando il risultato di prima sulla dilatazione temporale,</p>
 
-<script type="math/tex; mode=display">E = \frac{m}{\sqrt{1-v^2}}</script>
+\[E = \frac{m}{\sqrt{1-v^2}}\]
 
 <p>L’interesse per questa grandezza viene dal fatto che è semplice
 mostrare algebricamente che $E^2 - p^2$ non dipende dal riferimento
 inerziale scelto; infatti si vede subito che</p>
 
-<script type="math/tex; mode=display">E^2 - p^2 = m^2</script>
+\[E^2 - p^2 = m^2\]
 
 <p>e siccome $m$ è la massa inerziale del corpo otteniamo il risultato
 voluto.</p>
@@ -84,7 +84,7 @@ grandezza $E$ coincide con la massa del corpo.</p>
 <p>Infine abbiamo visto che se faccio lo sviluppo in serie di Taylor di
 $E$ al second’ordine in $v$ per valori vicini allo zero ottengo</p>
 
-<script type="math/tex; mode=display">E \simeq m + \frac{1}{2} m v^2</script>
+\[E \simeq m + \frac{1}{2} m v^2\]
 
 <p>riconoscendo nel secondo termine a destra dell’uguale l’usuale energia
 cinetica della meccanica classica. Sembra quindi plausibile attribuire
@@ -94,7 +94,7 @@ $m$. Senza fare l’approssimazione, possiamo allora dire che l’energia
 cinetica relativistica di un corpo è pari a $E$ meno la sua energia a
 riposo, ovvero</p>
 
-<script type="math/tex; mode=display">K = \frac{m}{\sqrt{1-v^2}} - m</script>
+\[K = \frac{m}{\sqrt{1-v^2}} - m\]
 
 <p>Bene, volevo solo riassumere e puntualizzare le cose confuse viste
 stamane, i risultati che ho messo in questo post sono quello che alla

@@ -1,4 +1,4 @@
-I"�<p>Caro F,
+I"?<p>Caro F,
 stamane, durante il compito in classe, ho visto alcune perplessità sugli esercizi che vi ho proposto.
 Fermo restando che se non saremo soddisfatti (io e voi) degli esiti della verifica la possiamo
 sempre rifare, ci tenevo ad analizzare un punto importante toccato da uno dei quesiti in termini un
@@ -9,19 +9,19 @@ $M$, con $M$ molto maggiore di $m$. Abbiamo visto in classe (ed era una delle do
 come determinare la velocità orbitale; per percorrere un’orbita con moto circolare uniforme è
 necessaria una forza centripeta</p>
 
-<script type="math/tex; mode=display">m \frac{v^2}{r}</script>
+\[m \frac{v^2}{r}\]
 
 <p>che, nel caso della gravità non relativistica, è data dalla forza di attrazione universale di Newton</p>
 
-<script type="math/tex; mode=display">G\frac{M m}{r^2}</script>
+\[G\frac{M m}{r^2}\]
 
 <p>Uguagliando le due espressioni si ottiene</p>
 
-<script type="math/tex; mode=display">m \frac{v^2}{r}  = G\frac{M m}{r^2}</script>
+\[m \frac{v^2}{r}  = G\frac{M m}{r^2}\]
 
 <p>da cui, con rapidi passaggi algebrici</p>
 
-<script type="math/tex; mode=display">v = \sqrt{\frac{G M}{r}}</script>
+\[v = \sqrt{\frac{G M}{r}}\]
 
 <p>Prima di arrivare al punto che vorrei analizzare, nota che, come discusso in classe, la velocità di
 un’orbita stabile circolare diminuisce aumentando il raggio dell’orbita.</p>
@@ -29,12 +29,12 @@ un’orbita stabile circolare diminuisce aumentando il raggio dell’orbita.</p>
 <p>Immaginiamo adesso (come nel secondo punto del problema di stamane) di voler calcolare l’energia
 totale $E$ del corpo in orbita. Come sappiamo</p>
 
-<script type="math/tex; mode=display">E = K + U</script>
+\[E = K + U\]
 
 <p>dove $K$ è l’energia cinetica e $U$ quella potenziale. Nel nostro caso (dinamica non relativistica e
 gravità non relativistica) si ha</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{2} m v^2 - G\frac{M m}{r}</script>
+\[E = \frac{1}{2} m v^2 - G\frac{M m}{r}\]
 
 <p>Nota come il termine di energia potenziale abbia un segno meno avendo scelto, ricorderai, lo zero
 dell’energia potenziale a distanza infinita.</p>
@@ -42,19 +42,19 @@ dell’energia potenziale a distanza infinita.</p>
 <p>Se siamo in orbita circolare stabile al posto di $v$ possiamo sostituire la velocità orbitale trovata prima,
 ottenendo</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{2} G\frac{M m}{r} - G\frac{M m}{r}</script>
+\[E = \frac{1}{2} G\frac{M m}{r} - G\frac{M m}{r}\]
 
 <p>da cui</p>
 
-<script type="math/tex; mode=display">E = -G\frac{M m}{2 r}</script>
+\[E = -G\frac{M m}{2 r}\]
 
 <p>che si può anche scrivere come</p>
 
-<script type="math/tex; mode=display">E = \frac{1}{2} U</script>
+\[E = \frac{1}{2} U\]
 
 <p>oppure come</p>
 
-<script type="math/tex; mode=display">E = - K</script>
+\[E = - K\]
 
 <p>Questa relazione (in una di queste ultime due forme che ho appena scritto) è un caso particolare di
 quello che i fisici chiamano <strong>teorema del viriale</strong>. Stamattina, senza averne parlato prima, vi ho

@@ -1,4 +1,4 @@
-I"�8<p>Miei cari Francesco ed Anna Wislawa,
+I"l6<p>Miei cari Francesco ed Anna Wislawa,
 vi scrivo nell’ora più breve della notte, da un’esilio che rinnovo ogni giorno. Ora che dormite i
 vostri sogni di bambini ho deciso di scrivervi di un piccolo pezzetto di universo di cui si parla
 tanto in questi giorni. La mia non è una lettera di spiegazioni precise, una lezione formale ed
@@ -51,31 +51,29 @@ Siano dunque tre corpi di masse $M$, $m$ e $\mu$ allineati come in figura.</p>
 <p>Una prima stima di quanto stiamo cercando è data dal seguente ragionamento: se il corpo $\mu$ è sotto 
 l’influenza del campo gravitazione di $m$ e basta, la sua velocità angolare deve soddisfare</p>
 
-<script type="math/tex; mode=display">\omega^2 = \frac{Gm}{r^3}</script>
+\[\omega^2 = \frac{Gm}{r^3}\]
 
 <p>Tale relazione si ottiene ponendo uguali la forza gravitazionale di $m$ su $\mu$ e l’accelerazione
 centripeta necessaria a mantenere un orbita di raggio $r$</p>
 
-<script type="math/tex; mode=display">\mu\omega^2 r = \frac{Gm\mu}{r^2}</script>
+\[\mu\omega^2 r = \frac{Gm\mu}{r^2}\]
 
 <p>Se viceversa è sotto l’influenza di $M$ e basta si deve avere, analogamente,</p>
 
-<script type="math/tex; mode=display">\omega^2 = \frac{GM}{(R+r)^3}</script>
+\[\omega^2 = \frac{GM}{(R+r)^3}\]
 
 <p>Se ipotizziamo $r \ll R$ possiamo approssimare la precedente espressione</p>
 
-<script type="math/tex; mode=display">\omega^2 \simeq \frac{GM}{R^3}</script>
+\[\omega^2 \simeq \frac{GM}{R^3}\]
 
 <p>Dunque il campo gravitazionale di $m$ è predominante quando</p>
 
-<script type="math/tex; mode=display">% <![CDATA[
-r < \left( \frac{m}{M} \right)^{1/3} R %]]></script>
+\[r &lt; \left( \frac{m}{M} \right)^{1/3} R\]
 
 <p>Un calcolo più preciso, che per ora vi risparmio, legato alla determinazione dei cosiddetti punti di
 Lagrange porta ad un risultato molto simile</p>
 
-<script type="math/tex; mode=display">% <![CDATA[
-r < \left( \frac{m}{3M} \right)^{1/3} R %]]></script>
+\[r &lt; \left( \frac{m}{3M} \right)^{1/3} R\]
 
 <p>che non è altro che una versione approssimata del cosiddetto raggio di Hill per la massa $m$.
 Riassumendo, in presenza di una massa $M$ a distanza $R$ da una massa $m$, il campo gravitazionale
@@ -91,9 +89,9 @@ l’approssimazione qui proposta sarebbe esatta; perché?).</p>
 
 <p>Inserendo i valori approssimati</p>
 
-<script type="math/tex; mode=display">M = 10^{12} M_\odot</script>
+\[M = 10^{12} M_\odot\]
 
-<script type="math/tex; mode=display">R = 25000 {\rm al}</script>
+\[R = 25000 {\rm al}\]
 
 <p>si ottiene un raggio di Hill di poco più di un anno luce. Sappiamo che questa è più o meno la
 distanza dal Sole della nube di Oort, considerata l’estrema periferia del sistema solare. Nonostante
@@ -126,7 +124,7 @@ termica) e l’irraggiamento della stella centrale.</p>
 <p>Il primo fattore è abbastanza complesso, mi riservo di parlarvene in una futura lettera; trattiamo quindi 
 il secondo fenomeno. Per la legge di Stefan-Boltzmanni per i corpi neri</p>
 
-<script type="math/tex; mode=display">L = A \sigma T^4</script>
+\[L = A \sigma T^4\]
 
 <p>dove $L$ è la luminosità (energia emessa per unità di tempo), $A$ è la superficie
 della stella, $\sigma$ la costante di Stefan-Boltzmann e $T$ la temperatura
@@ -135,32 +133,32 @@ superificiale.</p>
 <p>Tale energia emessa si distribuisce in modo isotropo, quindi a distanza $d$ darà
 un flusso di energia per unità di tempo pari a</p>
 
-<script type="math/tex; mode=display">L = \frac{4\pi R^2 \sigma T^4}{4\pi d^2} = \sigma T^4 \left(\frac{R}{d}\right)^2</script>
+\[L = \frac{4\pi R^2 \sigma T^4}{4\pi d^2} = \sigma T^4 \left(\frac{R}{d}\right)^2\]
 
 <p>dove $R$ è il raggio della stella. Un corpo (pianeta, granello di polvere etc)
 approssimabile come una sfera di raggio $r$ riceve dunque nell’unità di tempo
 l’energia pari a</p>
 
-<script type="math/tex; mode=display">\pi r^2 \sigma T^4 \left(\frac{R}{d}\right)^2</script>
+\[\pi r^2 \sigma T^4 \left(\frac{R}{d}\right)^2\]
 
 <p>Ipotizziamo che tutta l’energia ricevuta sia assorbita, cosa che non è del tutto
 vera (vi è un fattore di assorbimento che dipende dal materiale; come sempre non ci interessano
 i dettagli, ma gli andamenti quantitativi). All’equilibrio termico il corpo raggiunge una temperatura stabile 
 $T_c$ e riemette l’energia pari a</p>
 
-<script type="math/tex; mode=display">4 \pi r^2 \sigma T_c^4</script>
+\[4 \pi r^2 \sigma T_c^4\]
 
 <p>Uguagliando l’energia emessa e quella ricevuta si ottiene l’espressione per
 $T_c$, ovvero</p>
 
-<script type="math/tex; mode=display">T_c = \frac{1}{\sqrt{2}} T \left( \frac{R}{d} \right)^{1/2}</script>
+\[T_c = \frac{1}{\sqrt{2}} T \left( \frac{R}{d} \right)^{1/2}\]
 
 <p>Da qui si vede che il profilo della temperatura decresce con la radice quadrata
 della distanza e dipende principalmente dalla temperatura superficiale della
 stella e dalla radice quadrata del suo raggio. Se ora invertiamo tale relazione ed esplicitamo 
 $d$ otteniamo</p>
 
-<script type="math/tex; mode=display">d = \frac{T^2 R}{2T_c^2}</script>
+\[d = \frac{T^2 R}{2T_c^2}\]
 
 <p>La frost line si trova ad una temperatura $T_c$ ben determinata e dalla relazione ora trovata
 possiamo determinare la distanza di tale linea dalla stella. Usando i dati del Sole si ottiene una

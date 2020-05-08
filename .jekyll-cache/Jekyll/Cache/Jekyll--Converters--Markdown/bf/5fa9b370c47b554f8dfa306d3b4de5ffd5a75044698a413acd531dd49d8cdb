@@ -1,4 +1,4 @@
-I"�!<p>Cari studenti e studentesse, ci siamo salutati due giorni fa per la pausa pasquale e, come avrete
+I"�<p>Cari studenti e studentesse, ci siamo salutati due giorni fa per la pausa pasquale e, come avrete
 notato, non vi ho dato compiti per le vacanze. Chi di voi mi conosce da anni sa che è mia abitudine
 non darne e sa che sono contrario per tanti motivi che non vale la pena ricordare qui (ve ne ho
 parlato molte volte in classe). Mi auguro quindi che stiate riposando e che possiate tornare tra
@@ -21,10 +21,10 @@ regolarmente, ma io sono testardo ed insisto).</p>
 <p><strong>Primo anno</strong></p>
 
 <ol>
-  <li>Come dimostreresti il prodotto notevole <script type="math/tex">(x^3-y^3) = (x-y)(x^2+xy+y^2)</script> algebricamente? E
-geometricamente? Saresti in grado di trovare anche una scomposizione per <script type="math/tex">(x^4-y^4)</script> o, più in
-generale, per <script type="math/tex">(x^n - y^n)</script>? Che ragionamento seguiresti? E cosa mi sai dire di <script type="math/tex">(x^3+y^3)</script>?
-Esiste secondo te una analoga scomposizione per <script type="math/tex">(x^2+y^2)</script> e se no, perché?</li>
+  <li>Come dimostreresti il prodotto notevole \((x^3-y^3) = (x-y)(x^2+xy+y^2)\) algebricamente? E
+geometricamente? Saresti in grado di trovare anche una scomposizione per \((x^4-y^4)\) o, più in
+generale, per \((x^n - y^n)\)? Che ragionamento seguiresti? E cosa mi sai dire di \((x^3+y^3)\)?
+Esiste secondo te una analoga scomposizione per \((x^2+y^2)\) e se no, perché?</li>
   <li>Usando gli assiomi di Peano e gli assiomi che definiscono somma e moltiplicazione per i numeri
 naturali visti all’inizio dell’anno, sapresti dimostrare formalmente che $a + a = a\cdot 2$ per ogni naturale $a$?</li>
   <li>Dati due numeri in rappresentazione binaria (supponi che abbiano lo stesso numero di bit), scopri
@@ -55,11 +55,11 @@ calcolo (semplicistico) per quanto riguarda l’innesco di reazioni di fusione n
   <li>
     <p>Abbiamo visto insieme che in relatività ristretta, in una dimensione, vale ancora l’equazione dinamica</p>
 
-    <script type="math/tex; mode=display">F = \frac{d p}{d t}</script>
+\[F = \frac{d p}{d t}\]
 
     <p>se si prende la quantità di moto</p>
 
-    <script type="math/tex; mode=display">p = \frac{mv}{\sqrt{1-v^2}}</script>
+\[p = \frac{mv}{\sqrt{1-v^2}}\]
 
     <p>dove, ricordati, per noi $c=1$. Sapresti determinare la legge oraria $x(t)$ nel caso di forza
 costante? Prendi per semplificare $F/m = 1$. Cosa puoi dire in confronto al caso classico non
@@ -70,7 +70,7 @@ orizzonte degli eventi? Sapresti disegnare un diagramma spaziotemporale con la t
     <p>Considera la forza gravitazionale di Newton su un corpo di massa $m$ ad altezza $h$ sul livello
 del mare</p>
 
-    <p><script type="math/tex">F = G\frac{Mm}{(R+h)^2}</script>
+    <p>\(F = G\frac{Mm}{(R+h)^2}\)
 dove $M$ è la massa della terra e $R$ il suo raggio. Sviluppa la precedente espressione della
 forza in serie di Taylor rispetto alla variabile $h$ vicino al punto $h=0$. In particolare come
 interpreti il termine di grado zero? Se consideri lo sviluppo al primo ordine come cambia il moto
@@ -93,13 +93,13 @@ modo approssimato e facendo tutta una serie di semplificazioni. Quali?</li>
   <li>
     <p>Abbiamo visto insieme l’equazione differenziale del modello logistico</p>
 
-    <p><script type="math/tex">N' = aN - bN^2</script>
+    <p>\(N' = aN - bN^2\)
 che rappresenta l’andamento di una popolazione soggetta a delle risorse finite. Ricorderai che la
 soluzione presentava un asintoto a cui tende la popolazione in equilibrio. Lo sapresti ritrovare
 senza leggere gli appunti presi in classe? Hai preso degli appunti in classe, vero? Come cambia
 la situazione se si aggiunge un termine negativo costante</p>
 
-    <script type="math/tex; mode=display">N' = aN - bN^2 -c</script>
+\[N' = aN - bN^2 -c\]
 
     <p>che potrebbe rappresentare una perdita continua di risorse del sistema? Riusciresti in tal caso a
 dire qualcosa sul modello, anche senza risolverlo analiticamente? Riusciresti ad impostare una
@@ -109,11 +109,11 @@ possibile soluzione?</p>
     <p>Richard Feynman aveva un metodo tutto suo molto rapido per derivare funzioni piuttosto
 complicate. Ecco un esempio: supponi di avere una funzione fatta in questo modo</p>
 
-    <script type="math/tex; mode=display">f(x) = a(x)^n \cdot b(x)^m \cdot c(x)^l</script>
+\[f(x) = a(x)^n \cdot b(x)^m \cdot c(x)^l\]
 
     <p>Feynman avrebbe scritto subito una cosa del genere</p>
 
-    <script type="math/tex; mode=display">f'(x) = f(x)\cdot\left(n\frac{a'(x)}{a(x)} + m\frac{b'(x)}{b(x)} + l\frac{c'(x)}{c(x)} \right)</script>
+\[f'(x) = f(x)\cdot\left(n\frac{a'(x)}{a(x)} + m\frac{b'(x)}{b(x)} + l\frac{c'(x)}{c(x)} \right)\]
 
     <p>Sei d’accordo con questa tecnica? Perché? Funziona anche con esponenti $n,m,l$ negativi? Sapresti
 dimostrare che in generale fornisce lo stesso risultato che conosci tu? Ti sembra più rapida

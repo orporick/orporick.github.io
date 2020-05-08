@@ -1,4 +1,4 @@
-I"�<p>Doveva succedere anche con voi, era inevitabile. Credo di aver fatto un errore giovedi nell’ultimo
+I"A	<p>Doveva succedere anche con voi, era inevitabile. Credo di aver fatto un errore giovedi nell’ultimo
 integrale svolto alla lavagna. A dire la verità non sono sicurissimo perché il suono della
 campanella ha interrotto la lezione e mi sono perso gli ultimi passaggi nella confusione generale,
 ma credo di aver sbagliato da qualche parte. In ogni caso lo metto in <a href="http://orporick.github.io/imperfezioni">questo piccolo museo degli
@@ -8,61 +8,61 @@ ad un integrale sbagliato).</p>
 
 <p>L’integrale fatto in classe è il seguente</p>
 
-<script type="math/tex; mode=display">\int \frac{1}{\sqrt{(x^2 - 9)^3}}\, {\rm d}x</script>
+\[\int \frac{1}{\sqrt{(x^2 - 9)^3}}\, {\rm d}x\]
 
 <p>Iniziamo a riorganizzarlo raccogliendo un $x^2$ dentro il cubo e portandolo fuori</p>
 
-<script type="math/tex; mode=display">\int \frac{1}{\sqrt{x^6\left(1 - \frac{9}{x^2}\right)^3}}\, {\rm d}x</script>
+\[\int \frac{1}{\sqrt{x^6\left(1 - \frac{9}{x^2}\right)^3}}\, {\rm d}x\]
 
-<script type="math/tex; mode=display">\int \frac{1}{x^3\sqrt{\left(1 - \left(\frac{3}{x}\right)^2\right)^3}}\, {\rm d}x</script>
+\[\int \frac{1}{x^3\sqrt{\left(1 - \left(\frac{3}{x}\right)^2\right)^3}}\, {\rm d}x\]
 
 <p>A questo punto facciamo la sostituzione (che vi ho proposto in classe)</p>
 
-<script type="math/tex; mode=display">\frac{3}{x} = \cos t</script>
+\[\frac{3}{x} = \cos t\]
 
 <p>da cui, per il differenziale,</p>
 
-<script type="math/tex; mode=display">-\frac{3}{x^2}\, {\rm d}x = - \sin t\, {\rm d}t</script>
+\[-\frac{3}{x^2}\, {\rm d}x = - \sin t\, {\rm d}t\]
 
 <p>che riscriviamo come</p>
 
-<script type="math/tex; mode=display">\frac{ {\rm d} x}{x^2} = \frac{\sin t}{3}\, {\rm d} t</script>
+\[\frac{ {\rm d} x}{x^2} = \frac{\sin t}{3}\, {\rm d} t\]
 
 <p>Sostituendo l’integrale diventa</p>
 
-<script type="math/tex; mode=display">\int \frac{\cos t}{\sqrt{\left(1 - \cos^2 t\right)^3}} \frac{\sin t}{9}\, {\rm d}t</script>
+\[\int \frac{\cos t}{\sqrt{\left(1 - \cos^2 t\right)^3}} \frac{\sin t}{9}\, {\rm d}t\]
 
 <p>Ricordando che $1-\cos^2 t = \sin^2 t$ si ottiene</p>
 
-<script type="math/tex; mode=display">\frac{1}{9}\int \frac{\cos t \sin t}{\sin^3 t} \, {\rm d}t</script>
+\[\frac{1}{9}\int \frac{\cos t \sin t}{\sin^3 t} \, {\rm d}t\]
 
 <p>e semplificando</p>
 
-<script type="math/tex; mode=display">\frac{1}{9}\int \frac{\cos t}{\sin^2 t} \, {\rm d}t</script>
+\[\frac{1}{9}\int \frac{\cos t}{\sin^2 t} \, {\rm d}t\]
 
 <p>Questo integrale è in una forma elementare per funzione composta del tipo</p>
 
-<script type="math/tex; mode=display">\int f^\alpha (x)\cdot D(f(x))\, {\rm d}x = \frac{f^{\alpha +1}(x)}{\alpha +1} + c</script>
+\[\int f^\alpha (x)\cdot D(f(x))\, {\rm d}x = \frac{f^{\alpha +1}(x)}{\alpha +1} + c\]
 
 <p>infatti si può riscrivere come</p>
 
-<script type="math/tex; mode=display">\frac{1}{9} \int \sin^{-2} t \cdot D(\sin t)\, {\rm d} x</script>
+\[\frac{1}{9} \int \sin^{-2} t \cdot D(\sin t)\, {\rm d} x\]
 
 <p>Integrando otteniamo dunque</p>
 
-<script type="math/tex; mode=display">-\frac{1}{9\sin t} + c</script>
+\[-\frac{1}{9\sin t} + c\]
 
 <p>e quindi</p>
 
-<script type="math/tex; mode=display">-\frac{1}{9\sqrt{1-\cos^2 t}} + c</script>
+\[-\frac{1}{9\sqrt{1-\cos^2 t}} + c\]
 
 <p>Tornando indietro alla variabile $x$ si ottiene</p>
 
-<script type="math/tex; mode=display">-\frac{1}{9\sqrt{1-\frac{9}{x^2}}} + c</script>
+\[-\frac{1}{9\sqrt{1-\frac{9}{x^2}}} + c\]
 
 <p>e con un semplice passaggio algebrico otteniamo infine il risultato</p>
 
-<script type="math/tex; mode=display">-\frac{x}{9\sqrt{x^2-9}} + c</script>
+\[-\frac{x}{9\sqrt{x^2-9}} + c\]
 
 <p>Tada’, come dico sempre in classe. Buon fine settimana, ragazzi e ragazze, ci vediamo alla prossima
 imperfezione.</p>
