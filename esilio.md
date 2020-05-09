@@ -220,6 +220,8 @@ la geometria analitica nello spazio. Rimanete con le orecchie dritte.
 * [Introduzione alla geometria analitica nello spazio](https://www.youtube.com/watch?v=Rxo9xMuA-tY)
 * [Ancora sulla geometria analitica nello spazio](https://www.youtube.com/watch?v=dUWoWJEXqMU)
 * [Intersezione tra piani e prodotto vettoriale](https://www.youtube.com/watch?v=nRQbG6mbMok)
+* [Sfere nello spazio](https://youtu.be/7H8BVgT0siE)
+* [Una visione d'insieme di quanto abbiamo visto di matematica](https://youtu.be/EGmIcWXscMk)
 
 ### Fisica
 * [Introduzione al k-calculus (parte prima)](https://www.youtube.com/watch?v=Klv2-67naQY)
@@ -231,11 +233,20 @@ la geometria analitica nello spazio. Rimanete con le orecchie dritte.
 * [Dinamica relativistica - parte 1](https://www.youtube.com/watch?v=rlHK3_JsfTA)
 * [Dinamica relativistica e non additività della massa](https://www.youtube.com/watch?v=M_Sg9IHdMtg)
 * [Redshift gravitazionale da un semplice argomento](https://www.youtube.com/watch?v=Fh72moXT1Wg)
+* [Due nuvole all'orizzonte](https://youtu.be/p79EbMRU4j4)
+* [Il problema del corpo nero e la nascita dell'idea di quanto di luce](https://youtu.be/1Lg0EK9B-to) 
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
 	* [parte2](https://www.youtube.com/watch?v=-vgiI3hz9xU)
 	* [parte3](https://www.youtube.com/watch?v=CTo-tSOBlfA)
 	* [parte4](https://www.youtube.com/watch?v=3GdYpn6fTXY)
+
+
+### Letture
+* [Sulla dinamica relativistica](http://orporick.github.io/imperfezioni/2016/04/08/sulla-dinamica-relativistica/)
+* [Questione di tempo](http://orporick.github.io/imperfezioni/2016/03/11/questione-di-tempo/)
+* [Su un'equazione differenziale](http://orporick.github.io/imperfezioni/2016/04/28/equazioni-differenziali/)
+
 
 <br>
 <hr class="style-eight">
@@ -323,8 +334,19 @@ Aspetto i vostri compiti in classe senza classe.
 5. Cercate in rete riferimenti alla disputa tra Leibniz e Newton sulla nascita
    del calcolo differenziale (l'analisi delle funzioni reali di cui abbiamo
    iniziato lo studio). Inquadrate il problema dal punto di vista storico e
-   filosofico e provate a collegarlo con quanto stiamo vedendo nei video
-   sull'analisi. 
+   filosofico e provate a collegarlo con quanto stiamo vedendo nei video sull'analisi.
+6. Studiate (dominio, intersezioni, positività) la funzione $\frac{\sin(x)}{x}$. Ammette
+   punti di accumulazione che non sono nel dominio? Riuscite ad immaginare
+   (qualsiasi mezzo e valido) cosa succede se mi avvicino a tali punti di
+   accumulazione usando il concetto di limite?
+7. Dove vedresti bene il concetto di limite applicato in fisica? In altre
+   parole, dove lo abbiamo usato in fisica in passato senza chiamarlo limite?
+   Discuti ampiamente.
+8. Perché $\frac{x^2-1}{x-1}$ non è uguale a $(x+1)$? Studia entrambe le
+   funzioni e cerca di farne i limiti nei punti di accumulazione (finiti) che
+   non appartengono al loro dominio.
+9. Dopo aver letto [questo post](http://orporick.github.io/lettere/2019/09/17/lettera-irrazionale/) provate a fare un video in cui esponente il contenuto in modo avvincente.
+
 ### Fisica
 
 1. Procuratevi online una copia delle Opticks di Newton (se non trovate
@@ -352,7 +374,15 @@ Aspetto i vostri compiti in classe senza classe.
 7. Applicando l'equazione di campo del flusso determinare il flusso totale
    uscente da una sfera che contenga la Terra. Perché non è importante sapere il
    raggio di tale sfera?
-
+8. Provate ad immaginare un campo che abbia l'equazione per il flusso del campo elettrico e quella per la circuitazione del campo magnetico; in poche parole
+  un campo che può avere sia flusso uscente da una superficie che circuitazione
+  lungo un cammino chiuso diversi da zero. Può esistere? Se si, che caratteristiche dovrebbe avere? 
+9. Date sette masse uguali $m$ poste nei vertici di un cubo (quindi uno dei vertici è vuoto), calcolate il campo gravitazionale complessivo nel centro del cubo.
+10. Dato un filo rettilineo infinito di densità lineare $\lambda$, sono possibili
+    orbite chiuse su un piano perpendicolare al filo? Se si, che caratteristiche
+    hanno (confronta per esempio con le note leggi di Keplero). Discuti e
+    divertiti ad immaginare un eventuale sistema planetario.
+ 
 ## Quinta H
 
 * Orientatevi nella lettura (anche non completa) [dell'articolo del 1905 di
@@ -394,5 +424,10 @@ Aspetto i vostri compiti in classe senza classe.
 * Determinare il volume di un ellissoide di rotazione (prendete una ellisse con
     semiassi $a$ e $b$ e fatela ruotare rispetto all'asse delle $y$ di $2\pi$). 
 * L'energia gravitazionale di una sfera omogenea di raggio $R$ e massa $M$ è
-    data da $$ -\frac{3}{5}\frac{GM^2}{R}$$. Dimostralo.
-* Prendendo spunto da [questo post](http://orporick.github.io/imperfezioni/2015/05/17/una-tazzina-di-caffe/) provate a discutere un possibile modello di riscaldamento per un  
+    data da $$ -\frac{3}{5}\frac{GM^2}{R}$$. Dimostralo (spoiler, bisogna fare
+    un integrale).
+* Prendendo spunto da [questo post](http://orporick.github.io/imperfezioni/2015/05/17/una-tazzina-di-caffe/) provate a discutere un possibile modello di raffreddamento per un corpo usando una approssimazione di Taylor al second'ordine per l'irraggiamento. Riuscite anche a fare un confronto numerico? E, perché no, riuscite a prendere dei valori sperimentali per vedere qual è l'andamento reale del raffreddamento di una tazzina di caffè?
+* Ricordate le equazioni di Maxwell statiche? Provate ad immaginare un campo che abbia l'equazione per il flusso del campo elettrico e quella per la circuitazione del campo magnetico. Può esistere? Se si, che caratteristiche dovrebbe avere? 
+* Studia (come funzione reale di $\nu$) la distribuzione di Planck di cui parlo nel
+    video di introduzione alla fisica quantistica. Dimostra che soddisfa la
+    legge di spostamento di Wien. 
