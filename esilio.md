@@ -97,7 +97,13 @@ quadrato della distanza dalla terza legge di Keplero
 * [Legge di Gay-Lussac e dilatazione termica](https://www.youtube.com/watch?v=gmm7lF14C1g)
 * [Trasformazioni termodinamiche di un gas ed energia interna](https://www.youtube.com/watch?v=pMeRoYsw2rc)
 * [Pressione e densità atmosferiche in funzione dell'altezza e distribuzione di Boltzmann](https://www.youtube.com/watch?v=7fGcjKUtsaM)
-
+* [Calore. Primo principio della termodinamica](https://www.youtube.com/watch?v=ppy5TPQsfj0)
+* [Trasmissione del calore](https://www.youtube.com/watch?v=ZdMCFGltcks)
+* [Capacità termica, calori specifici, calori latenti](https://www.youtube.com/watch?v=EhXy2PdBk94)
+* [Lavoro nelle trasformazioni reversibili](https://www.youtube.com/watch?v=WUSye7TZ9As)
+* [Cicli termodinamici](https://www.youtube.com/watch?v=xKUW7bGeNAM)
+* [Ciclo di Carnot e rendimento di una macchina termica](https://www.youtube.com/watch?v=diIP0IIpSPc)
+* [Ancora su macchine termiche e alcuni problemi connessi](https://www.youtube.com/watch?v=9knHeI9KUMY)
 ## Letture
 * [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
 * [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
@@ -141,6 +147,12 @@ entro la fine dell'anno alla definizione ed al calcolo dei limiti.
 * [Funzioni iniettive e suriettive](https://www.youtube.com/watch?v=3nyKxk1t-EE)
 * [Introduzione alla topologia della retta reale](https://www.youtube.com/watch?v=Y32dxMM0L7w)
 * [Introduzione informale al concetto di limite](https://www.youtube.com/watch?v=j3zUQL0j60M)
+* [Definizione formale di limite](https://www.youtube.com/watch?v=MsLRp8fZfTc&t=3s)
+* [Ulteriori sviluppi del concetto di limite](https://www.youtube.com/watch?v=uN7uK1AHG6Y)
+* [Limiti destri e sinistri](https://www.youtube.com/watch?v=pw62iiUuHrY)
+* [Funzioni continue e algebra dei limiti finiti](https://www.youtube.com/watch?v=RvIvPliCe_s)
+* [Limiti infiniti](https://www.youtube.com/watch?v=LNoQ-JrVQWg)
+* [Forme indeterminate, limiti notevoli, teorema del confronto](https://www.youtube.com/watch?v=NWr4EKWPjkg)
 
 ### Fisica
 
@@ -153,6 +165,13 @@ entro la fine dell'anno alla definizione ed al calcolo dei limiti.
 * [Esempi simmetrici di equazione del campo gravitazionale con il flusso](https://www.youtube.com/watch?v=kHQ-6JVk9NM)
 * [Esercizi sul campo gravitazionale e simmetrie](https://www.youtube.com/watch?v=W1NXRFYFbL0)
 * [La circuitazione del campo gravitazionale](https://www.youtube.com/watch?v=DPZF2I5qSQA)
+* [Schema riassuntivo e potenziale gravitazionale](https://www.youtube.com/watch?v=8ig6IqRmGKY&t=1027s)
+* [Esempi elementari di flusso, circuitazione, potenziale](https://www.youtube.com/watch?v=KqtbzpsVe_k&t=2s)
+* [Flusso, circuitazione e potenziale in simmetria sferica](https://www.youtube.com/watch?v=YOB5IIHXRDs&t=9s)
+* [Introduzione ai campi elettrici e magnetici](https://www.youtube.com/watch?v=7hwqPl9vUFw)
+* [Forza di Lorentz e definizione elementare di corrente](https://www.youtube.com/watch?v=cqcodce9taQ)
+* [La famosa regola della mano destra](https://www.youtube.com/watch?v=xS5iWVBpt-Q)
+* [Alcune soluzioni semplici per il campo elettrico](https://www.youtube.com/watch?v=l-OJL2uP1es)
 
 ## Letture
 
@@ -235,6 +254,7 @@ la geometria analitica nello spazio. Rimanete con le orecchie dritte.
 * [Redshift gravitazionale da un semplice argomento](https://www.youtube.com/watch?v=Fh72moXT1Wg)
 * [Due nuvole all'orizzonte](https://youtu.be/p79EbMRU4j4)
 * [Il problema del corpo nero e la nascita dell'idea di quanto di luce](https://youtu.be/1Lg0EK9B-to) 
+* [Sviluppo dell'idea di fotone](https://www.youtube.com/watch?v=c0fbjDijHg0)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
 	* [parte2](https://www.youtube.com/watch?v=-vgiI3hz9xU)
@@ -310,6 +330,16 @@ Aspetto i vostri compiti in classe senza classe.
    fare qualche simulazione numerica (per esempio con un foglio di calcolo o con
    Geogebra o in Python) sulla distribuzione della densità in funzione
    dell'altezza.
+9. Sapresti dare una stima del numero di molecole presenti in una stanza? Non
+   importa che il risultato sia corretto, importa che ragionamento seguiresti.
+10. Usando il primo principio della termodinamica stima che velocità dovrebbe
+    avere un proiettile di ghiaccio di $50$ grammi alla temperatura di
+    $-10^\circ C$ per sciogliersi completamente all'impatto con una parete
+    (trascura effetti sulla parete).
+11. Usando la legge di Stefan-Boltzmann e cercando un po' di valori in rete
+    (temperatura del Sole, distanza Terra-Sole etc) stima una temperatura
+    possibile per la Terra. Non conta l'esattezza del risultato finale, ma la
+    strategia.
 
 ## Quarta N
 
