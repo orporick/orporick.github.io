@@ -69,12 +69,16 @@ canali che per vostra comodità riassumo qui
 
 # Terza C
 
-Vi chiedo di concentrarvi sull'ultimo argomento visto, cioè l'introduzione alla
+Per iniziare vi chiedo di concentrarvi sull'ultimo argomento visto, cioè l'introduzione alla
 gravitazione universale. Provate per conto vostro a rivedere la transizione tra
 il sistema geocentrico e quello eliocentrico, date un'occhiata alle biografie di
 Tolomeo, Copernico, Giordano Bruno, Galileo e Newton, trovate molto materiale in
-rete. Ridate una letta agli appunti, alla suggestione  dell'inverso del
-quadrato della distanza dalla terza legge di Keplero
+rete. Ridate una letta agli appunti, alla suggestione dell'inverso del
+quadrato della distanza dalla terza legge di Keplero. Visto il prolungarsi della
+didattica non in presenza ho continuato a svolgere il programma finendo la
+gravitazione e introducendo gli elementi che ritengo essenziali sulla
+termodinamica. Ho lasciato fuori il secondo principio della termodinamica che,
+vista l'importanza, discuteremo il prossimo anno scolastico.
 
 ## Video
 
@@ -104,6 +108,7 @@ quadrato della distanza dalla terza legge di Keplero
 * [Cicli termodinamici](https://www.youtube.com/watch?v=xKUW7bGeNAM)
 * [Ciclo di Carnot e rendimento di una macchina termica](https://www.youtube.com/watch?v=diIP0IIpSPc)
 * [Ancora su macchine termiche e alcuni problemi connessi](https://www.youtube.com/watch?v=9knHeI9KUMY)
+
 ## Letture
 * [Esopianeti](http://orporick.github.io/lettere/2017/02/27/letterauniverso/) (solo la prima parte)
 * [Forze di marea](http://orporick.github.io/lettere/2018/05/28/lettera-sulle-maree/)
@@ -122,8 +127,11 @@ prossimo l'ottica fisica (ha più senso svilupparla nel contesto delle onde
 elettromagnetiche che vedremo, appunto, in quinta). Ho quindi sviluppato in
 remoto una breve introduzione alla fluidodinamica ed ho iniziato la teoria dei
 campi partendo dal campo gravitazionale per arrivare a definire gli strumenti
-principali (flusso, circuitazione, potenziale) che useremo per i campi elettrici
-e magnetici.
+principali (flusso, circuitazione, potenziale) per lo studio dei campi. Ho
+quindi usato questi strumenti per introdurre i campi elettrici e magnetici e le
+loro caratteristiche principali. Alcuni dettagli tecnici (che però non ritengo rilevanti
+culturalmente) li ho saltati ripromettendomi di rivederli nel prossimo anno
+scolastico.
 
 Per quanto riguarda matematica direi che vi potete concentrare sul ripasso ed il
 consolidamento del calcolo combinatorio e della teoria delle probabilità.
@@ -132,14 +140,16 @@ di applicazioni a problemi e paradossi complessi. Al momento potete dare
 un'occhiata agli appunti ed al libro, vi ho anche inserito alcuni video e
 continuerò a farlo, quindi rimanete collegati. Ho quindi chiuso l'argomento
 probabilità ed iniziato l'analisi delle funzioni reali con lo scopo di arrivare
-entro la fine dell'anno alla definizione ed al calcolo dei limiti.
+entro la fine dell'anno alla definizione ed al calcolo dei limiti. Ho saltato
+alcune questioni secondarie che sarà mia cura riprendere (se riterrò necessario)
+il prossimo anno scolastico.
 
 ## Video
 
 ### Matematica
 * [Ripasso del calcolo cobinatorio](https://www.youtube.com/watch?v=L8nbrfrAlvw)
 * [Ripasso del ripasso di probabilità](https://www.youtube.com/watch?v=2sawn5v0JgE)
-* [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) (è un argomento nuovo, date un'occhiata per cominciare ad orientarvi, non è difficile).
+* [Introduzione alla formula di Bayes](https://www.youtube.com/watch?v=DW6Ay7TljC0) 
 * [Esecizi di probabilità 1](https://www.youtube.com/watch?v=1SiS1XUQcKY)
 * [Esercizi di probabilità 2](https://www.youtube.com/watch?v=Wj-K61EIaLQ)
 * [Introduzione all'analisi](https://www.youtube.com/watch?v=QcdUCuNtCeQ)
@@ -153,6 +163,7 @@ entro la fine dell'anno alla definizione ed al calcolo dei limiti.
 * [Funzioni continue e algebra dei limiti finiti](https://www.youtube.com/watch?v=RvIvPliCe_s)
 * [Limiti infiniti](https://www.youtube.com/watch?v=LNoQ-JrVQWg)
 * [Forme indeterminate, limiti notevoli, teorema del confronto](https://www.youtube.com/watch?v=NWr4EKWPjkg)
+* [Asintoti e punti di discontinuità delle funzioni reali](https://youtu.be/_323Rwcnmd8)
 
 ### Fisica
 
@@ -215,11 +226,14 @@ riusciremo a fare, il mio impegno era e rimane quello di portarvi sereni
 all'esame senza tralasciare però la parte culturale del discorso.
 
 Per quanto riguarda matematica fate un ripasso generale di tutta l'analisi reale
-vista fino ad ora (limiti, derivate, integrali); vi ho aggiunto due video sul
+vista fino ad ora (limiti, derivate, integrali); ho aggiunto due video sul
 calcolo numerico che non abbiamo visto in classe, iniziate ad orientarvi.
 Gli argomenti sviluppati in remoto qui di seguito sono il calcolo di volumi (facile), 
-gli integrali impropri (facile) e le equazioni differenziali, che però taglierò molto, 
-la geometria analitica nello spazio. Rimanete con le orecchie dritte.
+gli integrali impropri (facile) e le equazioni differenziali (che però taglierò molto), 
+la geometria analitica nello spazio. In linea generale ho introdotto gli
+argomenti che ho ritenuto più rilevanti da un punto di vista culturale,
+eliminando alcuni dettagli e cercando di condensare il tutto in poche idee
+fondanti. 
 
 ## Video
 
@@ -255,6 +269,8 @@ la geometria analitica nello spazio. Rimanete con le orecchie dritte.
 * [Due nuvole all'orizzonte](https://youtu.be/p79EbMRU4j4)
 * [Il problema del corpo nero e la nascita dell'idea di quanto di luce](https://youtu.be/1Lg0EK9B-to) 
 * [Sviluppo dell'idea di fotone](https://www.youtube.com/watch?v=c0fbjDijHg0)
+* [Ipotesi di de Broglie, meccanica ondulatoria e atomo di Bohr](https://youtu.be/5cjAj05bb2E)
+* [Cenni sull'evoluzione della meccanica ondulatoria e la nascita della fisica quantistica](https://youtu.be/JXPHPAIwzPU)
 * Cenni sui cenni sulla crisi della fisica classica (video vecchi): 
 	* [parte1](https://www.youtube.com/watch?v=uH7dimfmhDY)
 	* [parte2](https://www.youtube.com/watch?v=-vgiI3hz9xU)
