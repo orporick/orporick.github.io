@@ -60,12 +60,26 @@ canali che per vostra comodità riassumo qui
 * [Introduzione alla programmazione - Parte IV](https://www.youtube.com/watch?v=gor0PYUtIBk)
 * [Introduzione alla porgrammazione - Parte V](https://www.youtube.com/watch?v=K64CiQFOBMU)
 
+## La crisi dei fondamenti della matematica tra '800 e '900
+* [Parte I](https://youtu.be/t9nTlLLfODw)
+* [Parte II](https://youtu.be/isi_w59IyjY)
+* [Parte III](https://youtu.be/kGltnWzKRsE)
+
+## L'astrofisica spiegata al mio gatto
+* [Parte I](https://youtu.be/4GhlsIIqvhM)
+* [Parte II](https://youtu.be/j41j_MNkLck)
+
+
 ## Lezioni trasversali
 
 * [I punti di Lagrange](https://www.youtube.com/watch?v=soDumqxqh6I)
 * [Rivisitare i vettori](https://www.youtube.com/watch?v=EhhY1ov8qCs)
 * [Due passi tra Borges, Pascal, Bruno, Poe e il teorema di Gauss](https://www.youtube.com/watch?v=ZdGQcEscq5A)
 * [Un ritratto di Tullio Levi Civita nel giorno della Liberazione](https://www.youtube.com/watch?v=haPrCymzVQE)
+* [L'equazione del razzo di Tsiolkovsky](https://youtu.be/U0OdUnq2g10)
+* [La Biblioteca di Babele di J.L.Borges](https://youtu.be/RUmbfH1vgkY)
+* [I diagrammi di Penrose-Cartan](https://youtu.be/kPEDRomzTqE)
+* [L'effetto fionda gravitazionale](https://youtu.be/4ovMucM7g_k)
 
 # Terza C
 
@@ -183,7 +197,7 @@ il prossimo anno scolastico.
 * [Forza di Lorentz e definizione elementare di corrente](https://www.youtube.com/watch?v=cqcodce9taQ)
 * [La famosa regola della mano destra](https://www.youtube.com/watch?v=xS5iWVBpt-Q)
 * [Alcune soluzioni semplici per il campo elettrico](https://www.youtube.com/watch?v=l-OJL2uP1es)
-
+* [Alcuni semplici moti di cariche elettriche in campi elettrici e magnetici](https://youtu.be/VTAm5VBNN8o) 
 ## Letture
 
 * [Problema di probabilità](http://orporick.github.io/imperfezioni/2015/03/04/problema-di-probabilita-in-5g/)
