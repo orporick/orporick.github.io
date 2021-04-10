@@ -1,4 +1,4 @@
-I"�2<div class="right"><i>
+I"X;<div class="right"><i>
 [...]
 Uno spazio di tempo<br />
 lungo alcuni minuti<br />
@@ -14,20 +14,20 @@ largo cinquantott'anni.<br /></i>
 <p>Caro Francesco, ti scrivo questa breve lettera dopo un silenzio durato
 mesi che sembrano anni. Mai come in questo periodo il tempo è sembrato
 inessenziale e forse anche per questo ho deciso di riprendere il
-discorso che avevamo iniziato sulla relatività. In una mia precedente
-lettera, se ricordi, abbiamo parlato delle necessità storiche e
+discorso che avevamo iniziato sulla relatività. In una <a href="http://orporick.github.io/lettere/2020/01/17/lettera-ad-un-figlio-su-un-idea/">mia precedente lettera</a>, se ricordi, abbiamo parlato delle necessità storiche e
 logiche che portarono Einstein a rivedere alcuni concetti fondamentali
 come il tempo, lo spazio, il concetto di simultaneità. Vorrei quindi
 provare a mostrarti in modo semplice e non tecnico un ragionamento che
 ci porterà nel cuore del problema del tempo. Non pretendo di fare
 molto in questa tardiva lettera piena di scarabocchi, ma l’intento è
 di farti vedere come partendo da alcune ipotesi e seguendo un
-ragionamento logica (anche se non eccessivamente formalizzato), sia
+ragionamento logico (anche se non eccessivamente formalizzato), sia
 una conseguenza naturale e obbligata rivedere la nostra idea ingenua
-di tempo.</p>
+di tempo. Prometto che utilizzerò pochissima matematica.</p>
 
 <p>Il punto di partenza sono i due postulati che Einstein enuncia nel suo
-articolo del 1905 e che riporto parafrasandoli leggermente</p>
+<a href="https://einsteinpapers.press.princeton.edu/vol2-trans/154">articolo del
+1905</a> e che riporto parafrasandoli leggermente</p>
 
 <ul>
   <li><strong>P1:</strong> le leggi della fisica sono le stesse in tutti i sistemi di
@@ -196,7 +196,7 @@ avverrà al tempo $t$ dato da</p>
 
 <p>Come ben sai un noto teorema elementare ci dice che la media
 geometrica tra due numeri è sempre minore della loro media aritmetica
-e le due medie coincidono solo se i due numeri sono uguali; nel nostro
+e le due medie coincidono solo se i due numeri sono uguali<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">2</a></sup>; nel nostro
 caso $t_1=t_2$ vuol dire che A e C coincidono con B e dunque i due
 osservatori sono fermi uno rispetto all’altro. Dunque se i due sono in
 movimento relativo, si deve avere per forza $T&gt;\tau$; avendo
@@ -204,9 +204,9 @@ sincronizzato gli orologi in O questa differenza di tempi non può
 essere imputata ad altro che ad un diverso scorrere del tempo in $1$ e
 $2$.</p>
 
-<p>Ecco il risultato finale a cui siamo giunti: se due osservatori
+<p>Ecco il risultato finale a cui siamo giunti: <strong>se due osservatori
 inerziali si muovono uno rispetto all’altro, il tempo scorre
-diversamente per loro.</p>
+diversamente per loro</strong>.</p>
 
 <p>Chiudo con alcune considerazioni finali e una promessa. Prima di tutto
 ribadisco di non aver fatto un discorso matematicamente rigoroso, ma
@@ -228,9 +228,24 @@ D, ma non per l’altro osservatore), ma come spero di dimostrarti in una
 futura lettera le cose da quel punto di vista sono del tutto coerenti
 con il principio di causalità.</p>
 
-<p>Il semplice risultato ottenuto in queste poche righe è solo
-qualitativo, abbiamo solamente stabilito una diseguaglianza tra i
-tempi. Ma se vorrai e se troverò le energie per farlo, ti mostrerò
+<p>Terzo, esistono altre due importanti conseguenze del semplice
+risultato che abbiamo ottenuto, conseguenze che cambiano il nostro
+modo di vedere lo spazio e le velocità. Si può infatti dimostrare che
+a causa della semplice disuguaglianza $T&gt;\tau$ ottenuta sopra le
+misure di distanza spaziale per i due osservatori non coincidono, se
+un oggetto viene misurato con una determinata lunghezza da $1$,
+l’osservatore $2$ vedrà un risultato diverso per la stessa misura.
+Inoltre si può dimostrare che il risultato ottenuto indica (non
+implica) che ci debba essere una velocità limite oltre la quale nessun
+osservatore inerziale può andare. Entrambi questi risultati sono
+importanti ed interessanti, ma temo di aver già abusato abbastanza del
+tuo tempo e della tua paziente attenzione, sono giorni difficili anche
+per te, lo so.</p>
+
+<p>Quarto, con il ragionamento contenuto in questa lettera non possiamo
+ancora fare  calcoli quantitativi, abbiamo ottenuto una disuguaglianza importante, ma non operativa.</p>
+
+<p>Se vorrai e se troverò le energie per farlo, ti mostrerò
 come portare avanti il discorso in termini quantitativi e, perché no,
 anche geometrici. Questa è la promessa di cui parlavo.</p>
 
@@ -239,10 +254,32 @@ un’altra notte un po’ in salita. Spero di vederti presto.</p>
 
 <p>Un abbraccio senza tempo, papà.</p>
 
+<p>P.S. 
+Un’ultima cosa. Immagina di avere due numeri reali $x$ e $y$ entrambi
+positivi. Se definiamo</p>
+
+\[v = \frac{x-y}{x+y}\]
+
+<p>allora è facile mostrare che il rapporto tra la media aritmetica e la
+media geometrica è</p>
+
+\[\frac{1}{\sqrt{1-v^2}}\]
+
+<p>Come suggerimento parti dal dimostrare che $xy$ si può scrivere come
+la differenza dei quadrati della semisomma e della semidifferenza di
+$x$ e $y$. Il resto è algebra. Questa relazione dimostra che la media
+geometrica è sempre minore di quella aritmetica (tranne che nel caso
+$x=y$) e inoltre ne fornisce un esplicito rapporto in termini di $v$.
+Ti lascio immaginare come questo entri nel discorso di queste due
+lettere. Un abbraccio.</p>
+
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
       <p>Non voglio appesantire il testo ulteriormente con questo tipo di considerazioni; un sistema di riferimento si dice inerziale se vale il principio di inerzia, ovvero se un corpo lasciato in quiete o in moto rettilineo uniforme permane nel suo stato di quiete o di moto rettilineo uniforme. La teoria di cui parliamo in questa lettera si limita ai soli sistemi inerziali e per questo viene spesso definita “speciale” o “ristretta”. Se avrò occasione di scriverti ancora mi piacerebbe però mostrarti come in realtà si possa superare questo limite della teoria. Infine bisognerebbe forse aggiungere un principio zero; è infatti facile dimostrare che se un sistema di riferimento è inerziale allora ogni altro sistema di riferimento che si muova di moto rettilineo uniforme rispetto a questi è anch’esso inerziale. Ma chi ci garantisce che ne esiste uno? Dobbiamo quindi immaginare di postulare che esista almeno un riferimento inerziale e da questo possiamo poi dedurre che ne esistono in realtà infiniti. Sono questioni però irrilevanti per quel che segue. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Perché non provi a dimostrarlo in un pomeriggio di pioggia? Non è difficile e ti può tornare utile anche in altri contesti. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>

@@ -259,6 +259,29 @@ un'altra notte un po' in salita. Spero di vederti presto.
 
 Un abbraccio senza tempo, papà.
 
+
+P.S. 
+Un'ultima cosa. Immagina di avere due numeri reali $x$ e $y$ entrambi
+positivi. Se definiamo 
+
+
+$$ v = \frac{x-y}{x+y} $$
+
+allora è facile mostrare che il rapporto tra la media aritmetica e la
+media geometrica è 
+
+$$ \frac{1}{\sqrt{1-v^2}} $$
+
+Come suggerimento parti dal dimostrare che $xy$ si può scrivere come
+la differenza dei quadrati della semisomma e della semidifferenza di
+$x$ e $y$. Il resto è algebra. Questa relazione dimostra che la media
+geometrica è sempre minore di quella aritmetica (tranne che nel caso
+$x=y$) e inoltre ne fornisce un esplicito rapporto in termini di $v$.
+Ti lascio immaginare come questo entri nel discorso di queste due
+lettere. Un abbraccio.
+
+
+
 [^1]: Non voglio appesantire il testo ulteriormente con questo tipo di considerazioni; un sistema di riferimento si dice inerziale se vale il principio di inerzia, ovvero se un corpo lasciato in quiete o in moto rettilineo uniforme permane nel suo stato di quiete o di moto rettilineo uniforme. La teoria di cui parliamo in questa lettera si limita ai soli sistemi inerziali e per questo viene spesso definita "speciale" o "ristretta". Se avrò occasione di scriverti ancora mi piacerebbe però mostrarti come in realtà si possa superare questo limite della teoria. Infine bisognerebbe forse aggiungere un principio zero; è infatti facile dimostrare che se un sistema di riferimento è inerziale allora ogni altro sistema di riferimento che si muova di moto rettilineo uniforme rispetto a questi è anch'esso inerziale. Ma chi ci garantisce che ne esiste uno? Dobbiamo quindi immaginare di postulare che esista almeno un riferimento inerziale e da questo possiamo poi dedurre che ne esistono in realtà infiniti. Sono questioni però irrilevanti per quel che segue.
 
 [^2]: Perché non provi a dimostrarlo in un pomeriggio di pioggia? Non è difficile e ti può tornare utile anche in altri contesti.
