@@ -1,4 +1,4 @@
-I"�'<p>Carissimo F,
+I"�'<p>Carissimo F,
 spero che tu stia bene e che questo nostro esilio forzato dai banchi e dalle nostre chiacchierate non
 ti sia di troppo peso. Recentemente mi è capitato di leggere un interessante articolo sui <a href="https://aaronswright.com/Wright2014AdvantagesBringingInfinity.pdf">diagrammi di
 Penrose-Carter</a> di cui ti avevo
@@ -79,11 +79,11 @@ tendono ad infinito anche $u$ e $v$ (essendo $a$ un valore finito); quindi, come
 compattificata tende al punto $(0,\pi)$. Per esempio ecco come appare la retta verticale $x=2$
 nel piano normale</p>
 
-<p><img src="http://localhost:4000/images/retta1.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/retta1.png" alt="My helpful screenshot" /></p>
 
 <p>e nel quadrato compattificato.</p>
 
-<p><img src="http://localhost:4000/images/retta2.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/retta2.png" alt="My helpful screenshot" /></p>
 
 <p>Forte vero? La curva viene distorta, ma rimane limitata nel quadrato (che per comodità ho disegnato
 insieme alla curva). Similmente possiamo vedere cosa succede ad una retta orizzontale; siccome in
@@ -92,11 +92,11 @@ v a $+\infty$, da cui $q$ e $p$ rispettivamente a $-\pi/2$ e $\pi/2$ e quindi il
 della curva diventa $(\pi, 0)$. Ecco infatti il grafico (ovviamente simmetrico rispetto al
 precedente) della retta orizzontale $y=2$</p>
 
-<p><img src="http://localhost:4000/images/rettao1.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/rettao1.png" alt="My helpful screenshot" /></p>
 
 <p>e della sua versione compattificata</p>
 
-<p><img src="http://localhost:4000/images/rettao2.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/rettao2.png" alt="My helpful screenshot" /></p>
 
 <p>Chiaramente possiamo non limitarci a rette e considerare grafici di funzioni qualsiasi. Consideriamo
 una funzione, per esempio, divergente, cioè che ha una $y$ che tende ad infinito (per esempio
@@ -112,22 +112,22 @@ soddisfa l’equazione $x’+y’ = \pi$).</p>
 qualsiasi polinomio e quindi anche di $x$; questo è il grafico della funzione nel normale piano
 reale</p>
 
-<p><img src="http://localhost:4000/images/esp1.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/esp1.png" alt="My helpful screenshot" /></p>
 
 <p>e questo è il grafico compattificato</p>
 
-<p><img src="http://localhost:4000/images/esp2.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/esp2.png" alt="My helpful screenshot" /></p>
 
 <p>che come vedi tende al vertice $(0,\pi)$ (esercizio: come mai la curva “parte” dal vertice
 $(-\pi,0)$?).</p>
 
 <p>Per simmetria la funzione logaritmica avrà questo aspetto nel piano reale</p>
 
-<p><img src="http://localhost:4000/images/log1.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/log1.png" alt="My helpful screenshot" /></p>
 
 <p>e questo in quello compattificato</p>
 
-<p><img src="http://localhost:4000/images/log2.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/log2.png" alt="My helpful screenshot" /></p>
 
 <p>Come vedi, divergendo più lentamente di $x$, la curva tende verso il vertice $(\pi,0)$ del quadrato.</p>
 
@@ -138,11 +138,11 @@ $(-\pi,0)$?).</p>
 <p>che ha un asintoto orizzontale inclinato di $45^\circ$ (dimostralo per esercizio). Ecco la funzione
 (per semplicità solo per $x$ positive) nel piano normale</p>
 
-<p><img src="http://localhost:4000/images/obl1.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/obl1.png" alt="My helpful screenshot" /></p>
 
 <p>ed ecco la versione compattificata.</p>
 
-<p><img src="http://localhost:4000/images/obl2.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/obl2.png" alt="My helpful screenshot" /></p>
 
 <p>Noterai che, come anticipato, visto l’andamento asintotico di questa funzione la curva tende a
 finire sul bordo del quadrato.</p>
@@ -164,6 +164,6 @@ i diagrammi di Penrose-Cartan saranno qualcosa di più di un semplice divertimen
 Dimenticavo, ti lascio da interpretare questo grafico nel quadrato compattificato, sei in grado di
 capire da che tipo di funzione viene? Buon divertimento.</p>
 
-<p><img src="http://localhost:4000/images/mistero.png" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/mistero.png" alt="My helpful screenshot" /></p>
 
 :ET

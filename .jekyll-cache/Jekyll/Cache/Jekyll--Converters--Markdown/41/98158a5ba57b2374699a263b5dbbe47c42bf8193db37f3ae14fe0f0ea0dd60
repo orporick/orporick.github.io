@@ -1,4 +1,4 @@
-I"�%<div class="right"><i>Sapiente è chi getta luce nell'oscurità,<br />
+I"�%<div class="right"><i>Sapiente è chi getta luce nell'oscurità,<br />
 chi scioglie i nodi, chi manifesta l'ignoto,<br />
 chi precisa l'incerto.</i><br />
 <b>Giorgio Colli</b></div>
@@ -116,7 +116,7 @@ cui abbiamo parlato prima e la retta passante per l’origine di coefficiente
 angolare $\phi$ (in blu l’orbita, in nero la retta)</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/aureo-1.svg" />
+<img src="http://orporick.github.io/images/aureo-1.svg" />
 </p>
 
 <p>Come vedi i punti sembrano tendere rapidamente verso la retta, mostrando
@@ -127,7 +127,7 @@ partendo da un altro punto, $(2,1)$ per esempio, l’andamento appare simile
 (in rosso l’orbita, in nero sempre la retta)</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/aureo-2.svg" />
+<img src="http://orporick.github.io/images/aureo-2.svg" />
 </p>
 
 <p>Sembra dunque che la sequenza di Fibonacci non sia l’unica che fornisca al

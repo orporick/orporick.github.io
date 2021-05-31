@@ -1,4 +1,4 @@
-I"X;<div class="right"><i>
+I"�;<div class="right"><i>
 [...]
 Uno spazio di tempo<br />
 lungo alcuni minuti<br />
@@ -31,7 +31,7 @@ di tempo. Prometto che utilizzerò pochissima matematica.</p>
 
 <ul>
   <li><strong>P1:</strong> le leggi della fisica sono le stesse in tutti i sistemi di
-  riferimento inerziali<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>.</li>
+  riferimento inerziali<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</li>
   <li><strong>P2:</strong> la velocità della luce nel vuoto  è la stessa in tutti i sistemi di
   riferimento inerziali indipendentemente da come la luce viene
   generata o rilevata.</li>
@@ -50,7 +50,7 @@ un ausilio visuale.</p>
 <p>Un esempio di diagramma spaziotemporale è il seguente:</p>
 
 <p align="center"> 
-<img width="600" src="http://localhost:4000/images/tempo1.jpg" />
+<img width="600" src="http://orporick.github.io/images/tempo1.jpg" />
 </p>
 
 <p>Sono rappresentati tre osservatori inerziali con tre rette etichettate
@@ -82,7 +82,7 @@ velocità di $2$ rispetto agli altri, ma essendo inerziale sappiamo che
 rappresentata dal seguente diagramma spaziotemporale:</p>
 
 <p align="center"> 
-<img width="500" src="http://localhost:4000/images/tempo2.jpg" />
+<img width="500" src="http://orporick.github.io/images/tempo2.jpg" />
 </p>
 
 <p>Abbiamo due osservatori inerziali $1$ e $2$ che si incontrano ad un
@@ -123,7 +123,7 @@ invece con $\tau$ il tempo dell’evento $B$ misurato con l’orologio di
 $2$.</p>
 
 <p align="center"> 
-<img width="500" src="http://localhost:4000/images/tempo3.jpg" />
+<img width="500" src="http://orporick.github.io/images/tempo3.jpg" />
 </p>
 
 <p>Il mio scopo è di mostrarti che le relazioni tra questi tempi non
@@ -175,7 +175,7 @@ sia simultaneo all’evento D che si trova esattamente a metà strada tra
 A e C, come nel diagramma che segue</p>
 
 <p align="center"> 
-<img width="500" src="http://localhost:4000/images/tempo4.jpg" />
+<img width="500" src="http://orporick.github.io/images/tempo4.jpg" />
 </p>
 
 <p>L’evento D avviene esattamente a metà strada tra A e C e dunque
@@ -196,7 +196,7 @@ avverrà al tempo $t$ dato da</p>
 
 <p>Come ben sai un noto teorema elementare ci dice che la media
 geometrica tra due numeri è sempre minore della loro media aritmetica
-e le due medie coincidono solo se i due numeri sono uguali<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">2</a></sup>; nel nostro
+e le due medie coincidono solo se i due numeri sono uguali<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>; nel nostro
 caso $t_1=t_2$ vuol dire che A e C coincidono con B e dunque i due
 osservatori sono fermi uno rispetto all’altro. Dunque se i due sono in
 movimento relativo, si deve avere per forza $T&gt;\tau$; avendo

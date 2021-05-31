@@ -1,11 +1,11 @@
-I";<p>Cara S.</p>
+I"K<p>Cara S.</p>
 
 <p>spero tu stia bene, mi ha fatto piacere ricevere tue notizie e sono sicuro che
 in California ti troverai benissimo. Mi hai chiesto della strana immagine che
 hai visto ieri sul mio profilo, te la ripropongo qui di seguito.</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/exp_1.png" />
+<img src="http://orporick.github.io/images/exp_1.png" />
 </p>
 
 <p>Ho generato questa immagine dopo aver letto un <a href="https://www.maths.unsw.edu.au/about/exponential-sums">interessante articolo online</a> sulle <em>somme esponenziali</em>.
@@ -29,7 +29,7 @@ i vertici di un poligono regolare centrato nell’origine. Per esempio le $8$
 radici ottave di $1$ sono rappresentate dai vertici del seguente ottagono:</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/exp_2.png" />
+<img src="http://orporick.github.io/images/exp_2.png" />
 </p>
 
 <p>Cosa succede se sommiamo le radici di $1$? Intanto se le sommiamo tutte è facile
@@ -40,7 +40,7 @@ somme parziali si dispongono di nuovo sui vertici di un poligono che parte e
 ritorna in $0$; in figura l’esempio con le radici ottave.</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/exp_3.png" />
+<img src="http://orporick.github.io/images/exp_3.png" />
 </p>
 
 <p>Inoltre continuando a sommarle, siccome si riparte da zero, si ripassa attraverso gli stessi punti.</p>
@@ -71,7 +71,7 @@ riesci a capire il giorno?), a titolo di esempio ecco cosa viene fuori per il 25
 dicembre del 2019.</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/exp_4.png" />
+<img src="http://orporick.github.io/images/exp_4.png" />
 </p>
 
 <p>Spero ti venga voglia di esplorare autonomamente questo tipo di territorio, se

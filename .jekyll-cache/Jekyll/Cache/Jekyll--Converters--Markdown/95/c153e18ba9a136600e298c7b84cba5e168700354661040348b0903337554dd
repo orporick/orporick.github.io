@@ -1,4 +1,4 @@
-I"<p>Cara M,
+I" <p>Cara M,
 come promesso ti scrivo due righe sul problema del biliardo circolare che vi ho lasciato in classe
 qualche settimana fa. Provo a dimostrarti una affermazione (teorema) più forte di quello che vi
 avevo posto come esercizio per casa; se ricordi vi avevo chiesto di dimostrare che in un biliardo
@@ -9,7 +9,7 @@ lunghezza fissa $d$ al centro, con $d$ che dipende solo dal tiro iniziale ed è 
 è lungo un diametro. Facendo riferimento alla figura</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/riflessione3.svg" />
+<img src="http://orporick.github.io/images/riflessione3.svg" />
 </p>
 
 <p>immagina di lanciare la palla da $A$ (senza perdere in generalità partiamo dal bordo, ma tutto
@@ -37,14 +37,14 @@ simulazioni. In questa prima la palla che parte dal punto a sinistra e forma un 
 rispetto al diametro orizzontale percorre una traiettoria periodica a forma di triangolo equilatero.</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/billiard-1.svg" />
+<img src="http://orporick.github.io/images/billiard-1.svg" />
 </p>
 
 <p>In questa seconda l’angolo è di $45^\circ$ e di nuovo la traiettoria è periodica, ma con quattro
 lati (un quadrato).</p>
 
 <p align="center"> 
-<img src="http://localhost:4000/images/billiard-0.svg" />
+<img src="http://orporick.github.io/images/billiard-0.svg" />
 </p>
 
 <p>Ti lascio come esercizio trovare che condizione deve soddisfare l’angolo di partenza affinché la
@@ -53,15 +53,15 @@ traiettoria sia periodica, ovvero sia un poligono regolare di $n$ lati.</p>
 <p>Se l’angolo non soddisfa la condizione che hai trovato, la traiettoria risulta non periodica; per
 esempio ecco un angolo di $31^\circ$ gradi con un colpo a $20$ sponde.</p>
 <p align="center"> 
-<img src="http://localhost:4000/images/billiard-2.svg" />
+<img src="http://orporick.github.io/images/billiard-2.svg" />
 </p>
 <p>Lo stesso angolo con un colpo a $200$ sponde.</p>
 <p align="center"> 
-<img src="http://localhost:4000/images/billiard-3.svg" />
+<img src="http://orporick.github.io/images/billiard-3.svg" />
 </p>
 <p>Infine lo stesso angolo con un colpo a $800$ sponde.</p>
 <p align="center"> 
-<img src="http://localhost:4000/images/billiard-4.svg" />
+<img src="http://orporick.github.io/images/billiard-4.svg" />
 </p>
 
 <p>Si vede chiaramente il cerchio interno entro il quale la traiettoria non entra mai (tecnicamente è

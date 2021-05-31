@@ -1,4 +1,4 @@
-I"G<p>Carissimo P, ti scrivo poche righe, come promesso, per aggiornarti sulla
+I"K<p>Carissimo P, ti scrivo poche righe, come promesso, per aggiornarti sulla
 dimostrazione di cui ti parlavo in classe. Come ti ho accennato, la lettura 
 di un <a href="https://www.cambridge.org/it/academic/subjects/mathematics/abstract-analysis/orthogonal-polynomials-and-continued-fractions-eulers-point-view?format=HB&amp;isbn=9780521854191">libro interessante</a> mi ha fatto scoprire una dimostrazione
 dell’irrazionalità della lunghezza della diagonale di un quadrato che trovo
@@ -10,7 +10,7 @@ per aver portato la conoscenza dell’irrazionalità agli uomini.</p>
 <p>Considera dunque il quadrato qui rappresentato e sia la lunghezza di $DA$ pari a
 $a$ e di $DB$ pari a $i$; siamo interessati al rapporto $i/a$.</p>
 
-<p><img src="http://localhost:4000/images/irra.svg" alt="My helpful screenshot" /></p>
+<p><img src="http://orporick.github.io/images/irra.svg" alt="My helpful screenshot" /></p>
 
 <p>Per trovarlo seguiamo 
 questa costruzione: sulla diagonale $DB$ individua un punto $E$ tale che $DE$
