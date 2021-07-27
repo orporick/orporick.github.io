@@ -2,6 +2,8 @@
 layout: post
 title: "Lettera sull'irrazionalità"
 published: true
+tags: [matematica]
+categories: Lettere
 ---
 Carissima A, ti scrivo queste poche righe in questa lunga pausa dal
 reale che molti chiamano estate. Ci sei mancata a scuola, abbiamo a
