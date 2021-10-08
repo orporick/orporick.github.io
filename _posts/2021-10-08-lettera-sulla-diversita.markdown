@@ -47,7 +47,7 @@ consapevoli del vostro percorso, dei vostri (tanti) talenti. La
 matematica, lo dico sempre, è solo una scusa. Ieri mattina, in classe,
 avete ascoltato le mie parole con più attenzione, avete accolto il mio
 racconto, avete accettato con naturalezza la mia diversità di
-autistico. L'ho detto, ho usato una parola potente, importante. E sono
+autistico af. L'ho detto, ho usato una parola potente, importante. E sono
 felice di averlo fatto con voi. L'avete presa, raccolta, so che la
 custodirete con affetto come io custodisco con affetto ogni vostra
 meravigliosa diversità. Non abbiate paura mai delle parole, non
