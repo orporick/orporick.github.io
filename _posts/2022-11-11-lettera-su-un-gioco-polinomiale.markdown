@@ -6,14 +6,13 @@ tags: [matematica]
 categories: Lettere
 ---
 
+<p>
 
 *Lo ricordo nell'atrio dell
 albergo con un libro di matematica in mano, guardando
 a volte i colori irrecuperabili del cielo.
 Una sera, stavamo parlando del sistema di
-numerazione duodecimale (in cui il dodici si scrive dieci).*
-
-**Jorge Luis Borges**
+numerazione duodecimale (in cui il dodici si scrive dieci).*, **Jorge Luis Borges**
 
 
 Caro B, ti scrivo queste poche righe per dirti che sono contento di aver
@@ -51,8 +50,7 @@ base $p(1)$ fornisce i coefficienti cercati; per completare, il **teorema di rap
 
 Non mi resta che augurarti tutto il bene di cui sono capace, sono certo che tutto si risolverà.
 
-[^1]: In realtà ci sono molte versioni di questo gioco e si può fare in modo di estenderlo facilmente anche al caso di monomi, ma facciamo la 
-versione più semplice.
+[^1]: In realtà ci sono molte versioni di questo gioco e si può fare in modo di estenderlo facilmente anche al caso di monomi, ma facciamo la versione più semplice.
 
 [^2]:Vedi ad esempio pagina 8 in **Number Theory** di G.E.Andrews, Dover Publications.
 
