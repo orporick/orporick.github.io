@@ -43,7 +43,7 @@ Non mi resta che augurarti tutto il bene di cui sono capace con un breve passagg
 albergo con un libro di matematica in mano, guardando
 a volte i colori irrecuperabili del cielo.
 Una sera, stavamo parlando del sistema di
-numerazione duodecimale (in cui il dodici si scrive dieci)."*
+numerazione duodecimale (in cui il dodici si scrive dieci) [...]"*
 
 [^1]: In realtà ci sono molte versioni di questo gioco e si può fare in modo di estenderlo facilmente anche al caso di monomi, ma facciamo la versione più semplice.
 
