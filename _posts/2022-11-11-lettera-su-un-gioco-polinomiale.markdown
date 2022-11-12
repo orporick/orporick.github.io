@@ -7,16 +7,14 @@ categories: Lettere
 ---
 
 
-<div class="right"><i>Lo ricordo nell'atrio dell
+*Lo ricordo nell'atrio dell
 albergo con un libro di matematica in mano, guardando
 a volte i colori irrecuperabili del cielo.
 Una sera, stavamo parlando del sistema di
-numerazione duodecimale (in cui il dodici si scrive dieci).</i><br>
-<b>Jorge Luis Borges</b></div>
+numerazione duodecimale (in cui il dodici si scrive dieci).*
 
-<br>
-<hr class="style-eight">
-<br>
+**Jorge Luis Borges**
+
 
 Caro B, ti scrivo queste poche righe per dirti che sono contento di aver
 sentito la tua voce in classe, qualche giorno fa. Ci vuole coraggio ad
@@ -55,6 +53,7 @@ Non mi resta che augurarti tutto il bene di cui sono capace, sono certo che tutt
 
 [^1]: In realtà ci sono molte versioni di questo gioco e si può fare in modo di estenderlo facilmente anche al caso di monomi, ma facciamo la 
 versione più semplice.
+
 [^2]:Vedi ad esempio pagina 8 in **Number Theory** di G.E.Andrews, Dover Publications.
 
 
