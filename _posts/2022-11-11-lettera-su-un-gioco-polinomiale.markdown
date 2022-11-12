@@ -8,7 +8,7 @@ categories: Lettere
 
 
 <div class="right"><i>Lo ricordo nell'atrio dell
-albergo<br>con un libro di matematica in mano, guardando
+albergo con un libro di matematica in mano, guardando
 a volte i colori irrecuperabili del cielo.
 Una sera, stavamo parlando del sistema di
 numerazione duodecimale (in cui il dodici si scrive dieci).</i><br>
@@ -17,8 +17,6 @@ numerazione duodecimale (in cui il dodici si scrive dieci).</i><br>
 <br>
 <hr class="style-eight">
 <br>
-
-<p>
 
 Caro B, ti scrivo queste poche righe per dirti che sono contento di aver
 sentito la tua voce in classe, qualche giorno fa. Ci vuole coraggio ad
