@@ -1,10 +1,11 @@
----
-layout: post
-title: "Lettera su un gioco polinomiale"
-published: true
-tags: [matematica]
-categories: Lettere
----
+I"<p>
+
+*Lo ricordo nell'atrio dell
+albergo con un libro di matematica in mano, guardando
+a volte i colori irrecuperabili del cielo.
+Una sera, stavamo parlando del sistema di
+numerazione duodecimale (in cui il dodici si scrive dieci).*, **Jorge Luis Borges**
+
 
 Caro B, ti scrivo queste poche righe per dirti che sono contento di aver
 sentito la tua voce in classe, qualche giorno fa. Ci vuole coraggio ad
@@ -39,11 +40,7 @@ Qualche breve commento. La richiesta di $p(1)$, che è la somma dei coefficienti
 più grande di ciascun coefficiente del polinomio. Una volta ottenuta tale base, $p(p(1))$ è un numero la cui espansione nella
 base $p(1)$ fornisce i coefficienti cercati; per completare, il **teorema di rappresentazione in base** garantisce che lo sviluppo di $p(p(1))$ in base $p(1)$ esiste ed è unico[^2]. 
 
-Non mi resta che augurarti tutto il bene di cui sono capace con un breve passaggio tratto da un racconto di Jorge Luis Borges a cui tengo molto:*"Lo ricordo nell'atrio dell
-albergo con un libro di matematica in mano, guardando
-a volte i colori irrecuperabili del cielo.
-Una sera, stavamo parlando del sistema di
-numerazione duodecimale (in cui il dodici si scrive dieci)."*
+Non mi resta che augurarti tutto il bene di cui sono capace, sono certo che tutto si risolverà.
 
 [^1]: In realtà ci sono molte versioni di questo gioco e si può fare in modo di estenderlo facilmente anche al caso di monomi, ma facciamo la versione più semplice.
 
@@ -51,3 +48,5 @@ numerazione duodecimale (in cui il dodici si scrive dieci)."*
 
 
 
+</p>
+:ET
