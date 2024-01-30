@@ -15,7 +15,7 @@ layout: default
 
 Benvenuti. 
 
-Mi chiamo Riccardo Giannitrapani ed insegno Matematica e Fisica presso
+Mi chiamo Riccardo Giannitrapani e insegno Matematica e Fisica presso
 il [Liceo Scientifico "G.Marinelli" di Udine](http://www.liceomarinelli.gov.it).
 
 In questo piccolo sito raccolgo tutto il materiale e le informazioni
