@@ -22,7 +22,7 @@ In questo piccolo sito raccolgo tutto il materiale e le informazioni
 sui corsi che tengo presso la mia scuola, le attività didattiche ed in
 generale tutto ciò che attiene al mio ruolo di insegnante. 
 
-Raccolgo qui anche un piccolo blog di idee ed appunti sfusi sull'insegnamento,
+Raccolgo qu anche un piccolo blog di idee ed appunti sfusi sull'insegnamento,
 la matematica e la fisica, errori ed orrori. Se non nel contenuto, lo spirito di queste idee è
 confluito, almeno parzialmente, in un libro, ["Un labirinto incerto. Appunti per una poetica della
 matematica"](https://www.librimondadori.it/libri/un-labirinto-incerto-riccardo-giannitrapani/) edito da Mondadori.
