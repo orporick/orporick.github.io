@@ -41,7 +41,7 @@ icon = "xda"
 url = "https://twitter.com/orporick/"
 
 [[params.socialIcons]]
-name = "Curriculum Vitae"
+name = "cv"
 icon = "cv"
 url = "cv.pdf"
 
@@ -62,7 +62,7 @@ url = "https://facebook.com/riccardo.giannitrapani"
 
 
 [[params.socialIcons]]
-name = "Google Scholar"
+name = "GoogleScholar"
 icon = "googlescholar"
 url = "https://scholar.google.com/citations?hl=it&user=C6GtOKoAAAAJ"
 
