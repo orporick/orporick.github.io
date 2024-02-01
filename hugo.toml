@@ -34,9 +34,10 @@ Raccolgo qui **[un po' di idee e di materiali](/posts)** in ordine sparso sull'i
 
 Se non nel contenuto, lo spirito di queste idee è confluito, almeno parzialmente, in un libro: **[Un Labirinto Incerto. Appunti per una poetica della matematica](https://www.mondadori.it/libri/un-labirinto-incerto-riccardo-giannitrapani/)** edito da Mondadori.\
   """
+
 [[params.socialIcons]]
 name = "Email"
-icon = "email"
+icon = "xda"
 url = "https://twitter.com/orporick/"
 
 [[params.socialIcons]]
