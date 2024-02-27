@@ -28,7 +28,7 @@ paginate=10 # articles per page
   imageUrl="images/profilo1.jpg"
   imageWidth = 250
   imageHeight = 250
-  Content = """Mi chiamo Riccardo Giannitrapani e insegno matematica e fisica in un Liceo Scientifico.\n
+  Content = """Mi chiamo Riccardo Giannitrapani, insegno matematica e fisica in un Liceo Scientifico.\n
 
 Raccolgo qui **[un po' di idee e di materiali](/posts)** in ordine sparso sull'insegnamento, la matematica, la fisica, i miei gatti, le mie piccole e gigantesche ossessioni.\n
 
