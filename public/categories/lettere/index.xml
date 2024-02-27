@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lettere on Matematichevole</title>
+    <link>http://localhost:1313/categories/lettere/</link>
+    <description>Recent content in Lettere on Matematichevole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/lettere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lettera sull&#39;irrazionalità</title>
+      <link>http://localhost:1313/posts/lettera-sull-irrazionalita/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/lettera-sull-irrazionalita/</guid>
+      <description>Carissima A, ti scrivo queste poche righe in questa lunga pausa dal reale che molti chiamano estate. Ci sei mancata a scuola, abbiamo a lungo guardato il tuo banco temporaneamente vuoto, lo abbiamo immaginato abitato, siamo rimasti serenamente in attesa. Mi piace la parola temporaneamente, odora di futuro, di cambiamento, di risalita. Settembre è vicino, non abbiamo fretta, quando tornerai riprenderemo il discorso nel punto esatto in cui lo abbiamo interrotto.</description>
+    </item>
+  </channel>
+</rss>

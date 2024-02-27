@@ -7,7 +7,7 @@ theme = 'PaperMod'
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
-paginate=3 # articles per page
+paginate=10 # articles per page
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
