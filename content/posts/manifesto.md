@@ -2,8 +2,8 @@
 title = "Manifesto per un altro insegnamento della matematica"
 author = ["Riccardo Giannitrapani"]
 publishDate = 2018-04-30T00:00:00+02:00
-lastmod = 2024-02-01T22:45:57+01:00
-tags = ["math"]
+lastmod = 2024-02-28T11:27:49+01:00
+tags = ["math", "manifesto"]
 draft = false
 +++
 
