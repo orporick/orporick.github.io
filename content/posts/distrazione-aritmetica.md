@@ -1,8 +1,8 @@
 +++
 title = "Distrazione Aritmetica"
 author = ["Riccardo Giannitrapani"]
-publishDate = 2020-04-30T00:00:00+02:00
-lastmod = 2024-02-03T14:48:32+01:00
+publishDate = 2022-04-30T00:00:00+02:00
+lastmod = 2024-10-15T18:26:12+02:00
 tags = ["math"]
 categories = ["distrazioni"]
 draft = false
@@ -43,6 +43,7 @@ Valgono allora le seguenti proposizioni[^fn:3]:
 ****Proposizione 1****
 
 Se \\(x\in\mathbb{Q}^+\_0\\) è ai minimi termini, allora anche \\(D(x)\\) e \\(S(x)\\) lo sono.
+
 **Dim**
 Il numero razionale positivo non nullo \\(p/q\\) è ai minimi termini se
 \\(p\\) e \\(q\\) sono primi tra loro, ovvero \\(1\\) è l'unico divisore comune.

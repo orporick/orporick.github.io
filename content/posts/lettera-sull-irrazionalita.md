@@ -2,7 +2,7 @@
 title = "Lettera sull'irrazionalità"
 author = ["Riccardo Giannitrapani"]
 publishDate = 2021-07-30T00:00:00+02:00
-lastmod = 2024-02-03T14:53:23+01:00
+lastmod = 2024-10-15T18:26:12+02:00
 tags = ["math"]
 categories = ["lettere"]
 draft = false

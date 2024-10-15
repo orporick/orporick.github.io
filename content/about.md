@@ -2,7 +2,7 @@
 title = "About"
 author = ["Riccardo Giannitrapani"]
 publishDate = 2024-01-30T00:00:00+01:00
-lastmod = 2024-02-01T21:58:02+01:00
+lastmod = 2024-10-15T18:26:11+02:00
 tags = ["misc"]
 draft = false
 +++

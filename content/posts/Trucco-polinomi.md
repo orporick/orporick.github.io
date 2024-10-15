@@ -3,9 +3,9 @@ title = "Trucco divertente sui polinomi"
 author = ["Riccardo Giannitrapani"]
 summary = "Lettera ad uno studente su un trucco polinomiale."
 publishDate = 2022-11-11T00:00:00+01:00
-lastmod = 2024-02-01T21:56:09+01:00
+lastmod = 2024-10-15T18:26:11+02:00
 tags = ["math"]
-categories = ["notes"]
+categories = ["lettere"]
 draft = false
 +++
 
@@ -45,7 +45,7 @@ base \\(7\\); ovviamente per numeri così alti avrai bisogno di un po' di
 tempo (o di un piccolo aiuto informatico), ma alla fine otterrai il
 seguente risultato
 
-\\[ 17845 = 1\cdot 7^5+3\cdot 7^3+ 1\cdot 7^1 + 2\cdot 7^0 \\]
+\\[  17845 = 1\cdot 7^5+3\cdot 7^3+ 1\cdot 7^1 + 2\cdot 7^0 \\]
 
 che è appunto lo sviluppo di \\(17845\\) in base \\(7\\). Allora il polinomio
 cercato è
