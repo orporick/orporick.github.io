@@ -1,6 +1,6 @@
 +++
-title="Lettera ai miei studenti ed alle mie studenti sullo ius soli"
-author=["Riccardo Giannitrapani"]
+title= "Lettera ai miei studenti ed alle mie studenti sullo ius soli"
+author= ["Riccardo Giannitrapani"]
 publishDate = 2017-07-01T00:00:00+02:00
 lastmod = 2025-02-04T21:36:29+02:00
 tags = ["physics"]
@@ -17,7 +17,7 @@ pochi avreste avuto voglia di leggere. Perdonate l'inganno di un prof che sente 
 Come sapete le orbite chiuse seguite da un pianeta intorno al sole sono ellissi (prima legge di
 Keplero), come in figura
 
-{{< figure src="/ox-hugo/ellipse-1.png>}}
+{{< figure src="/ox-hugo/ellipse-1.png" >}}
 
 
 dove il sole occupa il fuoco $F$.
